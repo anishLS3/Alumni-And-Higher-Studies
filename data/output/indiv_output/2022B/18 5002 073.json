@@ -1,0 +1,49 @@
+{
+    "register_num": "18 5002 073",
+    "profile_name": "RAJITHA LAKSHMI",
+    "profile_img": "https://media.licdn.com/dms/image/C5603AQFk3dRHEPGivw/profile-displayphoto-shrink_400_400/0/1645718683404?e=1715817600&v=beta&t=-JoKUCWdBk2KRiOBgqbxBD2Rd_-HjfJMpQ7b4mzOlHQ",
+    "profile_job": "Backend Developer at SuperOps.ai",
+    "experience": [
+        {
+            "big": "SuperOps.ai",
+            "exp": "2 yrs 3 mos",
+            "small": null,
+            "sub_exp": [
+                {
+                    "big": "Junior Software Engineer",
+                    "exp": "Jun 2022 - Present \u00b7 1 yr 10 mos",
+                    "small": "Full-time\nChennai, Tamil Nadu, India"
+                },
+                {
+                    "big": "Intern",
+                    "exp": "Jan 2022 - Jun 2022 \u00b7 6 mos",
+                    "small": "Internship\nTamil Nadu, India"
+                }
+            ]
+        }
+    ],
+    "skills": [
+        "Git",
+        "Bash",
+        "Powershell",
+        "Linux",
+        "Data Structures",
+        "C (Programming Language)",
+        "C++",
+        "Python (Programming Language)",
+        "Tkinter",
+        "Go (Programming Language)"
+    ],
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2018 - 2022",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+            "desc": null
+        }
+    ]
+}

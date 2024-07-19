@@ -1,0 +1,74 @@
+{
+    "register_num": "18 5002 111",
+    "profile_name": "Swetha V",
+    "profile_img": null,
+    "profile_job": "Data Engineer at Barclays",
+    "experience": [
+        {
+            "big": "Barclays",
+            "exp": "Full-time \u00b7 1 yr 8 mos",
+            "small": null,
+            "sub_exp": [
+                {
+                    "big": "Data Engineer",
+                    "exp": "Mar 2023 - Present \u00b7 1 yr 1 mo",
+                    "small": null
+                },
+                {
+                    "big": "Graduate Analyst",
+                    "exp": "Aug 2022 - May 2023 \u00b7 10 mos",
+                    "small": null
+                }
+            ]
+        }
+    ],
+    "skills": [
+        "SQL",
+        "Ab Initio",
+        "Python (Programming Language)",
+        "C++",
+        "Machine Learning",
+        "Mobile Applications",
+        "Singing",
+        "Data Structures",
+        "Deep Learning",
+        "C (Programming Language)",
+        "Adobe Illustrator",
+        "Microsoft Excel",
+        "Microsoft Word",
+        "Microsoft PowerPoint",
+        "HTML",
+        "Databases",
+        "Java",
+        "Management",
+        "Communication",
+        "Public Speaking"
+    ],
+    "awards": null,
+    "volunteering": [
+        {
+            "big": "Volunteer",
+            "mid": "youth red cross",
+            "dur": "Jun 2018 - Present",
+            "exp": "5 yrs 10 mos",
+            "img": null
+        }
+    ],
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2018 - 2022",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+            "desc": null
+        },
+        {
+            "big": "Vyasa Vidyalaya",
+            "mid": null,
+            "dur": null,
+            "img_src": null,
+            "desc": null
+        }
+    ]
+}

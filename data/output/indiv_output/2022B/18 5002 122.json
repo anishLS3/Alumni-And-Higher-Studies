@@ -1,0 +1,60 @@
+{
+    "register_num": "18 5002 122",
+    "profile_name": "Vinish Elangovan",
+    "profile_img": "https://media.licdn.com/dms/image/D5603AQHzAoP_-hH21A/profile-displayphoto-shrink_400_400/0/1697396997624?e=1715817600&v=beta&t=Ap1lWR1UBdxaaXMUGHJhYdJvdlNnxEnRhWBbsPQKX1Q",
+    "profile_job": "Software Engineer At Bank Of America",
+    "experience": [
+        {
+            "big": "Bank of America",
+            "exp": "Full-time \u00b7 2 yrs",
+            "small": "Hybrid",
+            "sub_exp": [
+                {
+                    "big": "Software Engineer 1 B",
+                    "exp": "Apr 2023 - Present \u00b7 1 yr",
+                    "small": "Chennai, Tamil Nadu, India"
+                },
+                {
+                    "big": "Apprentice",
+                    "exp": "Apr 2022 - Apr 2023 \u00b7 1 yr 1 mo",
+                    "small": "Chennai, Tamil Nadu, India"
+                }
+            ]
+        }
+    ],
+    "skills": [
+        "CSS3",
+        "HTML5",
+        "Mean Stack",
+        "Java",
+        "JavaScript",
+        "C++",
+        "Python"
+    ],
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor's degree, Information Technology",
+            "dur": "Aug 2018 - Jun 2022",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+            "desc": "Grade: 8.03"
+        },
+        {
+            "big": "Sowdambikaa Matriculation Higher Secondary School, Thuraiyur",
+            "mid": null,
+            "dur": null,
+            "img_src": null,
+            "desc": null
+        },
+        {
+            "big": "Sowdambikaa Matriculation Higher Secondary School, Thuraiyur",
+            "mid": null,
+            "dur": null,
+            "img_src": null,
+            "desc": null
+        }
+    ]
+}

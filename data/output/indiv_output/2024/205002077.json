@@ -1,0 +1,61 @@
+{
+    "register_num": "205002077",
+    "profile_name": "Sai Shanmat",
+    "profile_img": "https://media.licdn.com/dms/image/D5635AQFwJtTP_3ongg/profile-framedphoto-shrink_400_400/0/1698646788914?e=1718049600&v=beta&t=xmRDQhLb12Pn7jq7HjYTcyTmzIhrF8hFxZugOgtu4dg",
+    "profile_job": "Final year student at SSN College of Engineering",
+    "experience": [
+        {
+            "big": "Image processing intern",
+            "exp": "Jan 2024 to Present \u00b7 6 mos",
+            "small": "CareCentra \u00b7 Internship\nChennai, Tamil Nadu, India \u00b7 On-site",
+            "sub_exp": []
+        },
+        {
+            "big": "Intern",
+            "exp": "Jul 2023 to Present \u00b7 1 yr",
+            "small": "Nokia \u00b7 Internship\nChennai, Tamil Nadu, India \u00b7 On-site",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "Large Language Models (LLM)",
+        "Gen ai",
+        "Open ai",
+        "Communication",
+        "HTML5",
+        "C (Programming Language)",
+        "Film Criticism",
+        "Film Editing",
+        "Film Direction",
+        "Screenwriting",
+        "Leadership",
+        "C++",
+        "Python (Programming Language)",
+        "Creative Writing",
+        "Programming",
+        "Object-Oriented Programming (OOP)",
+        "Ethical Hacking",
+        "English",
+        "Cascading Style Sheets (CSS)"
+    ],
+    "awards": null,
+    "volunteering": [
+        {
+            "big": "Volunteer",
+            "mid": "SSN College of Engineering",
+            "dur": null,
+            "exp": null,
+            "img": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc"
+        }
+    ],
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor's degree, Information Technology",
+            "dur": "2020 - 2024",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": null
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "register_num": "205002085",
+    "profile_name": "Selvi Parasakthi K",
+    "profile_img": "https://media.licdn.com/dms/image/D5635AQEYi946i9fIGA/profile-framedphoto-shrink_400_400/0/1715605479920?e=1718049600&v=beta&t=AT72Cs2IwccHvoadwKVGtUE0ltCCl-PPTv5WE5BRNnw",
+    "profile_job": "Junior Software Developer Intern @Peninsular Research Operation | Full Stack Developer | Data Analyst | Student at SSN College of Engineering",
+    "experience": [
+        {
+            "big": "Junior Software Developer",
+            "exp": "Mar 2024 to Present \u00b7 4 mos",
+            "small": "Peninsular Research Operation \u00b7 Internship\nChennai, Tamil Nadu, India \u00b7 On-site",
+            "sub_exp": []
+        },
+        {
+            "big": "Full Stack Developer",
+            "exp": "Chennai, Tamil Nadu, India \u00b7 Remote",
+            "small": "Linsible Technologies \u00b7 Internship",
+            "sub_exp": []
+        },
+        {
+            "big": "Data Analyst",
+            "exp": "Chennai, Tamil Nadu, India \u00b7 Remote",
+            "small": "Aravinai Foundation \u00b7 Internship",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "Angular",
+        "C#",
+        ".NET Framework",
+        "ASP.NET Web API",
+        "Entity Framework (EF) Core",
+        "SQL Server Management Studio",
+        "Postman API",
+        "Responsive Web Design",
+        "Full-Stack Development",
+        "Java",
+        "C++",
+        "Scss",
+        "Data Visualization",
+        "Data Science",
+        "Microsoft Power BI",
+        "Data Modeling",
+        "Front-End Development",
+        "MySQL",
+        "AngularJS",
+        "REST APIs"
+    ],
+    "awards": [
+        {
+            "big": "SPURS Scholarship",
+            "mid": null,
+            "date": null
+        }
+    ],
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "B.Tech, Information Technology",
+            "dur": "2020 - 2024",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": "Grade: 8.44/10"
+        },
+        {
+            "big": "Government Higher Secondary School Umarikadu",
+            "mid": "HSC",
+            "dur": "Jun 2019 - Mar 2020",
+            "img_src": null,
+            "desc": "Grade: 83.67%"
+        },
+        {
+            "big": "Government Higher Secondary School Umarikadu",
+            "mid": "SSLC",
+            "dur": "Jun 2017 - Apr 2018",
+            "img_src": null,
+            "desc": "Grade: 90.8%"
+        }
+    ]
+}

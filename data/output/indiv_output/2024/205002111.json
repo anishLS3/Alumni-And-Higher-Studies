@@ -1,0 +1,88 @@
+{
+    "register_num": "205002111",
+    "profile_name": "Swetha Subramanian",
+    "profile_img": "https://media.licdn.com/dms/image/D5603AQGUZTrwX4eXRg/profile-displayphoto-shrink_400_400/0/1704735149392?e=1723075200&v=beta&t=4NXF8HfI8dh-BnIkb9VNHJL9WrKkB8d7pEBhMZj3iu4",
+    "profile_job": "Ex SDE Intern at Nbyula | Club Head, SSN Music Club | Event Coordinator, AIT, SSN",
+    "experience": [
+        {
+            "big": "SSN College of Engineering",
+            "exp": "2 yrs",
+            "small": null,
+            "sub_exp": [
+                {
+                    "big": "Club Head - SSN Music Club",
+                    "exp": "Aug 2023 to Present \u00b7 11 mos",
+                    "small": null
+                },
+                {
+                    "big": "Student Alumni Coordinator",
+                    "exp": "Jul 2022 to Jul 2023 \u00b7 1 yr 1 mo",
+                    "small": null
+                },
+                {
+                    "big": "Designer, Invente'22",
+                    "exp": "Sep 2022 to Oct 2022 \u00b7 2 mos",
+                    "small": null
+                }
+            ]
+        },
+        {
+            "big": "Event Coordinator",
+            "exp": "Aug 2023 to Present \u00b7 11 mos",
+            "small": "SSN AIT",
+            "sub_exp": []
+        },
+        {
+            "big": "Software Engineer Summer Intern",
+            "exp": "Jun 2023 to Aug 2023 \u00b7 3 mos",
+            "small": "Nbyula - Skillizens without Borders \u00b7 Internship\nBengaluru, Karnataka, India \u00b7 On-site",
+            "sub_exp": []
+        },
+        {
+            "big": "Event Head",
+            "exp": "Aug 2022 to May 2023 \u00b7 10 mos",
+            "small": "SSN ACM-W Student Chapter\nChennai, Tamil Nadu, India",
+            "sub_exp": []
+        },
+        {
+            "big": "Core Team Member",
+            "exp": "Jun 2022 to May 2023 \u00b7 1 yr",
+            "small": "ProCode IT SSN\nChennai, Tamil Nadu, India",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "Problem Solving",
+        "Analytical Skills",
+        "MERN Stack",
+        "Organization Skills",
+        "Computer Science",
+        "Object-Oriented Programming (OOP)",
+        "C++",
+        "C (Programming Language)",
+        "Python (Programming Language)",
+        "Leadership Development",
+        "Adobe Illustrator",
+        "Communication",
+        "Event Management"
+    ],
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": null,
+            "dur": "2021 - 2024",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": null
+        },
+        {
+            "big": "DAV BHEL School - India",
+            "mid": null,
+            "dur": null,
+            "img_src": null,
+            "desc": null
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "register_num": "18 5002 038",
+    "profile_name": "Indirapriyadarshini A",
+    "profile_img": "https://media.licdn.com/dms/image/C4E03AQG8lyD-sw4HPg/profile-displayphoto-shrink_400_400/0/1592133508621?e=1715817600&v=beta&t=Zx2t6hO3absgxvTDnTTyrKC815J0zzuvtQTx0eab97g",
+    "profile_job": "Data Engineering Analyst at Optum",
+    "experience": [
+        {
+            "big": "Optum",
+            "exp": "Full-time \u00b7 1 yr 8 mos",
+            "small": "Hyderabad, Telangana, India \u00b7 On-site",
+            "sub_exp": [
+                {
+                    "big": "Data Engineering Analyst",
+                    "exp": "Aug 2023 - Present \u00b7 8 mos",
+                    "small": null
+                },
+                {
+                    "big": "TDP - II - Software Engineer",
+                    "exp": "Aug 2022 - Aug 2023 \u00b7 1 yr 1 mo",
+                    "small": null
+                }
+            ]
+        }
+    ],
+    "skills": [
+        "Flask",
+        "Cascading Style Sheets (CSS)",
+        "HTML",
+        "Android Studio",
+        "Mobile Application Development",
+        "Java",
+        "Machine Learning",
+        "Deep Learning",
+        "NumPy",
+        "Pandas",
+        "Praat",
+        "Snowflake",
+        "Datalake",
+        "SQL",
+        "Python (Programming Language)",
+        "Airflow",
+        "Teradata SQL",
+        "Grafana",
+        "Rally"
+    ],
+    "awards": null,
+    "volunteering": [
+        {
+            "big": "Volunteer",
+            "mid": "Youth Red Cross",
+            "dur": "Aug 2018 - Jun 2022",
+            "exp": "3 yrs 11 mos",
+            "img": null
+        },
+        {
+            "big": "Organizing Head",
+            "mid": "IEEE - ZERO",
+            "dur": "Dec 2019 - Feb 2020",
+            "exp": "3 mos",
+            "img": null
+        }
+    ],
+    "publications": [
+        {
+            "title": "M-SHIELD \u2013 An Application for Tracking Lost Phones",
+            "journal": "Inventive Communication and Computational Technologies",
+            "date": "Nov 14, 2022",
+            "desc": "",
+            "pub_link": "https://doi.org/10.1007/978-981-19-4960-9_47"
+        },
+        {
+            "title": "Analysis of the Impact of Lombard effect on Speech Emotions using Machine Learning",
+            "journal": "Inventive Communication and Computational Technologies",
+            "date": "Nov 14, 2022",
+            "desc": "",
+            "pub_link": "http://dx.doi.org/10.12785/ijcds/140133"
+        }
+    ],
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor's degree, Information Technology",
+            "dur": "2018 - 2022",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+            "desc": "Grade: 9.156 CGPA"
+        },
+        {
+            "big": "Yuvabharathi Public School",
+            "mid": "Grade 12",
+            "dur": "Jun 2016 - May 2018",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQEf5HZXgZNXHQ/company-logo_100_100/0/1630635162657/yuvabharathi_public_school_logo?e=1718236800&v=beta&t=1pCVMfPpx-59rtDedaLAYLzMmRD08FjixLZsaVWvZxU",
+            "desc": "Grade: 94.6%"
+        }
+    ]
+}

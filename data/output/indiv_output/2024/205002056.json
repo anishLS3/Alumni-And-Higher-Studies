@@ -1,0 +1,83 @@
+{
+    "register_num": "205002056",
+    "profile_name": "Nivetha SB",
+    "profile_img": "https://media.licdn.com/dms/image/D5603AQFrog-Qez-skg/profile-displayphoto-shrink_400_400/0/1707413553872?e=1723075200&v=beta&t=NBIhtoF18YHbotvLA_am38BUIYO81xHoccygdVQyuOc",
+    "profile_job": "Intern @Comcast | GXT - Xfinity Mobile",
+    "experience": [
+        {
+            "big": "Intern",
+            "exp": "Jan 2024 to Present \u00b7 6 mos",
+            "small": "Comcast \u00b7 Internship\nChennai, Tamil Nadu, India \u00b7 On-site",
+            "sub_exp": []
+        },
+        {
+            "big": "Intern - Framework Engineer",
+            "exp": "Bengaluru, Karnataka, India \u00b7 Remote",
+            "small": "Quantiphi \u00b7 Internship",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "Image Processing",
+        "Natural Language Processing (NLP)",
+        "Deep Learning",
+        "Text-to-Speech",
+        "Web Development",
+        "Machine Learning",
+        "Artificial Intelligence (AI)",
+        "Node.js",
+        "Express.js",
+        "AngularJS",
+        "Tailwind CSS",
+        "Flask",
+        "Project Management",
+        "MongoDB",
+        "Tkinter",
+        "Oracle SQL",
+        "Data Analytics",
+        "Pandas (Software)",
+        "Google Cloud Platform (GCP)",
+        "Cloud Computing"
+    ],
+    "awards": null,
+    "volunteering": [
+        {
+            "big": "Event Head",
+            "mid": "ProCode IT SSN",
+            "dur": "Aug 2022 - Aug 2023",
+            "exp": "1 yr 1 mo",
+            "img": "https://media.licdn.com/dms/image/C4E0BAQF-86y72n9OVQ/company-logo_100_100/0/1660033779292?e=1725494400&v=beta&t=01KhzDNRg2c4klDbjFla2Mj3CPa25VVAHRlYkvyYcGo"
+        },
+        {
+            "big": "Core Member",
+            "mid": "ProCode IT SSN",
+            "dur": "Aug 2022 - Present",
+            "exp": "1 yr 11 mos",
+            "img": "https://media.licdn.com/dms/image/C4E0BAQF-86y72n9OVQ/company-logo_100_100/0/1660033779292?e=1725494400&v=beta&t=01KhzDNRg2c4klDbjFla2Mj3CPa25VVAHRlYkvyYcGo"
+        },
+        {
+            "big": "Member",
+            "mid": "IEEE Computer Society",
+            "dur": null,
+            "exp": null,
+            "img": "https://media.licdn.com/dms/image/C560BAQGgbT-kdahf5A/company-logo_100_100/0/1640027182473/ieee_computer_society_logo?e=1725494400&v=beta&t=r8uzo7SD1-8ELam1BPds0Bcja_6REtrGkfTefKrP_RM"
+        }
+    ],
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor's degree, Information Technology",
+            "dur": "2020 - 2024",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": "Grade: 8.65"
+        },
+        {
+            "big": "Chettinad Vidyashram",
+            "mid": "High School",
+            "dur": "2005 - 2020",
+            "img_src": "https://media.licdn.com/dms/image/C560BAQFTxLBvpXpNfg/company-logo_100_100/0/1630646834580/chettinad_vidyashram_logo?e=1725494400&v=beta&t=NCV5WfoU_tnE0-utFHM7NYUMn8gUj5MJm0yUrcylR1k",
+            "desc": "Grade: 96%"
+        }
+    ]
+}

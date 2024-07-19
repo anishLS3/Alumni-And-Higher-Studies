@@ -1,0 +1,20 @@
+{
+    "register_num": "205002027",
+    "profile_name": "Dhamotharan B",
+    "profile_img": "https://media.licdn.com/dms/image/D5603AQFlildT75txOg/profile-displayphoto-shrink_400_400/0/1691395269493?e=1723075200&v=beta&t=T3W6_c_UDQdJxX6CNTcSH52U8IGdGLowtYxfOOCJKmM",
+    "profile_job": "--",
+    "experience": null,
+    "skills": [],
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "Sri Sivasubramaniya Nadar College Of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2020 - 2024",
+            "img_src": "https://media.licdn.com/dms/image/C560BAQGK5F9nqLbxLw/company-logo_100_100/0/1632548839827/sri_sivasubramaniya_nadar_college_of_engineering_logo?e=1725494400&v=beta&t=BXc9stpwt2cemvsJi8PFvZsM1q0viKHBnOssFxTr4gU",
+            "desc": null
+        }
+    ]
+}

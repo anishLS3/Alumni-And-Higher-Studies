@@ -1,0 +1,27 @@
+{
+    "register_num": "205002110",
+    "profile_name": "Swaminathan Natarajan",
+    "profile_img": "https://media.licdn.com/dms/image/D5603AQGCxcoj79aQyA/profile-displayphoto-shrink_400_400/0/1711515065455?e=1723075200&v=beta&t=EubHRIfvo2f6v9v4EICUpxrLrTH1kIxjqgwTkJebFu4",
+    "profile_job": "Student at SSN College of Engineering",
+    "experience": [
+        {
+            "big": "Software Engineer",
+            "exp": "Apr 2024 to Present \u00b7 3 mos",
+            "small": "project44 \u00b7 Internship\nChennai, Tamil Nadu, India \u00b7 Hybrid",
+            "sub_exp": []
+        }
+    ],
+    "skills": null,
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": null,
+            "dur": "2020 - 2024",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": null
+        }
+    ]
+}

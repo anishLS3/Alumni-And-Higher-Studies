@@ -1,0 +1,42 @@
+{
+    "register_num": "205002101",
+    "profile_name": "Subhiksha Sakthivel",
+    "profile_img": null,
+    "profile_job": "SSN College Of Engineering '24 | Information Technology || IIT Madras | Data Science",
+    "experience": null,
+    "skills": null,
+    "awards": null,
+    "volunteering": [
+        {
+            "big": "Volunteer",
+            "mid": "National Service Scheme",
+            "dur": null,
+            "exp": null,
+            "img": "https://media.licdn.com/dms/image/C4E0BAQEJ6yAnaG3CtQ/company-logo_100_100/0/1631346049980?e=1725494400&v=beta&t=TuUjrTKZSJ2mfMD1K4OCR8B4l34fzscWLR94DSyetYM"
+        }
+    ],
+    "publications": null,
+    "education": [
+        {
+            "big": "Dav Sr Sec School - India",
+            "mid": "12th, Physics, Chemistry, Computer Science, Mathematics, English",
+            "dur": "Jun 2019 - May 2020",
+            "img_src": null,
+            "desc": "Grade: 96"
+        },
+        {
+            "big": "Indian Institute of Technology, Madras",
+            "mid": null,
+            "dur": null,
+            "img_src": "https://media.licdn.com/dms/image/C4D0BAQGqbSuxjLqtWQ/company-logo_100_100/0/1659504006681/reachiitm_logo?e=1725494400&v=beta&t=RZTe_vedUjsgFJVxUV2FnQCiQggO7-gGFD1QSgO_wQE",
+            "desc": null
+        },
+        {
+            "big": "SSN College of Engineering",
+            "mid": null,
+            "dur": null,
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": null
+        }
+    ]
+}

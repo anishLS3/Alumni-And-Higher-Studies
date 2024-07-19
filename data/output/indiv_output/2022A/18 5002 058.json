@@ -1,0 +1,20 @@
+{
+    "register_num": "18 5002 058",
+    "profile_name": "Manikandan S",
+    "profile_img": "https://media.licdn.com/dms/image/C5603AQH9Gdg4vojvRw/profile-displayphoto-shrink_400_400/0/1627386223176?e=1715817600&v=beta&t=4PfFlFAA7KlJjh16l_jFUjr4DqXpARa7qlq-UC2svU8",
+    "profile_job": "Student at SSN College Of Engineering",
+    "experience": null,
+    "skills": null,
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "Sri Sivasubramaniya Nadar College Of Engineering",
+            "mid": "B.Tech, Information Technology",
+            "dur": "2018 - 2022",
+            "img_src": "https://media.licdn.com/dms/image/C560BAQGK5F9nqLbxLw/company-logo_100_100/0/1632548839827/sri_sivasubramaniya_nadar_college_of_engineering_logo?e=1718236800&v=beta&t=YJyti6rlAQIyFb8y9OKqkzhkVTNrPyCEDUQd8u37ZLo",
+            "desc": null
+        }
+    ]
+}

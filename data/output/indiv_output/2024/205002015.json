@@ -1,0 +1,56 @@
+{
+    "register_num": "205002015",
+    "profile_name": "Arvind Alagappan",
+    "profile_img": "https://media.licdn.com/dms/image/D5603AQFxseYzlxQ4og/profile-displayphoto-shrink_400_400/0/1716790795967?e=1723075200&v=beta&t=_PXMv3S3XVOYpnDuB8itqYH6-apVc3hRFwZD3hKVn04",
+    "profile_job": "Tech Analyst, Citi | SSN '24 (IT) | GIIS KL '20",
+    "experience": [
+        {
+            "big": "Tech Analyst",
+            "exp": "May 2023 to Jul 2023 \u00b7 3 mos",
+            "small": "Citi \u00b7 Internship\nChennai, Tamil Nadu, India \u00b7 Hybrid",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "Java",
+        "Spring Boot",
+        "SQL",
+        "Machine Learning",
+        "Piano",
+        "Music Theory"
+    ],
+    "awards": null,
+    "volunteering": [
+        {
+            "big": "Volunteer",
+            "mid": "National Service Scheme",
+            "dur": "Nov 2020 - Present",
+            "exp": "3 yrs 8 mos",
+            "img": "https://media.licdn.com/dms/image/C4E0BAQEJ6yAnaG3CtQ/company-logo_100_100/0/1631346049980?e=1725494400&v=beta&t=TuUjrTKZSJ2mfMD1K4OCR8B4l34fzscWLR94DSyetYM"
+        },
+        {
+            "big": "Treasurer",
+            "mid": "Interact: Rotary Sponsored Club",
+            "dur": "Apr 2016 - Mar 2018",
+            "exp": "2 yrs",
+            "img": "https://media.licdn.com/dms/image/C4E0BAQHTvOAgweI0sQ/company-logo_100_100/0/1631355208173?e=1725494400&v=beta&t=5e3mMhmII1PYE1alyjcb_mi2R5oKgqHMKq-5z8vgJKM"
+        }
+    ],
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "Nov 2020 - May 2024",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": null
+        },
+        {
+            "big": "Global Schools Foundation",
+            "mid": "Higher Secondary School, Science Stream",
+            "dur": "Apr 2013 - Mar 2020",
+            "img_src": "https://media.licdn.com/dms/image/C4D0BAQFjCrSEV1PhNQ/company-logo_100_100/0/1631333835021?e=1725494400&v=beta&t=tjUeRjTcOwcPqvOQvw5RzVR6T8HbS4_lu8JKBsOYocQ",
+            "desc": null
+        }
+    ]
+}

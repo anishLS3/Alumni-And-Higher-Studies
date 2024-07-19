@@ -1,0 +1,98 @@
+{
+    "register_num": "205002055",
+    "profile_name": "Nithin Balaji",
+    "profile_img": "https://media.licdn.com/dms/image/D5603AQFBuRJsFXSbWA/profile-displayphoto-shrink_400_400/0/1712145260279?e=1723075200&v=beta&t=UhdueWRfbBkFRsL_L1rKSaAIh0x8SaSx73q1Nt2zRbc",
+    "profile_job": "IT Undergraduate at SSN College of Engineering",
+    "experience": [
+        {
+            "big": "Software Development Engineer",
+            "exp": "Ontario, Canada \u00b7 Remote",
+            "small": "SwimNGo \u00b7 Internship",
+            "sub_exp": []
+        },
+        {
+            "big": "President",
+            "exp": "Aug 2023 to Apr 2024 \u00b7 9 mos",
+            "small": "ProCode IT SSN\nSSN College of Engineering",
+            "sub_exp": []
+        },
+        {
+            "big": "Engineering Intern",
+            "exp": "Austin, Texas, United States \u00b7 Remote",
+            "small": "BalkanID \u00b7 Internship",
+            "sub_exp": []
+        },
+        {
+            "big": "Full Stack Developer",
+            "exp": "Chennai, Tamil Nadu, India \u00b7 Remote",
+            "small": "TickEth.io \u00b7 Internship",
+            "sub_exp": []
+        },
+        {
+            "big": "Frontend Developer",
+            "exp": "Chennai, Tamil Nadu, India \u00b7 Remote",
+            "small": "Niyamaa Life Sciences \u00b7 Freelance",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "Python (Programming Language)",
+        "Web Development",
+        "Engineering",
+        "Computer Science",
+        "C++",
+        "Full-Stack Development",
+        "Information Technology",
+        "Front-End Development",
+        "HTML5",
+        "Cascading Style Sheets (CSS)",
+        "Tailwind CSS",
+        "Bootstrap",
+        "Figma (Software)",
+        "Responsive Web Design",
+        "User Experience (UX)",
+        "JavaScript",
+        "Back-End Web Development",
+        "Web Framework",
+        "React.js",
+        "Flask"
+    ],
+    "awards": [
+        {
+            "big": "2nd Place, Web Designing @Kurukshetra",
+            "mid": "Issued by Anna University",
+            "date": "Issued by Anna University \u00b7 Mar 2024"
+        },
+        {
+            "big": "Runner Up, VIVID 6.0 National Level Project Competition",
+            "mid": "Issued by SSN College of Engineering",
+            "date": "Issued by SSN College of Engineering \u00b7 Sep 2022"
+        },
+        {
+            "big": "Finalist, Smart India Hackathon",
+            "mid": "Issued by AICTE, Government of India",
+            "date": "Issued by AICTE, Government of India \u00b7 Aug 2022"
+        },
+        {
+            "big": "Verified Bot Developer",
+            "mid": "Issued by Discord Inc.",
+            "date": "Issued by Discord Inc. \u00b7 Apr 2021"
+        },
+        {
+            "big": "Semi Finalist, Young Innovators Program",
+            "mid": "Issued by IIT KHARAGPUR",
+            "date": "Issued by IIT KHARAGPUR \u00b7 Jan 2017"
+        }
+    ],
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor's degree, Information Technology",
+            "dur": "2020 - 2024",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": ""
+        }
+    ]
+}

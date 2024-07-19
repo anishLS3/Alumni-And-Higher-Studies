@@ -1,0 +1,31 @@
+{
+    "register_num": "205002011",
+    "profile_name": "Antony Rajesh",
+    "profile_img": "https://media.licdn.com/dms/image/D5635AQGXW0U7XhrOLA/profile-framedphoto-shrink_400_400/0/1660002772504?e=1718042400&v=beta&t=PofU7UbLUbXlS2-l4PGoUzIhPuK8jwjaPTeqLFTWquo",
+    "profile_job": "IT Undergrad, SSNCE",
+    "experience": null,
+    "skills": [
+        "Article Writing",
+        "Django",
+        "SQLite",
+        "Teamwork",
+        "Magazine Articles",
+        "Algorithms",
+        "Data Structures",
+        "Java",
+        "C++",
+        "Python (Programming Language)"
+    ],
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "Nov 2020 - Jun 2024",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": null
+        }
+    ]
+}

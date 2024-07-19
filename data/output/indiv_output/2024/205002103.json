@@ -1,0 +1,66 @@
+{
+    "register_num": "205002103",
+    "profile_name": "Sudarshanan Muthukumar",
+    "profile_img": "https://media.licdn.com/dms/image/C5603AQEMfuW91oqPpg/profile-displayphoto-shrink_400_400/0/1663175446233?e=1723075200&v=beta&t=9-GD0HodVkbZ_zx6HG8fXOEhGdP3zaSwNSuNE7M8SCE",
+    "profile_job": "Student at Sri Sivasubramaniya Nadar College Of Engineering",
+    "experience": [
+        {
+            "big": "Student Intern Coordinator",
+            "exp": "Jan 2023 to Present \u00b7 1 yr 6 mos",
+            "small": "SSN College of Engineering\nChennai, Tamil Nadu, India",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "AngularJS",
+        "Express.js",
+        "Node.js",
+        "MongoDB",
+        "JavaScript",
+        "Cascading Style Sheets (CSS)",
+        "HTML",
+        "Problem Solving",
+        "Artificial Intelligence (AI)",
+        "C (Programming Language)",
+        "Machine Learning",
+        "SQL",
+        "Relational Databases",
+        "C++",
+        "Python (Programming Language)",
+        "Oracle Database",
+        "Data Structures"
+    ],
+    "awards": [
+        {
+            "big": "Appreciation Certificate - For mentoring sophomores in Python Programming and Design patterns",
+            "mid": "Issued by Department of Information Technology",
+            "date": "Issued by Department of Information Technology \u00b7 Feb 2023"
+        }
+    ],
+    "volunteering": [
+        {
+            "big": "Student Volunteer",
+            "mid": "National Service Scheme",
+            "dur": "Jan 2021 - Present",
+            "exp": "3 yrs 6 mos",
+            "img": "https://media.licdn.com/dms/image/C4E0BAQEJ6yAnaG3CtQ/company-logo_100_100/0/1631346049980?e=1725494400&v=beta&t=TuUjrTKZSJ2mfMD1K4OCR8B4l34fzscWLR94DSyetYM"
+        }
+    ],
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2020 - 2024",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": "Grade: 9.03"
+        },
+        {
+            "big": "Chettinad Vidyashram",
+            "mid": null,
+            "dur": null,
+            "img_src": "https://media.licdn.com/dms/image/C560BAQFTxLBvpXpNfg/company-logo_100_100/0/1630646834580/chettinad_vidyashram_logo?e=1725494400&v=beta&t=NCV5WfoU_tnE0-utFHM7NYUMn8gUj5MJm0yUrcylR1k",
+            "desc": null
+        }
+    ]
+}

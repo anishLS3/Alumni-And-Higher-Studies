@@ -1,0 +1,38 @@
+{
+    "register_num": "205002060",
+    "profile_name": "Pavan G R",
+    "profile_img": "https://media.licdn.com/dms/image/D5635AQGXW0U7XhrOLA/profile-framedphoto-shrink_400_400/0/1660002772504?e=1718046000&v=beta&t=ZHIhTyYeP9OMGJ-QtgZKzbqGczfpXIMzlTOQe9w5MRI",
+    "profile_job": "Student at SSN College of Engineering",
+    "experience": [
+        {
+            "big": "Intellect Design Arena Ltd",
+            "exp": "Internship \u00b7 2 mos",
+            "small": "On-site",
+            "sub_exp": [
+                {
+                    "big": "Summer Intern",
+                    "exp": "Jul 2023 to Aug 2023 \u00b7 2 mos",
+                    "small": null
+                },
+                {
+                    "big": "Summer Intern",
+                    "exp": "Jul 2023 to Aug 2023 \u00b7 2 mos",
+                    "small": null
+                }
+            ]
+        }
+    ],
+    "skills": null,
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2020 - 2024",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": null
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "register_num": "205002031",
+    "profile_name": "Gagan Sai C S",
+    "profile_img": "https://media.licdn.com/dms/image/C5603AQHuiHz_s9I3jA/profile-displayphoto-shrink_400_400/0/1660361278433?e=1723075200&v=beta&t=HY64VT20EYM1HtixG_Hn-618kQLja9hB_QQ2FvLJt5Y",
+    "profile_job": "Software Engineering Intern @ TejasNetworks \u2022 SIH '22 Finalist \u2022 Final year IT at SSNCE",
+    "experience": [
+        {
+            "big": "Intern",
+            "exp": "Mar 2024 to Present \u00b7 4 mos",
+            "small": "Tejas Networks \u00b7 Internship\nBangalore",
+            "sub_exp": []
+        }
+    ],
+    "skills": null,
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2020 - 2024",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": null
+        }
+    ]
+}

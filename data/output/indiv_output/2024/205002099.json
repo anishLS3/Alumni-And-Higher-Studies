@@ -1,0 +1,63 @@
+{
+    "register_num": "205002099",
+    "profile_name": "Srivatsa P.S",
+    "profile_img": "https://media.licdn.com/dms/image/D5603AQEGAeGoiFPaHw/profile-displayphoto-shrink_400_400/0/1678358418075?e=1723075200&v=beta&t=pyPhvcy2K_sZZhOccXP1icY93gS7u1mXYfRzjj2V1ts",
+    "profile_job": "GET @TVS Credit Services Ltd.",
+    "experience": [
+        {
+            "big": "Graduate Engineering Trainee",
+            "exp": "Feb 2024 to May 2024 \u00b7 4 mos",
+            "small": "TVS Credit Services Ltd. \u00b7 Internship\nChennai, Tamil Nadu, India \u00b7 On-site",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "Salesforce.com Development",
+        "Salesforce.com Administration",
+        "Tableau",
+        "Business Intelligence (BI)",
+        "Data Visualization",
+        "Data Analytics",
+        "Analytics",
+        "Microsoft Power BI",
+        "PostgreSQL",
+        "Data Analysis",
+        "Representational State Transfer (REST)",
+        "REST APIs",
+        "Full-Stack Development",
+        "css3",
+        "React.js",
+        "Bootstrap",
+        "Front-End Development",
+        "Node.js",
+        "English",
+        "Communication"
+    ],
+    "awards": null,
+    "volunteering": [
+        {
+            "big": "Student Volunteer",
+            "mid": "SSN YRC",
+            "dur": null,
+            "exp": null,
+            "img": "https://media.licdn.com/dms/image/C560BAQHWCuXNg938xA/company-logo_100_100/0/1642152180925/ssn_yrc_logo?e=1725494400&v=beta&t=6_4YXFfDQKXqsYH1p8JZsxNkI9TdXe0uKBqc8iEAkzY"
+        }
+    ],
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor's degree, Information Technology",
+            "dur": "2020 - 2024",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": null
+        },
+        {
+            "big": "SRDF Vivekananda Vidyalaya, Chennai",
+            "mid": null,
+            "dur": null,
+            "img_src": "https://media.licdn.com/dms/image/C560BAQEuFz_asuQIIg/company-logo_100_100/0/1630617204762?e=1725494400&v=beta&t=gmJInayiKFdsYOfQCnR1tdDvvQvGe4h0_MtuWvWe5JI",
+            "desc": "Grade: 95.4\nActivities and societies: Head of event organizing committee."
+        }
+    ]
+}

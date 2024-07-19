@@ -1,0 +1,48 @@
+{
+    "register_num": "18 5002 108",
+    "profile_name": "Suthakar K",
+    "profile_img": "https://media.licdn.com/dms/image/D5603AQEPg5iLLlE3nQ/profile-displayphoto-shrink_400_400/0/1707575542782?e=1715817600&v=beta&t=Ro8gO6-lJrZcqa_euQRVxaZcxDUutrOuH8E1XeC0Y4Q",
+    "profile_job": "Technical Analyst",
+    "experience": [
+        {
+            "big": "Volunteer",
+            "exp": "Jul 2018 - Jun 2022 \u00b7 4 yrs",
+            "small": "National Service Scheme\nChennai, Tamil Nadu, India",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "Flutter",
+        "Python (Programming Language)",
+        "Web Development",
+        "Creative Writing",
+        "Event Planning",
+        "Application Development",
+        "C++",
+        "HTML5",
+        "Cascading Style Sheets (CSS)",
+        "Team Leadership",
+        "Team Management",
+        "Dart",
+        "Ground Handling"
+    ],
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2018 - 2022",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+            "desc": "Grade: 8.13 CGPA"
+        },
+        {
+            "big": "Kamlavati Higher Secondary school",
+            "mid": null,
+            "dur": null,
+            "img_src": null,
+            "desc": null
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "register_num": "205002118",
+    "profile_name": "Vaishnavi Anand",
+    "profile_img": "https://media.licdn.com/dms/image/D5603AQHpG_wu3wpiaA/profile-displayphoto-shrink_400_400/0/1678844101950?e=1723075200&v=beta&t=a9_s-P8TXbN0uDGwd2FDHLYNpZcUgH6x-MzcpSrwQuM",
+    "profile_job": "IT Undergrad",
+    "experience": [
+        {
+            "big": "SDE Intern",
+            "exp": "Jan 2024 to Present \u00b7 6 mos",
+            "small": "Sky \u00b7 Internship\nChennai, Tamil Nadu, India \u00b7 On-site",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "Scrum",
+        "React.js",
+        "GraphQL",
+        "Digital Twin",
+        "Data Analysis",
+        "MATLAB",
+        "Image Processing",
+        "Signal Processing",
+        "HTML5",
+        "PHP",
+        "JavaScript",
+        "Deep Learning",
+        "Research Skills",
+        "Creative Writing",
+        "Machine Learning",
+        "Data Structures",
+        "Object-Oriented Programming (OOP)",
+        "Programming",
+        "Team Leadership",
+        "Canva"
+    ],
+    "awards": [
+        {
+            "big": "Times Scholars Award",
+            "mid": "Issued by Times of India, Bennet Coleman & Co. Ltd",
+            "date": "Issued by Times of India, Bennet Coleman & Co. Ltd \u00b7 Dec 2019"
+        }
+    ],
+    "volunteering": null,
+    "publications": [
+        {
+            "title": "Poetry published in Sunday Mornings at the River",
+            "journal": "Sunday Mornings at the River Spring 2022 Anthology",
+            "date": "Mar 8, 2022",
+            "desc": "Sunday Mornings at the River is an indie poetry press based in the Netherlands. (\u00a9 Vaishnavi Anand. The Elephant In The Room. Lost Subconscious. Layers. Sunday Mornings at the River, Spring 2022 Anthology, Sunday Mornings at the River, Eindhoven, Netherlands.)",
+            "pub_link": "https://www.amazon.com/dp/B09V3D9V4K?tag=onamzsundaymo-20&linkCode=ssc&creativeASIN=B09V3D9V4K&asc_item-id=amzn1.ideas.270BJGQBIIPSV"
+        },
+        {
+            "title": "Poetry published in Endings and New Beginnings",
+            "journal": "Poetic Reveries Magazine Issue 3",
+            "date": "Dec 4, 2021",
+            "desc": "Under Instagram handle @thevariegatedpen (\u00a9 thevariegatedpen. Silence Must Not Follow Endings. Poetic Reveries Magazine Issue 3. 2021)",
+            "pub_link": "https://online.fliphtml5.com/cshva/dwzu/#p=59"
+        },
+        {
+            "title": "Poetry published in Sugar and Spice",
+            "journal": "Capsule Stories Winter 2021 Edition",
+            "date": "Dec 1, 2021",
+            "desc": "Capsule Stories is a print literary magazine published once every season. Their Winter 2021 edition focussed on the theme of Sugar and Spice, and winter. (\u00a9 Vaishnavi Anand. A Warm Bond. Winter 2021 Edition, Capsule Stories LLC 2021, US.)",
+            "pub_link": "https://capsulestories.com/winter-2021-edition/"
+        },
+        {
+            "title": "Poetry published in Paradise",
+            "journal": "The Write Order",
+            "date": "Jan 1, 2021",
+            "desc": null,
+            "pub_link": "https://www.amazon.in/Paradise-2-Multiple/dp/9355651422/ref=sr_1_1?crid=CM6WTOX3TOI3&keywords=paradise+the+write+order&qid=1662213687&sprefix=paradise+the+write+orde%2Caps%2C267&sr=8-1"
+        }
+    ],
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2020 - 2024",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": "Grade: 8.67/10"
+        },
+        {
+            "big": "P. S. Senior Secondary School",
+            "mid": "Senior Secondary, Computer Science",
+            "dur": "2008 - 2020",
+            "img_src": null,
+            "desc": "Grade: CBSE Std. XII: 95.6%"
+        }
+    ]
+}

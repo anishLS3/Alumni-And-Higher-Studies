@@ -1,0 +1,51 @@
+{
+    "register_num": "18 5002 304",
+    "profile_name": "Praveen Kumar P",
+    "profile_img": null,
+    "profile_job": "Software Engineer at Data-Aces",
+    "experience": [
+        {
+            "big": "Data Aces",
+            "exp": "2 yrs",
+            "small": "Chennai, Tamil Nadu, India",
+            "sub_exp": [
+                {
+                    "big": "Software Engineer",
+                    "exp": "Sep 2022 - Present \u00b7 1 yr 7 mos",
+                    "small": "Full-time"
+                },
+                {
+                    "big": "Graduate Trainee",
+                    "exp": "Apr 2022 - Aug 2022 \u00b7 5 mos",
+                    "small": "Apprenticeship"
+                }
+            ]
+        }
+    ],
+    "skills": [
+        "Cassandra",
+        "Putty",
+        "WinSCP",
+        "Data Structures",
+        "Snowflake",
+        "MySQL",
+        "SQL",
+        "Java",
+        "Databases",
+        "C++",
+        "Python (Programming Language)",
+        "Leadership"
+    ],
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "Jul 2019 - Jul 2022",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+            "desc": null
+        }
+    ]
+}

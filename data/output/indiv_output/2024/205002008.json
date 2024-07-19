@@ -1,0 +1,87 @@
+{
+    "register_num": "205002008",
+    "profile_name": "Anand A",
+    "profile_img": "https://media.licdn.com/dms/image/D5603AQGrPAwNPzhZ3g/profile-displayphoto-shrink_400_400/0/1710382285987?e=1723075200&v=beta&t=BLsrsIZqx2vA9N6YM2U_VU9UiL26Mu-RvHCwnLblWJE",
+    "profile_job": "Software Engineer | SmartIndiaHackathon 2022 Grand Finalist",
+    "experience": [
+        {
+            "big": "Software Engineer Intern",
+            "exp": "Mar 2024 to Present \u00b7 4 mos",
+            "small": "Yubi \u00b7 Internship\nChennai, Tamil Nadu, India \u00b7 On-site",
+            "sub_exp": []
+        },
+        {
+            "big": "Vice President @ProCoDe",
+            "exp": "Jul 2022 to Jun 2024 \u00b7 2 yrs",
+            "small": "ProCode IT SSN\nChennai, Tamil Nadu, India",
+            "sub_exp": []
+        },
+        {
+            "big": "Application Developer",
+            "exp": "Feb 2024 to Feb 2024 \u00b7 1 mo",
+            "small": "TransUnion \u00b7 Internship\nChennai, Tamil Nadu, India \u00b7 On-site",
+            "sub_exp": []
+        },
+        {
+            "big": "Application Developer",
+            "exp": "Jun 2023 to Aug 2023 \u00b7 3 mos",
+            "small": "TransUnion \u00b7 Internship\nOn-site",
+            "sub_exp": []
+        },
+        {
+            "big": "DevOps Intern",
+            "exp": "Apr 2023 to Jul 2023 \u00b7 4 mos",
+            "small": "National Informatics Centre, MeitY \u00b7 Internship\nChennai, Tamil Nadu, India \u00b7 On-site",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "Go (Programming Language)",
+        "Bitbucket",
+        "User Interface Design",
+        "Software Development",
+        "Python (Programming Language)",
+        "C++",
+        "C (Programming Language)",
+        "TypeScript",
+        "JavaScript",
+        "Web Application Development",
+        "Vue 3",
+        "Angular",
+        "React.js",
+        "Django",
+        "Mobile Application Development",
+        "Flutter",
+        "Dart",
+        "Machine Learning",
+        "Deep Learning",
+        "OpenCV"
+    ],
+    "awards": null,
+    "volunteering": [
+        {
+            "big": "Student Member, NSS",
+            "mid": "SSN College of Engineering",
+            "dur": "Jan 2021 - Present",
+            "exp": "3 yrs 6 mos",
+            "img": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc"
+        }
+    ],
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2020 - 2024",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": null
+        },
+        {
+            "big": "Bharatiya Vidya Bhavan's Rajaji Vidyashram",
+            "mid": "10th and 12th grade",
+            "dur": "Mar 2017 - Jun 2020",
+            "img_src": null,
+            "desc": null
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "register_num": "18 5002 003",
+    "profile_name": "Adithya R",
+    "profile_img": "https://media.licdn.com/dms/image/C4D03AQGZuqfNQRT5UA/profile-displayphoto-shrink_400_400/0/1654970479552?e=1715817600&v=beta&t=sJQhwuuzUaORns2e670YVvLltxEbUAukM3AnLNor5bo",
+    "profile_job": "Software Engineer - Fidelity Investments",
+    "experience": [
+        {
+            "big": "Fidelity Investments",
+            "exp": "Full-time \u00b7 1 yr 8 mos",
+            "small": null,
+            "sub_exp": [
+                {
+                    "big": "Software Engineer",
+                    "exp": "Sep 2023 - Present \u00b7 7 mos",
+                    "small": "Chennai, Tamil Nadu, India"
+                },
+                {
+                    "big": "Associate Software Engineer",
+                    "exp": "Nov 2022 - Sep 2023 \u00b7 11 mos",
+                    "small": null
+                },
+                {
+                    "big": "Executive Graduate Trainee",
+                    "exp": "Aug 2022 - Nov 2022 \u00b7 4 mos",
+                    "small": null
+                }
+            ]
+        },
+        {
+            "big": "Software Engineer Intern",
+            "exp": "Jan 2022 - Jun 2022 \u00b7 6 mos",
+            "small": "Fidelity Investments \u00b7 Internship",
+            "sub_exp": []
+        },
+        {
+            "big": "Full Stack Developer Intern",
+            "exp": "Jun 2021 - Jul 2021 \u00b7 2 mos",
+            "small": "Fidelity Investments \u00b7 Internship",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "Docker",
+        "Angular",
+        "Express.js",
+        "SQL",
+        "Jenkins",
+        "IBM UrbanCode Deploy (uDeploy)",
+        "Software Development",
+        "Git",
+        "C++",
+        "Python (Programming Language)",
+        "Node.js",
+        "Data Structures and Algorithms",
+        "Core Java",
+        "JavaScript",
+        "C (Programming Language)"
+    ],
+    "awards": null,
+    "volunteering": [
+        {
+            "big": "Placement Coordinator - Dept of IT",
+            "mid": "SSN College of Engineering",
+            "dur": "Jun 2020 - Jun 2022",
+            "exp": "2 yrs 1 mo",
+            "img": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc"
+        },
+        {
+            "big": "Event Head - Procode",
+            "mid": "SSN College of Engineering",
+            "dur": "Oct 2021 - Jun 2022",
+            "exp": "9 mos",
+            "img": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc"
+        },
+        {
+            "big": "Event Head - Association of Information Technologists",
+            "mid": "SSN College of Engineering",
+            "dur": "Aug 2021 - Jun 2022",
+            "exp": "11 mos",
+            "img": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc"
+        },
+        {
+            "big": "Member",
+            "mid": "Youth Red Cross, SSN",
+            "dur": "Sep 2018 - Dec 2019",
+            "exp": "1 yr 4 mos",
+            "img": null
+        }
+    ],
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor's degree, Information Technology",
+            "dur": "2018 - 2022",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+            "desc": "Grade: 8.83/10"
+        },
+        {
+            "big": "SBOA School & Junior College",
+            "mid": "School",
+            "dur": "Jun 2004 - May 2018",
+            "img_src": null,
+            "desc": "12th Grade - Computer Science Major - 472/500 10th Grade - 9.6/10 CGPA"
+        }
+    ]
+}

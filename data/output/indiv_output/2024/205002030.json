@@ -1,0 +1,20 @@
+{
+    "register_num": "205002030",
+    "profile_name": "Dravid Aravind Kumar",
+    "profile_img": "https://media.licdn.com/dms/image/D5603AQG3NfueV-MpUg/profile-displayphoto-shrink_400_400/0/1693313599815?e=1723075200&v=beta&t=1Nr0Q3cNv5-1P784MlVuDDMoeKwNeDpT1BCC-GU8iAo",
+    "profile_job": "Student at SSN College of Engineering",
+    "experience": null,
+    "skills": null,
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": null,
+            "dur": "2020 - 2024",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": null
+        }
+    ]
+}

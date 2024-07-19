@@ -1,0 +1,76 @@
+{
+    "register_num": "205002007",
+    "profile_name": "Akshay Keerthi",
+    "profile_img": "https://media.licdn.com/dms/image/D5603AQH_q1e4QVCygQ/profile-displayphoto-shrink_400_400/0/1716055802667?e=1723075200&v=beta&t=IUpeaq3TjO6KV3-OVo8BTOUos1tzY9MJT6YyzdSLLF0",
+    "profile_job": "IT Undergrad at SSN College of Engineering",
+    "experience": [
+        {
+            "big": "Member of Technical Staff",
+            "exp": "United States \u00b7 Remote",
+            "small": "Lyzr AI \u00b7 Full-time",
+            "sub_exp": []
+        },
+        {
+            "big": "Project Management Intern",
+            "exp": "Chennai, Tamil Nadu, India \u00b7 Remote",
+            "small": "Apollo Sindoori Hotels Limited \u00b7 Internship",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "OpenCV",
+        "Gen AI",
+        "Open AI Products",
+        "Flutter",
+        "Firebase",
+        "Figma",
+        "JavaScript",
+        "CSS",
+        "AngularJS",
+        "Node.js",
+        "Express.js",
+        "Scheduling",
+        "Jira",
+        "Time Management",
+        "Leadership Development",
+        "Teamwork",
+        "Collaborative Problem Solving",
+        "Artificial Intelligence (AI)",
+        "Large Language Models (LLM)",
+        "Computer Architecture"
+    ],
+    "awards": null,
+    "volunteering": [
+        {
+            "big": "Student Volunteer",
+            "mid": "SSN College of Engineering",
+            "dur": null,
+            "exp": null,
+            "img": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc"
+        },
+        {
+            "big": "Student Volunteer",
+            "mid": "National Service Scheme",
+            "dur": "Jul 2021 - Present",
+            "exp": "3 yrs",
+            "img": "https://media.licdn.com/dms/image/C4E0BAQEJ6yAnaG3CtQ/company-logo_100_100/0/1631346049980?e=1725494400&v=beta&t=TuUjrTKZSJ2mfMD1K4OCR8B4l34fzscWLR94DSyetYM"
+        }
+    ],
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": null,
+            "dur": "2020 - 2024",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": null
+        },
+        {
+            "big": "Padma Seshadri Bala Bhavan Sr. Sec. School",
+            "mid": null,
+            "dur": null,
+            "img_src": "https://media.licdn.com/dms/image/C4E0BAQG9gRadvV9QSQ/company-logo_100_100/0/1630620332709/padma_seshadri_bala_bhavan_logo?e=1725494400&v=beta&t=E-Fdvq8NgbYKhZIPG2vvfWC_C10Tl3L-jpDE7K9zRQA",
+            "desc": null
+        }
+    ]
+}

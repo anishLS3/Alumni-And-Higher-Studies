@@ -1,0 +1,105 @@
+{
+    "register_num": "18 5002 023",
+    "profile_name": "Bryan Ronnie",
+    "profile_img": "https://media.licdn.com/dms/image/C5603AQHS4S5f7RCaqg/profile-displayphoto-shrink_400_400/0/1644484160343?e=1715817600&v=beta&t=s5b0XRDErDzCZQew2tVIuLoHv2MOHcHmGDxzHX9ZUBs",
+    "profile_job": "Fullstack Engineer(React,Java) @ Verizon",
+    "experience": [
+        {
+            "big": "Verizon",
+            "exp": "2 yrs 2 mos",
+            "small": null,
+            "sub_exp": [
+                {
+                    "big": "Engr II Fullstack",
+                    "exp": "Dec 2023 - Present \u00b7 4 mos",
+                    "small": "Full-time\nChennai \u00b7 Hybrid"
+                },
+                {
+                    "big": "Engr I Fullstack",
+                    "exp": "Jul 2022 - Present \u00b7 1 yr 9 mos",
+                    "small": "Full-time\nChennai, Tamil Nadu, India"
+                },
+                {
+                    "big": "Software Engineer Intern",
+                    "exp": "Feb 2022 - Jun 2022 \u00b7 5 mos",
+                    "small": "Internship\nHyderabad, Telangana, India"
+                }
+            ]
+        },
+        {
+            "big": "Web Development Intern",
+            "exp": "Chennai, Tamil Nadu, India \u00b7 Remote",
+            "small": "AkilaCastings Private Limited \u00b7 Internship",
+            "sub_exp": []
+        },
+        {
+            "big": "Apprenticeship - Frontend Developer",
+            "exp": "Remote \u00b7 Remote",
+            "small": "Freelancing \u00b7 Internship",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "React.js",
+        "Java",
+        "GraphQL",
+        "JavaScript",
+        "Django",
+        "Jest",
+        "Domain Registration",
+        "MongoDB",
+        "Python (Programming Language)",
+        "C++",
+        "HTML5",
+        "MySQL",
+        "C (Programming Language)",
+        "Linux",
+        "Cascading Style Sheets (CSS)",
+        "SQL",
+        "Bootstrap",
+        "BItnami",
+        "OpenEDX",
+        "Electron.js"
+    ],
+    "awards": null,
+    "volunteering": [
+        {
+            "big": "Student Volunteer",
+            "mid": "National Service Scheme",
+            "dur": "Jan 2019 - Jun 2022",
+            "exp": "3 yrs 6 mos",
+            "img": "https://media.licdn.com/dms/image/C4E0BAQEJ6yAnaG3CtQ/company-logo_100_100/0/1631346049980?e=1718236800&v=beta&t=3yMZXOTUQ189F1VUuKt8KwJ03QOT_DDrcZnKzkDCUfg"
+        },
+        {
+            "big": "Volunteer",
+            "mid": "Verizon",
+            "dur": "Feb 2023 - Present",
+            "exp": "1 yr 2 mos",
+            "img": "https://media.licdn.com/dms/image/C560BAQHAiVb75wIpDQ/company-logo_100_100/0/1645721743189/verizon_logo?e=1718236800&v=beta&t=4t97EMZ0OxyCAZuKO5CvQEgBI5mBGzm1f4B5CjXEGao"
+        }
+    ],
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2018 - 2022",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+            "desc": ""
+        },
+        {
+            "big": "University of Helsinki",
+            "mid": "Full Stack Open Certification , Computer and Information Sciences and Support Services",
+            "dur": "May 2023 - Jun 2024",
+            "img_src": "https://media.licdn.com/dms/image/C560BAQHZQ2B3IQO9xg/company-logo_100_100/0/1631300517673?e=1718236800&v=beta&t=ZdOF2s51xCuK4yVivnJ-wTxRzl9l95MLZeUbfDMeDy4",
+            "desc": ""
+        },
+        {
+            "big": "Trinity High School",
+            "mid": "Higher secondary, High School/Secondary Certificate Programs",
+            "dur": "2016 - 2018",
+            "img_src": null,
+            "desc": "Grade: 96.7"
+        }
+    ]
+}

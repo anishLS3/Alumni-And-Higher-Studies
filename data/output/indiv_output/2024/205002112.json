@@ -1,0 +1,62 @@
+{
+    "register_num": "205002112",
+    "profile_name": "Tarun Prasad T",
+    "profile_img": "https://media.licdn.com/dms/image/D5603AQHa9mcJR7zqmA/profile-displayphoto-shrink_400_400/0/1690000975075?e=1723075200&v=beta&t=radqRFAu7zAu0zGSdWmQUQMH9spWf0dbPdNvZ2aUdHY",
+    "profile_job": "IT Grad, SSN \u201824 \u2022 Former SDE Intern at Sulekha \u2022",
+    "experience": [
+        {
+            "big": "Software Engineer Intern",
+            "exp": "Jul 2023 to Sep 2023 \u00b7 3 mos",
+            "small": "Sulekha \u00b7 Internship\nChennai, Tamil Nadu, India \u00b7 On-site",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "PowerBI",
+        "SQL Server Integration Services (SSIS)",
+        "SQL Server Management Studio",
+        "Microsoft Azure",
+        "Wireframing",
+        "Software Development",
+        "Git",
+        "MySQL",
+        "Tkinter",
+        "Data Structures",
+        "Amazon Web Services (AWS)",
+        "Cloud Applications",
+        "Web Services API",
+        "Django",
+        "React.js",
+        "Version Control",
+        "JavaScript",
+        "HTML5",
+        "Communication",
+        "Problem Solving"
+    ],
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "Jun 2020 - May 2024",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": "Grade: 8.96\nActivities and societies: College Football Team"
+        },
+        {
+            "big": "The Indian Public School Erode & Salem",
+            "mid": "Higher Secondary, Computer Science",
+            "dur": "Jul 2018 - Jul 2020",
+            "img_src": "https://media.licdn.com/dms/image/C4E0BAQG52jlRsWJ5rQ/company-logo_100_100/0/1631342611736?e=1725494400&v=beta&t=yMhfojwtO_ebbLtoTv24stS5XOh0IDQUTbiLJLDXdAc",
+            "desc": "Grade: 95%\nActivities and societies: School Football Team"
+        },
+        {
+            "big": "Yuvabharathi Public School",
+            "mid": "Secondary School",
+            "dur": "Jul 2014 - Jul 2018",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQEf5HZXgZNXHQ/company-logo_100_100/0/1630635162657/yuvabharathi_public_school_logo?e=1725494400&v=beta&t=fmQoWQ6z_7fsRlM8biuGQFA7wrq-nly_unT5kCyVIrg",
+            "desc": "Grade: 88%\nActivities and societies: NCC Cadet , Football Team"
+        }
+    ]
+}

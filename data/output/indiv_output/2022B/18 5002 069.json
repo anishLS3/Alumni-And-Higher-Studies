@@ -1,0 +1,39 @@
+{
+    "register_num": "18 5002 069",
+    "profile_name": "Nithyashree N",
+    "profile_img": "https://media.licdn.com/dms/image/C4E03AQEqagwcyHDbpA/profile-displayphoto-shrink_400_400/0/1658827386693?e=1715817600&v=beta&t=WX_lcpp40JTGuUchNuALe3s1yh6gc8bE1RAT6vuMVGM",
+    "profile_job": "Technology Analyst at Citi || SSN IT '22",
+    "experience": [
+        {
+            "big": "Technology Analyst",
+            "exp": "Jul 2022 - Present \u00b7 1 yr 9 mos",
+            "small": "Citi \u00b7 Full-time",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "C++",
+        "Python (Programming Language)",
+        "Web Development",
+        "Data Structures",
+        "SQL",
+        "Django",
+        "HTML",
+        "CSS",
+        "Javascript",
+        "C (Programming Language)",
+        "Database Management System (DBMS)"
+    ],
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2018 - 2022",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+            "desc": "Grade: 8.88"
+        }
+    ]
+}

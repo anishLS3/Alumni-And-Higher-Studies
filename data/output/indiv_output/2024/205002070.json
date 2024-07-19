@@ -1,0 +1,74 @@
+{
+    "register_num": "205002070",
+    "profile_name": "Pritish SV",
+    "profile_img": "https://media.licdn.com/dms/image/D5603AQEGZd68PVwe6A/profile-displayphoto-shrink_400_400/0/1711526878465?e=1723075200&v=beta&t=t5j7nY3pd3GCqYXJ1OJf_m-968vCXLzllPx1AuDw90U",
+    "profile_job": "SDE | BTech Undergrad Student @ SSNCE",
+    "experience": [
+        {
+            "big": "Intern",
+            "exp": "Mar 2024 to Present \u00b7 4 mos",
+            "small": "Tejas Networks \u00b7 Internship\nBengaluru, Karnataka, India \u00b7 On-site",
+            "sub_exp": []
+        },
+        {
+            "big": "SDE Intern",
+            "exp": "Ontario, Canada \u00b7 Remote",
+            "small": "SwimNGo \u00b7 Internship",
+            "sub_exp": []
+        },
+        {
+            "big": "Social Media Head - SSN Student Branch",
+            "exp": "Aug 2022 to May 2023 \u00b7 10 mos",
+            "small": "IEEE Computer Society \u00b7 Full-time",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "SQL",
+        "React.js",
+        "Express",
+        "JavaScript",
+        "Cascading Style Sheets (CSS)",
+        "HTML",
+        "Kotlin",
+        "Java",
+        "C (Programming Language)",
+        "Python (Programming Language)",
+        "C++",
+        "Robotics",
+        "Arduino IDE"
+    ],
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2020 - 2024",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": ""
+        },
+        {
+            "big": "Indian Institute of Technology, Madras",
+            "mid": "Bachelor of Science - BS, Programming and Data Science",
+            "dur": "2021 - 2025",
+            "img_src": "https://media.licdn.com/dms/image/C4D0BAQGqbSuxjLqtWQ/company-logo_100_100/0/1659504006681/reachiitm_logo?e=1725494400&v=beta&t=RZTe_vedUjsgFJVxUV2FnQCiQggO7-gGFD1QSgO_wQE",
+            "desc": "Python (Programming Language)"
+        },
+        {
+            "big": "Chettinad Vidyashram",
+            "mid": "XII Std, Computer Science",
+            "dur": "2010 - 2020",
+            "img_src": "https://media.licdn.com/dms/image/C560BAQFTxLBvpXpNfg/company-logo_100_100/0/1630646834580/chettinad_vidyashram_logo?e=1725494400&v=beta&t=NCV5WfoU_tnE0-utFHM7NYUMn8gUj5MJm0yUrcylR1k",
+            "desc": ""
+        },
+        {
+            "big": "Hariyana Vidya Mandir, Kolkata",
+            "mid": "Primary Schooling",
+            "dur": "2007 - 2010",
+            "img_src": null,
+            "desc": null
+        }
+    ]
+}

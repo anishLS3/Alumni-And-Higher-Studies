@@ -1,0 +1,61 @@
+{
+    "register_num": "205002073",
+    "profile_name": "Ritheesh K.",
+    "profile_img": "https://media.licdn.com/dms/image/D5603AQGuY-RTBNEUGA/profile-displayphoto-shrink_400_400/0/1711788416659?e=1723075200&v=beta&t=PShIGJON3e_VP8VWTnIDbomA6RB8jKwpb84p69PZ2Xg",
+    "profile_job": "",
+    "experience": [
+        {
+            "big": "Committee Member",
+            "exp": "Aug 2022 to Present \u00b7 1 yr 11 mos",
+            "small": "Google DSC SSNCE\nChennai, Tamil Nadu, India",
+            "sub_exp": []
+        },
+        {
+            "big": "Committee Member",
+            "exp": "Jul 2022 to Present \u00b7 2 yrs",
+            "small": "ProCode IT SSN\nChennai, Tamil Nadu, India",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "Data Structures",
+        "Full-Stack Development",
+        "Machine Learning",
+        "Object-Oriented Programming (OOP)",
+        "Node.js",
+        "JavaScript",
+        "C++",
+        "Git",
+        "Express.js",
+        "Embedded JavaScript (EJS)",
+        "OpenAI API",
+        "Algorithms",
+        "Java",
+        "Python (Programming Language)",
+        "HTML5",
+        "Cascading Style Sheets (CSS)",
+        "MongoDB",
+        "Problem Solving",
+        "Competitive Programming",
+        "MySQL"
+    ],
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2020 - 2024",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": "Grade: 8.764 CGPA"
+        },
+        {
+            "big": "P S Senior Secondary School",
+            "mid": "High School Diploma, Computer Science",
+            "dur": "Apr 2017 - May 2020",
+            "img_src": null,
+            "desc": "Grade: 88.6% (2018) | 94.2% (2020)"
+        }
+    ]
+}

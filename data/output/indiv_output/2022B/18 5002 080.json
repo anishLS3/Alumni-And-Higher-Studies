@@ -1,0 +1,68 @@
+{
+    "register_num": "18 5002 080",
+    "profile_name": "Rithanya Sridhar",
+    "profile_img": "https://media.licdn.com/dms/image/D5603AQGg_Jl6uiAdDQ/profile-displayphoto-shrink_400_400/0/1708800284687?e=1715817600&v=beta&t=fz1FPQsH15N9ylBK12FFMJl9EsnmNEI03HOUnI0lk0s",
+    "profile_job": "Associate Software Engineer@Optum Global Solutions",
+    "experience": [
+        {
+            "big": "Software Engineer",
+            "exp": "Aug 2022 - Present \u00b7 1 yr 8 mos",
+            "small": "Optum \u00b7 Full-time\nHyderabad, Telangana, India",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "Python (Programming Language)",
+        "C++",
+        "C (Programming Language)",
+        "Microsoft Office",
+        "Visual Basic",
+        "Graphical User Interface (GUI)",
+        "Oracle Database",
+        "data science algorithms",
+        "HTML",
+        "Cascading Style Sheets (CSS)",
+        "JavaScript",
+        "MongoDB",
+        "AngularJS",
+        "Node.js",
+        "Full-Stack Development",
+        "SQL",
+        "Java",
+        "Git"
+    ],
+    "awards": null,
+    "volunteering": [
+        {
+            "big": "Volunteer",
+            "mid": "NSS SSN College",
+            "dur": "Aug 2018 - Present",
+            "exp": "5 yrs 8 mos",
+            "img": null
+        },
+        {
+            "big": "Vice President",
+            "mid": "SSN College of Engineering",
+            "dur": "Jun 2021 - Present",
+            "exp": "2 yrs 10 mos",
+            "img": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc"
+        }
+    ],
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2018 - 2022",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+            "desc": "Activities and societies: NSS Volunteer"
+        },
+        {
+            "big": "Vidyaa Vikas Higher Secondary school",
+            "mid": null,
+            "dur": null,
+            "img_src": null,
+            "desc": null
+        }
+    ]
+}

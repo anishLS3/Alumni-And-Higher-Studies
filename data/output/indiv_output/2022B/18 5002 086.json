@@ -1,0 +1,101 @@
+{
+    "register_num": "18 5002 086",
+    "profile_name": "Sandeep S",
+    "profile_img": "https://media.licdn.com/dms/image/D5603AQHiyH40zKKOgw/profile-displayphoto-shrink_400_400/0/1710249327150?e=1715817600&v=beta&t=Q_mCgqoG5c5kg8hQ5a5iBDmD5CtIIbmfbfRi9kMKOms",
+    "profile_job": "SDE @ Fidelity Investments",
+    "experience": [
+        {
+            "big": "Fidelity Investments",
+            "exp": "1 yr 8 mos",
+            "small": null,
+            "sub_exp": [
+                {
+                    "big": "Software Engineer",
+                    "exp": "Sep 2023 - Present \u00b7 7 mos",
+                    "small": "Chennai, Tamil Nadu, India"
+                },
+                {
+                    "big": "Associate Software Engineer",
+                    "exp": "Nov 2022 - Sep 2023 \u00b7 11 mos",
+                    "small": "Full-time\nChennai, Tamil Nadu, India"
+                },
+                {
+                    "big": "Executive Graduate Trainee",
+                    "exp": "Aug 2022 - Nov 2022 \u00b7 4 mos",
+                    "small": "Chennai, Tamil Nadu, India"
+                }
+            ]
+        },
+        {
+            "big": "Software Engineer Intern",
+            "exp": "Chennai, Tamil Nadu, India \u00b7 Remote",
+            "small": "Fidelity Investments",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "Angular Framework",
+        "Software Design Patterns",
+        "Spring MVC",
+        "Spring Framework",
+        "Hibernate",
+        "PL/SQL",
+        "Oracle SQL Developer",
+        "JHipster",
+        "Oracle Database",
+        "JavaScript",
+        "Software Design",
+        "Node.js",
+        "Embedded JavaScript (EJS)",
+        "JPA",
+        "Angular Command Line Interface (CLI)",
+        "Angular Material",
+        "AG Grid",
+        "Spring Boot",
+        "Angular",
+        "Oracle SQL"
+    ],
+    "awards": [
+        {
+            "big": "Shortlisted for IRIS National Fair 2014",
+            "mid": "Issued by IRIS National Fair, http://www.irisnationalfair.org/",
+            "date": "Issued by IRIS National Fair, http://www.irisnationalfair.org/ \u00b7 Dec 2014"
+        },
+        {
+            "big": "Distinguished All-Rounder",
+            "mid": "Issued by Padma Seshadri Bala Bhavan Sr. Sec. School",
+            "date": "Issued by Padma Seshadri Bala Bhavan Sr. Sec. School \u00b7 Jan 2014"
+        },
+        {
+            "big": "RK Narayanan Talent Award",
+            "mid": "Issued by Padma Seshadri Bala Bhavan Sr. Sec. School",
+            "date": "Issued by Padma Seshadri Bala Bhavan Sr. Sec. School \u00b7 Jan 2013"
+        }
+    ],
+    "volunteering": [
+        {
+            "big": "Student Volunteer",
+            "mid": "National Service Scheme",
+            "dur": "Jan 2019 - Sep 2020",
+            "exp": "1 yr 9 mos",
+            "img": "https://media.licdn.com/dms/image/C4E0BAQEJ6yAnaG3CtQ/company-logo_100_100/0/1631346049980?e=1718236800&v=beta&t=3yMZXOTUQ189F1VUuKt8KwJ03QOT_DDrcZnKzkDCUfg"
+        }
+    ],
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2018 - 2022",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+            "desc": "Grade: 9.1/10.0 CGPA"
+        },
+        {
+            "big": "Padma Seshadri Bala Bhavan Sr. Sec. School",
+            "mid": null,
+            "dur": null,
+            "img_src": "https://media.licdn.com/dms/image/C4E0BAQG9gRadvV9QSQ/company-logo_100_100/0/1630620332709/padma_seshadri_bala_bhavan_logo?e=1718236800&v=beta&t=X3JNkuCXB5ROg6echaDC3oCUCkEe_RFv66ZednbMIaU",
+            "desc": null
+        }
+    ]
+}

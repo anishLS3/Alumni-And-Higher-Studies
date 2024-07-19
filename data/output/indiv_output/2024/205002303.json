@@ -1,0 +1,62 @@
+{
+    "register_num": "205002303",
+    "profile_name": "Gokul Ajith V",
+    "profile_img": null,
+    "profile_job": "IT Undergraduate at SSN | SDE Intern at Comcast",
+    "experience": [
+        {
+            "big": "Development Engineer 1",
+            "exp": "Jan 2024 to Present \u00b7 6 mos",
+            "small": "Comcast \u00b7 Internship\nChennai, Tamil Nadu, India \u00b7 On-site",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "Data Structures",
+        "Algorithms",
+        "React.js",
+        "Express.js",
+        "AngularJS",
+        "REST APIs",
+        "Docker",
+        "HTML",
+        "Cascading Style Sheets (CSS)",
+        "JavaScript",
+        "SQL",
+        "MongoDB",
+        "Django",
+        "Node.js",
+        "Java",
+        "C++",
+        "Object-Oriented Programming (OOP)",
+        "Python (Programming Language)",
+        "Database Management System (DBMS)",
+        "Computer Networking"
+    ],
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "Sri Sivasubramaniya Nadar College Of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "Aug 2021 - Aug 2024",
+            "img_src": "https://media.licdn.com/dms/image/C560BAQGK5F9nqLbxLw/company-logo_100_100/0/1632548839827/sri_sivasubramaniya_nadar_college_of_engineering_logo?e=1725494400&v=beta&t=BXc9stpwt2cemvsJi8PFvZsM1q0viKHBnOssFxTr4gU",
+            "desc": "Grade: 7.83"
+        },
+        {
+            "big": "THANTHAI PERIYAR GOVERNMENT INSTITUTE OF TECHNOLOGY",
+            "mid": "Diploma, ECE",
+            "dur": "Jul 2019 - May 2021",
+            "img_src": "https://media.licdn.com/dms/image/C560BAQE0PmVgJqVLTA/company-logo_100_100/0/1630639931574/thanthai_periyar_government_institute_of_technology_logo?e=1725494400&v=beta&t=DB1iKCqVuC9sq3VVxrUFn7L_HEZissixqAwC7czwFeE",
+            "desc": "Grade: 95.3 %"
+        },
+        {
+            "big": "Cluny Matric Higher Secondary School, Devikapuram",
+            "mid": "HSC, Biology and Mathematics",
+            "dur": "Jul 2017 - Apr 2019",
+            "img_src": null,
+            "desc": null
+        }
+    ]
+}

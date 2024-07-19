@@ -1,0 +1,53 @@
+{
+    "register_num": "18 5002 095",
+    "profile_name": "Shruthi Arun",
+    "profile_img": null,
+    "profile_job": "Technology Analyst at Citi",
+    "experience": [
+        {
+            "big": "Application Developer",
+            "exp": "Jul 2022 - Present \u00b7 1 yr 9 mos",
+            "small": "Citi\nChennai, Tamil Nadu, India",
+            "sub_exp": []
+        },
+        {
+            "big": "Data Anayst Intern",
+            "exp": "Jul 2021 - Aug 2021 \u00b7 2 mos",
+            "small": "JK Fenner (India) Ltd \u00b7 Internship\nChennai",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "Java",
+        "Python (Programming Language)",
+        "SQL",
+        "Problem Solving",
+        "C++"
+    ],
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "Sri Sivasubramaniya Nadar College Of Engineering",
+            "mid": "Bachelor of Technology, Information Technology",
+            "dur": "2018 - 2022",
+            "img_src": "https://media.licdn.com/dms/image/C560BAQGK5F9nqLbxLw/company-logo_100_100/0/1632548839827/sri_sivasubramaniya_nadar_college_of_engineering_logo?e=1718236800&v=beta&t=YJyti6rlAQIyFb8y9OKqkzhkVTNrPyCEDUQd8u37ZLo",
+            "desc": "Grade: CGPA : 9.28\nActivities and societies: SSN AIT(Association of Information Technologists) SSN Music Club Lakshya(Student Entrepreneurship Cell) Attended National Sports Organization Camp"
+        },
+        {
+            "big": "Sri Sankara Senior Secondary School",
+            "mid": "Class XII, Computer Science",
+            "dur": "Jun 2017 - May 2018",
+            "img_src": null,
+            "desc": "Grade: Class XII: 96.2%"
+        },
+        {
+            "big": "Sri Sankara Senior Secondary School",
+            "mid": "Class X",
+            "dur": "Jun 2015 - May 2016",
+            "img_src": null,
+            "desc": "Grade: CGPA - 10.0\nActivities and societies: Sports: ThrowBall, BasketBall, Athletics teams"
+        }
+    ]
+}

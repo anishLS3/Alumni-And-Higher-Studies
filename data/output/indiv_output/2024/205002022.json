@@ -1,0 +1,77 @@
+{
+    "register_num": "205002022",
+    "profile_name": "Debika piriya D.",
+    "profile_img": null,
+    "profile_job": "Final yr IT undergrad @SSNCE|ML enthusiast",
+    "experience": [
+        {
+            "big": "Summer Intern",
+            "exp": "Remote",
+            "small": "Fidelity Investments \u00b7 Internship",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "AWS lex",
+        "AWS Lambda",
+        "React.js",
+        "Insomnia",
+        "Machine Learning Algorithms",
+        "Node.js",
+        "Front-End Development",
+        "Data Structures",
+        "HTML",
+        "Dart",
+        "C (Programming Language)",
+        "Swift (Programming Language)",
+        "Glific - whatsapp bot flow",
+        "Microsoft Word",
+        "Creative Problem Solving",
+        "Problem Solving",
+        "Abacus",
+        "Mathematics",
+        "Python (Programming Language)",
+        "C++"
+    ],
+    "awards": null,
+    "volunteering": [
+        {
+            "big": "Volunteer",
+            "mid": "National Service Scheme",
+            "dur": "Jan 2021 - Present",
+            "exp": "3 yrs 6 mos",
+            "img": "https://media.licdn.com/dms/image/C4E0BAQEJ6yAnaG3CtQ/company-logo_100_100/0/1631346049980?e=1725494400&v=beta&t=TuUjrTKZSJ2mfMD1K4OCR8B4l34fzscWLR94DSyetYM"
+        },
+        {
+            "big": "Student Editor",
+            "mid": "SSN College of Engineering",
+            "dur": "Jun 2022 - Jun 2023",
+            "exp": "1 yr 1 mo",
+            "img": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc"
+        }
+    ],
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2020 - 2024",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": null
+        },
+        {
+            "big": "Chennai Public School - India",
+            "mid": null,
+            "dur": null,
+            "img_src": "https://media.licdn.com/dms/image/C4E0BAQGuN2JJri209A/company-logo_100_100/0/1654725263408/chennai_public_school___india_logo?e=1725494400&v=beta&t=hasloVSLO8FvpyWupw6xh3c60DxPRSdWgvs5Yc_D_44",
+            "desc": null
+        },
+        {
+            "big": "Everwin vidhyashram",
+            "mid": null,
+            "dur": null,
+            "img_src": null,
+            "desc": "secured overall school first and highest score(thus far) in the school"
+        }
+    ]
+}

@@ -1,0 +1,152 @@
+{
+    "register_num": "18 5002 049",
+    "profile_name": "Keertivaas Sankaranarayanan",
+    "profile_img": "https://media.licdn.com/dms/image/C5603AQFpEL0OC7Q2RQ/profile-displayphoto-shrink_400_400/0/1658664302414?e=1715817600&v=beta&t=5gNCE-I7GnXCMt0X0rShSbrJr0gdCCEvc8sy4loxlro",
+    "profile_job": "Software Engineer at PayPal | SSN IT \u201822",
+    "experience": [
+        {
+            "big": "PayPal",
+            "exp": "2 yrs 2 mos",
+            "small": "Chennai, Tamil Nadu, India",
+            "sub_exp": [
+                {
+                    "big": "Software Engineer 1",
+                    "exp": "Jul 2022 - Present \u00b7 1 yr 9 mos",
+                    "small": "Full-time"
+                },
+                {
+                    "big": "Software Engineer Intern",
+                    "exp": "Feb 2022 - Jul 2022 \u00b7 6 mos",
+                    "small": "Internship"
+                }
+            ]
+        },
+        {
+            "big": "Coordinator, IEEE Website, SSNCE",
+            "exp": "Dec 2021 - Jun 2022 \u00b7 7 mos",
+            "small": "IEEE Student Branch - SSN",
+            "sub_exp": []
+        },
+        {
+            "big": "Coordinator & Webmaster, ProCoDe Website, Dept of IT",
+            "exp": "Sep 2021 - Jun 2022 \u00b7 10 mos",
+            "small": "ProCode IT SSN",
+            "sub_exp": []
+        },
+        {
+            "big": "Vice Chair, IEEE Computer Society Chapter - SSN Student Branch",
+            "exp": "Feb 2021 - Jun 2022 \u00b7 1 yr 5 mos",
+            "small": "IEEE Computer Society",
+            "sub_exp": []
+        },
+        {
+            "big": "Event Head, Invente, SSNCE",
+            "exp": "Sep 2021 - Oct 2021 \u00b7 2 mos",
+            "small": "Invente, SSNCE",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "Front-End Development",
+        "Jenkins",
+        "Continuous Integration and Continuous Delivery (CI/CD)",
+        "Kraken",
+        "Event Planning",
+        "Organization Skills",
+        "Team Building",
+        "Public Speaking",
+        "Java",
+        "Google Cloud Platform (GCP)",
+        "HTML",
+        "Cascading Style Sheets (CSS)",
+        "JavaScript",
+        "Bootstrap",
+        "MongoDB",
+        "Node.js",
+        "Teamwork",
+        "Communication",
+        "Leadership",
+        "Deep Learning"
+    ],
+    "awards": [
+        {
+            "big": "Second Rank in the 7th Semester, Department of Information Technology, SSNCE",
+            "mid": "Issued by SSN College of Engineering",
+            "date": "Issued by SSN College of Engineering \u00b7 Jun 2022"
+        },
+        {
+            "big": "D.A.V. Boys Senior Secondary School, Gopalapuram's Best Outgoing Student",
+            "mid": "Issued by D.A.V. Boys Senior Secondary School, Gopalapuram",
+            "date": "Issued by D.A.V. Boys Senior Secondary School, Gopalapuram \u00b7 Nov 2017"
+        }
+    ],
+    "volunteering": [
+        {
+            "big": "Web Development Head, ProCoDe Club, Coding Club of Dept of IT, SSNCE",
+            "mid": "ProCode IT SSN",
+            "dur": "Aug 2021 - Jun 2022",
+            "exp": "11 mos",
+            "img": "https://media.licdn.com/dms/image/C4E0BAQF-86y72n9OVQ/company-logo_100_100/0/1660033779292?e=1718236800&v=beta&t=dNqhe-KZFF1UjPcbr4gDFu7hblhrL-i5Uj4Fu0rC-Ik"
+        },
+        {
+            "big": "Member and Mentor, ProCoDe Club, Coding Club of Dept of IT, SSNCE",
+            "mid": "ProCode IT SSN",
+            "dur": "Aug 2018 - Jun 2022",
+            "exp": "3 yrs 11 mos",
+            "img": "https://media.licdn.com/dms/image/C4E0BAQF-86y72n9OVQ/company-logo_100_100/0/1660033779292?e=1718236800&v=beta&t=dNqhe-KZFF1UjPcbr4gDFu7hblhrL-i5Uj4Fu0rC-Ik"
+        },
+        {
+            "big": "Member",
+            "mid": "IEEE Computer Society",
+            "dur": "Mar 2020 - Dec 2022",
+            "exp": "2 yrs 10 mos",
+            "img": "https://media.licdn.com/dms/image/C560BAQGgbT-kdahf5A/company-logo_100_100/0/1640027182473/ieee_computer_society_logo?e=1718236800&v=beta&t=nNVc90ZU8tFgF4F6Q5AtE62Vb5jqfDbo-orGQnfGKAI"
+        },
+        {
+            "big": "Member",
+            "mid": "IEEE",
+            "dur": "Sep 2019 - Dec 2022",
+            "exp": "3 yrs 4 mos",
+            "img": "https://media.licdn.com/dms/image/C4E0BAQGoRdJYxmIDhQ/company-logo_100_100/0/1631326760285?e=1718236800&v=beta&t=lqQw8OC_szixbwZM70HThNugGBhEe4-ELSbrDKImKkY"
+        },
+        {
+            "big": "Volunteer",
+            "mid": "National Service Scheme",
+            "dur": "Aug 2018 - Sep 2020",
+            "exp": "2 yrs 2 mos",
+            "img": "https://media.licdn.com/dms/image/C4E0BAQEJ6yAnaG3CtQ/company-logo_100_100/0/1631346049980?e=1718236800&v=beta&t=3yMZXOTUQ189F1VUuKt8KwJ03QOT_DDrcZnKzkDCUfg"
+        }
+    ],
+    "publications": [
+        {
+            "title": "Histogram Matched Chest X-Rays Based Tuberculosis Detection Using CNN",
+            "journal": "Computer Systems Science and Engineering (CSSE) Journal",
+            "date": "Jun 1, 2022",
+            "desc": "",
+            "pub_link": "https://www.techscience.com/csse/v44n1/48063"
+        }
+    ],
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "Aug 2018 - Jun 2022",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+            "desc": "Grade: 9.19 (First Class with Distinction)"
+        },
+        {
+            "big": "DAV Group of Schools (TNAES), Chennai",
+            "mid": "CBSE Class 12",
+            "dur": "2016 - 2018",
+            "img_src": "https://media.licdn.com/dms/image/C560BAQH1W5GP2DUc8w/company-logo_100_100/0/1668508682067/davchennai_logo?e=1718236800&v=beta&t=jY-1m7dlQDtppIoQfPaFaEhDBC1xTGRUZJwvQHPoH14",
+            "desc": "Grade: 95.4%\n-> DAV Boys Gopalapuram Best Outgoing Student 2017-18"
+        },
+        {
+            "big": "DAV Group of Schools (TNAES), Chennai",
+            "mid": "CBSE Class 10",
+            "dur": "2004 - 2016",
+            "img_src": "https://media.licdn.com/dms/image/C560BAQH1W5GP2DUc8w/company-logo_100_100/0/1668508682067/davchennai_logo?e=1718236800&v=beta&t=jY-1m7dlQDtppIoQfPaFaEhDBC1xTGRUZJwvQHPoH14",
+            "desc": "Grade: 10 CGPA"
+        }
+    ]
+}

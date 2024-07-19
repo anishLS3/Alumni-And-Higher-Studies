@@ -1,0 +1,50 @@
+{
+    "register_num": "18 5002 074",
+    "profile_name": "Pranava Krishna",
+    "profile_img": "https://media.licdn.com/dms/image/C5603AQH0meuFRQyGgg/profile-displayphoto-shrink_800_800/0/1588609365060?e=1715817600&v=beta&t=fWytECbgy2Bq-0km4gn6-GDs7AmLVXpMC5jaZehC5B4",
+    "profile_job": "SDE @Mad Street Den",
+    "experience": [
+        {
+            "big": "Software Engineer",
+            "exp": "Jul 2022 - Present \u00b7 1 yr 9 mos",
+            "small": "Mad Street Den \u00b7 Full-time",
+            "sub_exp": []
+        },
+        {
+            "big": "SDE Intern",
+            "exp": "Dec 2021 - May 2022 \u00b7 6 mos",
+            "small": "Mad Street Den \u00b7 Internship",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "C++",
+        "C (Programming Language)",
+        "Python (Programming Language)",
+        "HTML5",
+        "Cascading Style Sheets (CSS)",
+        "SASS",
+        "JavaScript",
+        "Data Structures",
+        "Algorithms"
+    ],
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2018 - 2022",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+            "desc": null
+        },
+        {
+            "big": "Sri sankara senior secondary school",
+            "mid": "High school, Math , Physics and chemistry",
+            "dur": "2016 - 2018",
+            "img_src": null,
+            "desc": "Grade: 92%\nActivities and societies: School cricket team, Model United Nations"
+        }
+    ]
+}

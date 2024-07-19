@@ -1,0 +1,106 @@
+{
+    "register_num": "205002061",
+    "profile_name": "Pavithra Manikandan",
+    "profile_img": "https://media.licdn.com/dms/image/D5603AQG-ERLBuInQOg/profile-displayphoto-shrink_400_400/0/1689749832361?e=1723075200&v=beta&t=k13IUZIwW3nNXaGD5x3cHSCAP85MjlYGsNTJ6Jr6TAk",
+    "profile_job": "Student at SSN College of Engineering",
+    "experience": [
+        {
+            "big": "Summer Analyst",
+            "exp": "May 2023 to Jul 2023 \u00b7 3 mos",
+            "small": "Citi \u00b7 Internship",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "Search Engine Optimization (SEO)",
+        "AngularJS",
+        "Image Processing",
+        "C#",
+        "Virtual Reality (VR)",
+        "Haptics",
+        "XML",
+        "Artificial Intelligence (AI)",
+        "Node.js",
+        "JavaScript",
+        "Express.js",
+        "MongoDB",
+        "Gridfs",
+        "Microsoft Excel",
+        "Communication",
+        "Leadership",
+        "Java",
+        "HTML",
+        "SQL",
+        "C (Programming Language)"
+    ],
+    "awards": [
+        {
+            "big": "Merit scholarship for securing position among top 5% of students in the first academic year.",
+            "mid": null,
+            "date": null
+        },
+        {
+            "big": "Merit scholarship for securing position among top 5% of students in the second academic year.",
+            "mid": null,
+            "date": null
+        },
+        {
+            "big": "Recipient of All-rounder award in class 10.",
+            "mid": null,
+            "date": null
+        },
+        {
+            "big": "Selected as one of Top 10 Bharatanatyam Dancers in South India \u2013 by Shankara TV in the programme \u2018Natyaratna\u2019.",
+            "mid": null,
+            "date": null
+        }
+    ],
+    "volunteering": [
+        {
+            "big": "Student Volunteer",
+            "mid": "National Service Scheme",
+            "dur": null,
+            "exp": null,
+            "img": "https://media.licdn.com/dms/image/C4E0BAQEJ6yAnaG3CtQ/company-logo_100_100/0/1631346049980?e=1725494400&v=beta&t=TuUjrTKZSJ2mfMD1K4OCR8B4l34fzscWLR94DSyetYM"
+        },
+        {
+            "big": "Student Volunteer",
+            "mid": "SSN AIT",
+            "dur": null,
+            "exp": null,
+            "img": "https://media.licdn.com/dms/image/C560BAQHVSlT-IE-pJA/company-logo_100_100/0/1662004553488?e=1725494400&v=beta&t=bPD2uVkHYHGdDz83-QvwB-2Syq3ThOxaaAYf-TBGfHI"
+        },
+        {
+            "big": "Student Volunteer",
+            "mid": "SSN ACM-W Student Chapter",
+            "dur": null,
+            "exp": null,
+            "img": "https://media.licdn.com/dms/image/C560BAQG7xeo7IoSimA/company-logo_100_100/0/1630645191550?e=1725494400&v=beta&t=YEISsMyE9CCI1QxgOIGJdee9WSCTUDIRN_40epVB_r8"
+        }
+    ],
+    "publications": [
+        {
+            "title": "Identification and Classification of Eye Movements in Bharatanatyam using Deep Learning Techniques",
+            "journal": "Grenze International Journal of Engineering and Technology",
+            "date": "Jul 28, 2023",
+            "desc": "Other authors",
+            "pub_link": "https://thegrenze.com/pages/servej.php?fn=83.pdf&name=Identification%20and%20Classification%20of%20Eye%20Movements%20inBharatanatyam%20using%20Deep%20Learning%20Techniques&id=1912&association=GRENZE&journal=GIJET&year=2023&volume=9&issue=2"
+        }
+    ],
+    "education": [
+        {
+            "big": "Padma Seshadri Bala Bhavan Sr. Sec. School",
+            "mid": null,
+            "dur": null,
+            "img_src": "https://media.licdn.com/dms/image/C4E0BAQG9gRadvV9QSQ/company-logo_100_100/0/1630620332709/padma_seshadri_bala_bhavan_logo?e=1725494400&v=beta&t=E-Fdvq8NgbYKhZIPG2vvfWC_C10Tl3L-jpDE7K9zRQA",
+            "desc": null
+        },
+        {
+            "big": "SSN College of Engineering",
+            "mid": null,
+            "dur": null,
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": null
+        }
+    ]
+}

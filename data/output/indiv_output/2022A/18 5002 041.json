@@ -1,0 +1,99 @@
+{
+    "register_num": "18 5002 041",
+    "profile_name": "Jayesh Laxman",
+    "profile_img": "https://media.licdn.com/dms/image/C5603AQFWFi8BdnR65Q/profile-displayphoto-shrink_400_400/0/1642939393180?e=1715817600&v=beta&t=YUGb7OHlGGkWhW3qRe_yFd1-S68yn4RdcytQ0Gi3VOA",
+    "profile_job": "SDE @Samsung Electronics(e-Commerce) || Ex - Amazon(Intern)|| IT UnderGrad @SSN",
+    "experience": [
+        {
+            "big": "Software Development Engineer - 1",
+            "exp": "Aug 2022 - Present \u00b7 1 yr 8 mos",
+            "small": "Samsung Electronics \u00b7 Full-time\nChennai, Tamil Nadu, India",
+            "sub_exp": []
+        },
+        {
+            "big": "Software Development Engineer Intern",
+            "exp": "Feb 2022 - Jun 2022 \u00b7 5 mos",
+            "small": "Amazon \u00b7 Internship\nChennai, Tamil Nadu, India",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "CockroachDB",
+        "OpenTelemetry",
+        "Docker",
+        "JavaScript",
+        "Node.js",
+        "hapi.js",
+        "PostgreSQL",
+        "Redis",
+        "Elastic Stack (ELK)",
+        "RabbitMQ",
+        "Operating Systems",
+        "Object-Oriented Programming (OOP)",
+        "Leadership",
+        "Software Development",
+        "Tkinter",
+        "Mockito",
+        "JUnit",
+        "Git",
+        "Amazon Web Services (AWS)",
+        "Amazon Dynamodb"
+    ],
+    "awards": [
+        {
+            "big": "Merit Scholarship",
+            "mid": "Issued by SSN college",
+            "date": "Issued by SSN college \u00b7 Dec 2018"
+        },
+        {
+            "big": "topper in chemistry",
+            "mid": "Issued by st.johns matriculation higher secondary school",
+            "date": "Issued by st.johns matriculation higher secondary school \u00b7 Oct 2018"
+        },
+        {
+            "big": "Most Industrious student of the year",
+            "mid": "Issued by st.johns matriculation higher secondary school",
+            "date": "Issued by st.johns matriculation higher secondary school \u00b7 Dec 2017"
+        }
+    ],
+    "volunteering": [
+        {
+            "big": "Volunteer",
+            "mid": "National Service Scheme",
+            "dur": "Sep 2018 - Jul 2020",
+            "exp": "1 yr 11 mos",
+            "img": "https://media.licdn.com/dms/image/C4E0BAQEJ6yAnaG3CtQ/company-logo_100_100/0/1631346049980?e=1718236800&v=beta&t=3yMZXOTUQ189F1VUuKt8KwJ03QOT_DDrcZnKzkDCUfg"
+        },
+        {
+            "big": "DSA Head",
+            "mid": "ProCode",
+            "dur": "Aug 2021 - Present",
+            "exp": "2 yrs 8 mos",
+            "img": null
+        }
+    ],
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2018 - 2022",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+            "desc": "Grade: CGPA-8.92\nActivities and societies: Technical Head of DSA team. Active member in National service scheme\nMerit Scholar for the academic year 2018-2019"
+        },
+        {
+            "big": "St Johns Matriculation Higher Secondary School",
+            "mid": "12th, Computer Science",
+            "dur": "2016 - 2018",
+            "img_src": "https://media.licdn.com/dms/image/C4E0BAQExWy0tufhMQw/company-logo_100_100/0/1631323148998?e=1718236800&v=beta&t=D5o7FpOD1xS3nPkrsaibOAwKexL5h_wiW43L7qvPtuw",
+            "desc": "Grade: HSC-1167/1200\nRank Holder,Topper in chemistry/Physics,Handball Team captain Most Industrious Student of the year"
+        },
+        {
+            "big": "kavi bharathi vidyalaya,CBSE",
+            "mid": "High school",
+            "dur": "2008 - 2016",
+            "img_src": null,
+            "desc": "Grade: CGPA-10points\nMember of student council for the year 2014-2016 School handball and basketball team captain."
+        }
+    ]
+}

@@ -1,0 +1,153 @@
+{
+    "register_num": "18 5002 032",
+    "profile_name": "Harrison Vijay",
+    "profile_img": "https://media.licdn.com/dms/image/C5603AQG6cvVIRRQnyg/profile-displayphoto-shrink_400_400/0/1658154581561?e=1715817600&v=beta&t=RhsGQ3rraHZg6a4Kpoj95HQhzssYOXk_CWSlyJZo46c",
+    "profile_job": "Software Engineer at Google",
+    "experience": [
+        {
+            "big": "Software Engineer",
+            "exp": "Jul 2022 - Present \u00b7 1 yr 9 mos",
+            "small": "Google \u00b7 Full-time\nHyderabad, Telangana, India",
+            "sub_exp": []
+        },
+        {
+            "big": "Development Intern",
+            "exp": "Mar 2022 - May 2022 \u00b7 3 mos",
+            "small": "Indian Institute of Technology, Madras \u00b7 Internship\nChennai, Tamil Nadu, India",
+            "sub_exp": []
+        },
+        {
+            "big": "Summer Analyst Intern",
+            "exp": "May 2021 - Jul 2021 \u00b7 3 mos",
+            "small": "Citi \u00b7 Internship",
+            "sub_exp": []
+        },
+        {
+            "big": "SDE Intern",
+            "exp": "Jun 2020 - Sep 2020 \u00b7 4 mos",
+            "small": "ITK Education Services Pvt Ltd \u00b7 Internship\nChennai, Tamil Nadu, India",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "C++",
+        "Competitive Programming",
+        "Web Development",
+        "Data Structures",
+        "Algorithms",
+        "MERN Stack",
+        "Git",
+        "GitHub",
+        "Python (Programming Language)",
+        "Java",
+        "SQL",
+        "C (Programming Language)",
+        "VS Code",
+        "MS Office",
+        "MongoDB",
+        "Node",
+        "React",
+        "JavaScript",
+        "HTML",
+        "CSS"
+    ],
+    "awards": [
+        {
+            "big": "CodeChef Advanced Level DSA Certification",
+            "mid": "Issued by CodeChef",
+            "date": "Issued by CodeChef \u00b7 Mar 2022"
+        },
+        {
+            "big": "Global Rank 52 and India Rank 4 in IEEEXtreme 15.0 (out of 5500+ teams)",
+            "mid": "Issued by Institute of Electrical and Electronics Engineers (IEEE)",
+            "date": "Issued by Institute of Electrical and Electronics Engineers (IEEE) \u00b7 Mar 2022"
+        },
+        {
+            "big": "Global Rank 99 and India Rank 8 in IEEEXtreme 14.0 (out of 3700+ teams)",
+            "mid": "Issued by Institute of Electrical and Electronics Engineers (IEEE)",
+            "date": "Issued by Institute of Electrical and Electronics Engineers (IEEE) \u00b7 Jan 2021"
+        },
+        {
+            "big": "Merit Scholarship for Exemplary Performance in 2nd Year",
+            "mid": null,
+            "date": "Jan 2021"
+        },
+        {
+            "big": "Ranked 1283rd globally in Google Hashcode 2021",
+            "mid": null,
+            "date": "Jan 2021"
+        },
+        {
+            "big": "Won Codechef DSA Certification Scholarship for excellent performance in their monthly challenge",
+            "mid": "Issued by Codechef",
+            "date": "Issued by Codechef \u00b7 Jan 2020"
+        },
+        {
+            "big": "Global Rank 176 and India Rank 15 in IEEEXtreme 13.0 (out of 4000+ teams)",
+            "mid": "Issued by Institute of Electrical and Electronics Engineers (IEEE)",
+            "date": "Issued by Institute of Electrical and Electronics Engineers (IEEE) \u00b7 Jan 2019"
+        },
+        {
+            "big": "Merit Scholarship for Exemplary Performance in 1st Year",
+            "mid": null,
+            "date": "Jan 2019"
+        },
+        {
+            "big": "Ranked 1st among 100+ participants in the annual intra-department coding contest",
+            "mid": null,
+            "date": "Jan 2019"
+        },
+        {
+            "big": "Ranked 574th globally in Google Kickstart Round H (2020)",
+            "mid": null,
+            "date": null
+        }
+    ],
+    "volunteering": [
+        {
+            "big": "Secretary, SSN Chapter",
+            "mid": "IEEE Computer Society",
+            "dur": "Feb 2021 - Jul 2022",
+            "exp": "1 yr 6 mos",
+            "img": "https://media.licdn.com/dms/image/C560BAQGgbT-kdahf5A/company-logo_100_100/0/1640027182473/ieee_computer_society_logo?e=1718236800&v=beta&t=nNVc90ZU8tFgF4F6Q5AtE62Vb5jqfDbo-orGQnfGKAI"
+        },
+        {
+            "big": "Vice President and Mentor, ProCode",
+            "mid": "SSN College of Engineering",
+            "dur": null,
+            "exp": null,
+            "img": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc"
+        },
+        {
+            "big": "Student Member",
+            "mid": "IEEE",
+            "dur": "Sep 2019 - Jul 2022",
+            "exp": "2 yrs 11 mos",
+            "img": "https://media.licdn.com/dms/image/C4E0BAQGoRdJYxmIDhQ/company-logo_100_100/0/1631326760285?e=1718236800&v=beta&t=lqQw8OC_szixbwZM70HThNugGBhEe4-ELSbrDKImKkY"
+        },
+        {
+            "big": "Student Member",
+            "mid": "ACM, Association for Computing Machinery",
+            "dur": "Jan 2021 - Jul 2022",
+            "exp": "1 yr 7 mos",
+            "img": "https://media.licdn.com/dms/image/C4E0BAQHmhfTYf-PSPA/company-logo_100_100/0/1672756106986/association_for_computing_machinery_logo?e=1718236800&v=beta&t=BhOPLuRrF7b6S-wiRFbiRaQu4VJm3-C7EtCQH-cbfvc"
+        },
+        {
+            "big": "Volunteer",
+            "mid": "Youth Red Cross",
+            "dur": null,
+            "exp": null,
+            "img": null
+        }
+    ],
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor's degree, Information Technology",
+            "dur": "Jul 2018 - Jul 2022",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+            "desc": "Grade: 9.6425"
+        }
+    ]
+}

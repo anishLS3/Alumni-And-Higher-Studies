@@ -1,0 +1,70 @@
+{
+    "register_num": "205002048",
+    "profile_name": "Meghana Srikanth",
+    "profile_img": "https://media.licdn.com/dms/image/D4E03AQFbo_-gLFBCTg/profile-displayphoto-shrink_400_400/0/1697692587207?e=1723075200&v=beta&t=xa5pQ4YLXwmxsub5ovPRW_2tAiF1ArMyV1wjnIbRS9A",
+    "profile_job": "B.Tech IT Student | Entrepreneur",
+    "experience": [
+        {
+            "big": "Software Engineer",
+            "exp": "Jun 2023 to Aug 2023 \u00b7 3 mos",
+            "small": "Fidelity Investments \u00b7 Internship\nChennai, Tamil Nadu, India",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "French to English",
+        "English to French",
+        "Statistics",
+        "Mathematics",
+        "Internet of Things (IoT)",
+        "Java",
+        "Angular",
+        "Databases",
+        "Analytical Skills",
+        "Software Development",
+        "C (Programming Language)",
+        "C++",
+        "HTML",
+        "Business",
+        "Presentations",
+        "Teamwork",
+        "Translation",
+        "Social Media",
+        "French",
+        "Tamil"
+    ],
+    "awards": null,
+    "volunteering": [
+        {
+            "big": "Volunteer",
+            "mid": "Hidden Voices NGO",
+            "dur": "May 2023 - Present",
+            "exp": "1 yr 2 mos",
+            "img": null
+        },
+        {
+            "big": "Donor",
+            "mid": "SCARF (India)",
+            "dur": "Jul 2021 - Present",
+            "exp": "3 yrs",
+            "img": "https://media.licdn.com/dms/image/C4E0BAQE1MFGE3hJYSA/company-logo_100_100/0/1630607916089?e=1725494400&v=beta&t=UmLPHAX4HP-_5Z7DfGOFzpCDdrMt1yRTwCSlp-fnCEI"
+        }
+    ],
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor's degree, Information Technology",
+            "dur": "2020 - 2024",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": ""
+        },
+        {
+            "big": "Padma Seshadri Bala Bhavan Sr. Sec. School",
+            "mid": "High School Diploma, Computer Science",
+            "dur": "2018 - 2020",
+            "img_src": "https://media.licdn.com/dms/image/C4E0BAQG9gRadvV9QSQ/company-logo_100_100/0/1630620332709/padma_seshadri_bala_bhavan_logo?e=1725494400&v=beta&t=E-Fdvq8NgbYKhZIPG2vvfWC_C10Tl3L-jpDE7K9zRQA",
+            "desc": "Activities and societies: Environment Club, 5S, Coding Club"
+        }
+    ]
+}

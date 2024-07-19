@@ -1,0 +1,166 @@
+{
+    "register_num": "18 5002 018",
+    "profile_name": "Badri Narayanan Murali Krishnan",
+    "profile_img": "https://media.licdn.com/dms/image/D4E35AQHeIpAOUi_oTw/profile-framedphoto-shrink_400_400/0/1705795556200?e=1710885600&v=beta&t=yA8rz8ksmXs8Z_9xLKfsGJ2JbVsLKWHBy1b3T0aHh7M",
+    "profile_job": "Actively looking for Summer 2024 AI/ML internships | MS CS at UW-Madison | Ex AI/ML at Qualcomm",
+    "experience": [
+        {
+            "big": "Master's Research",
+            "exp": "Sep 2023 - Present \u00b7 7 mos",
+            "small": "University of Wisconsin-Madison \u00b7 Part-time\nMadison, Wisconsin, United States \u00b7 On-site",
+            "sub_exp": []
+        },
+        {
+            "big": "Associate Engineer - AI/ML",
+            "exp": "Jul 2022 - Jul 2023 \u00b7 1 yr 1 mo",
+            "small": "Qualcomm \u00b7 Full-time\nHyderabad, Telangana, India",
+            "sub_exp": []
+        },
+        {
+            "big": "Solarillion Foundation",
+            "exp": "Part-time \u00b7 2 yrs 5 mos",
+            "small": null,
+            "sub_exp": [
+                {
+                    "big": "Part-Time UG Teaching Assistant",
+                    "exp": "Jun 2021 - Jun 2022 \u00b7 1 yr 1 mo",
+                    "small": "Chennai, Tamil Nadu, India"
+                },
+                {
+                    "big": "Part-Time UG Research Assistant",
+                    "exp": "Feb 2020 - Jun 2022 \u00b7 2 yrs 5 mos",
+                    "small": "Chennai, Tamil Nadu, India"
+                }
+            ]
+        },
+        {
+            "big": "Machine Learning Intern",
+            "exp": "Mar 2021 - Jun 2022 \u00b7 1 yr 4 mos",
+            "small": "Mad Street Den \u00b7 Full-time\nChennai, Tamil Nadu, India",
+            "sub_exp": []
+        },
+        {
+            "big": "Sri Sivasubramaniya Nadar College Of Engineering",
+            "exp": "1 yr 6 mos",
+            "small": null,
+            "sub_exp": [
+                {
+                    "big": "Head of Machine Learning at PROCODE - official coding club of Department of Information Technology",
+                    "exp": "Aug 2021 - May 2022 \u00b7 10 mos",
+                    "small": "Part-time\nChennai, Tamil Nadu, India"
+                },
+                {
+                    "big": "Student Researcher",
+                    "exp": "Dec 2020 - Apr 2022 \u00b7 1 yr 5 mos",
+                    "small": "Full-time\nChennai, Tamil Nadu, India"
+                }
+            ]
+        }
+    ],
+    "skills": [
+        "Large Language Models (LLM)",
+        "SQL",
+        "Team Management",
+        "Leadership",
+        "Edge Machine Learning",
+        "Machine Learning",
+        "Deep Learning",
+        "Natural Language Processing (NLP)",
+        "Computer Vision",
+        "Speech Signal Processing",
+        "Data Structures",
+        "Algorithms",
+        "Database Management System (DBMS)",
+        "Operating Systems",
+        "Compilers",
+        "Object-Oriented Programming (OOP)",
+        "Python (Programming Language)",
+        "C (Programming Language)",
+        "C++",
+        "NumPy"
+    ],
+    "awards": [
+        {
+            "big": "Merit Scholarship",
+            "mid": "Issued by Sri Sivasubramaniya Nadar College of Engineering",
+            "date": "Issued by Sri Sivasubramaniya Nadar College of Engineering \u00b7 Jan 2022"
+        },
+        {
+            "big": "3rd Best Paper for \"Sign Language Translation using Multi Context Transformer\"",
+            "mid": "Issued by Mexican International Conference on Artficial Intelligence",
+            "date": "Issued by Mexican International Conference on Artficial Intelligence \u00b7 Oct 2021"
+        },
+        {
+            "big": "2nd Best Project in Computer Science",
+            "mid": "Issued by Vidya Mandir Senior Secondary School",
+            "date": "Issued by Vidya Mandir Senior Secondary School \u00b7 Jun 2018"
+        },
+        {
+            "big": "School 3rd - Chemistry",
+            "mid": "Issued by Vidya Mandir Senior Secondary School",
+            "date": "Issued by Vidya Mandir Senior Secondary School \u00b7 Jun 2018"
+        }
+    ],
+    "volunteering": [
+        {
+            "big": "English Teacher",
+            "mid": "Chennai Volunteers",
+            "dur": "Jun 2018 - Jul 2018",
+            "exp": "2 mos",
+            "img": "https://media.licdn.com/dms/image/C510BAQHYKyAYYR1LHA/company-logo_100_100/0/1631429102927/chennai_volunteers_logo?e=1718236800&v=beta&t=Xx6zniR-Vf9b87TKPZYuKU9FqTt83IJdti86JgjuV5g"
+        },
+        {
+            "big": "Reviewer",
+            "mid": "IOS Press",
+            "dur": "Feb 2023 - Present",
+            "exp": "1 yr 2 mos",
+            "img": "https://media.licdn.com/dms/image/C4D0BAQHYyRM9x8jPIw/company-logo_100_100/0/1632133007986/iospress_logo?e=1718236800&v=beta&t=1SsokkmD27RY_3waL1FCy1o7AnIrZ-UcPdY3KCecUi8"
+        }
+    ],
+    "publications": [
+        {
+            "title": "Fake News Detection using a Deep Learning Transformer architecture",
+            "journal": "IOS Press Journal of Intelligent & Fuzzy Systems",
+            "date": "Aug 23, 2023",
+            "desc": "Fake news production, accessibility, and consumption have all increased with the rise of internet-connected gadgets and social media platforms. A good fake news detection system is essential because the news readers receive can affect their opinions. Several works on fake news detection have been done using machine learning and deep learning approaches. Recently, the deep learning approach has been preferred over machine learning because of its ability to comprehend the intricacies of textual data. The introduction of transformer architecture changed the NLP paradigm and distinguished itself from recurrent models by enabling the processing of sentences as a whole rather than word by word. The attention mechanisms introduced in Transformers allowed them to understand the relationship between far-apart tokens in a sentence. Numerous deep learning works on fake news detection have been published by focusing on different features to determine the authenticity of a news source. We performed an extensive analysis of the comprehensive NELA-GT 2020 dataset, which revealed that the title and content of a news source contain discernible information critical for determining its integrity. To this objective, we introduce 'FakeNews Transformer' \u2014 a specialized Transformer-based architecture that considers the news story's title and content to assess its veracity. Our proposed work achieved an accuracy of 74.0% on a subset of the NELA-GT 2020 dataset. To our knowledge, FakeNews Transformer is the first published work that considers both title and content for evaluating a news article; thus, we compare the performance of our work against two BERT and two LSTM models working independently on title and content. Our work outperformed the BERT and LSTM models working independently on title by 7.6% and 9.6%, while performing better than the BERT and LSTM models working independently on content by 8.9% and 10.5%, respectively.",
+            "pub_link": "https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs223980"
+        },
+        {
+            "title": "End-to-End Speech Recognition of Tamil Language",
+            "journal": "Science Citation Index Expanded journal - Intelligent Automation & Soft Computing, 2022",
+            "date": "Nov 17, 2021",
+            "desc": "Research in speech recognition is progressing with numerous state-of-the-art results in recent times. However, relatively fewer research is being carried out in Automatic Speech Recognition (ASR) for languages with low resources. We present a method to develop speech recognition model with minimal resources using Mozilla DeepSpeech architecture. We have utilized freely available online computational resources for training, enabling similar approaches to be carried out for research in a low-resourced languages in a financially constrained environments. We also present novel ways to build an efficient language model from publicly available web resources to improve accuracy in ASR. The proposed ASR model gives the best result of 24.7% Word Error Rate (WER), compared to 55% WER by Google speech-to-text. We have also demonstrated a semi supervised development of speech corpus using our trained ASR model, indicating a cost effective approach of building large vocabulary corpus for low resource language. The trained Tamil ASR model and the training sets are released in public domain and are available on GitHub.",
+            "pub_link": "http://www.techscience.com/iasc/v32n2/45592"
+        },
+        {
+            "title": "Sign Language Translation Using Multi Context Transformer",
+            "journal": "Springer Lecture Notes in Artificial Intelligence (LNAI) - 20th Mexican International Conference on Artificial Intelligence (MICAI), Mexico City, 2021",
+            "date": "Oct 21, 2021",
+            "desc": "Sign Language Translation (SLT) is an important sequence-to-sequence problem that has been challenging to solve, because of the various factors which influence the meaning of a sign. In this paper, we implement a Multi Context Transformer architecture that attempts to solve this problem by operating on batched video segment representations called context vectors, intending to capture various temporal dependencies present between the frames to accurately translate the input signs. This architecture, being end-to-end also eliminates the need for sign language intermediaries known as glosses. Our model produces results that are on par with the state-of-the-art (98.19% score retention in the ROUGE-L score and 86.65% in the BLEU-4 score) while simultaneously achieving a 30.88% reduction in model parameters, which makes the model suitable for real-world applications. Our implementation is available on GitHub.",
+            "pub_link": "https://link.springer.com/chapter/10.1007/978-3-030-89820-5_25"
+        }
+    ],
+    "education": [
+        {
+            "big": "University of Wisconsin-Madison",
+            "mid": "Master of Science - MS, Computer Science",
+            "dur": "Sep 2023 - May 2025",
+            "img_src": "https://media.licdn.com/dms/image/C560BAQFyYW54n5mwAw/company-logo_100_100/0/1630601304331/university_of_wisconsin_madison_logo?e=1718236800&v=beta&t=tjxuT1XjxPIIdufnmjfOSZ3EiDs3orlXLS3adWkUXJk",
+            "desc": "Courses: CS 539 Artificial Neural Networks, CS 540 Artificial Intelligence, CS 744 Big Data Systems, CS 839 Data Clean & Integration for DS."
+        },
+        {
+            "big": "Sri Sivasubramaniya Nadar College Of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "Aug 2018 - May 2022",
+            "img_src": "https://media.licdn.com/dms/image/C560BAQGK5F9nqLbxLw/company-logo_100_100/0/1632548839827/sri_sivasubramaniya_nadar_college_of_engineering_logo?e=1718236800&v=beta&t=YJyti6rlAQIyFb8y9OKqkzhkVTNrPyCEDUQd8u37ZLo",
+            "desc": "Grade: 8.95 / 10.00\n\u2022 Autonomous institute affiliated to Anna University. \u2022 Courses: Machine Learning, Deep Learning, Artificial Intelligence, Probability, Statistics, Data Structures, Algorithms, Operating Systems and Compiler Design. \u2022 Graduated First Class with Distinction. \u2022 Received the Merit Scholarship for my academic performance in the 3rd year of my undergraduate study."
+        },
+        {
+            "big": "Vidya Mandir Senior Secondary School",
+            "mid": "Class XII, Computer Science",
+            "dur": "Jun 2017 - Jun 2018",
+            "img_src": "https://media.licdn.com/dms/image/C560BAQGAvHPgNx3Lzw/company-logo_100_100/0/1630661559800/vidya_mandir_senior_secondary_school_logo?e=1718236800&v=beta&t=2rNf-Hy04yU0tgvW_soBfFjgYs56uRRMM1A4R6CH_9c",
+            "desc": "Grade: 94.4%\nActivities and societies: \u2022 Captained the school cricket team.\n\u2022 Curriculum: Central Board of Secondary Education (CBSE). \u2022 Stood school 3rd in Chemistry in Grade 12 exams. \u2022 Was awarded the second best project in Computer Science in Grade 12.\nC++"
+        }
+    ]
+}

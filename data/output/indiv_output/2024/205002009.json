@@ -1,0 +1,34 @@
+{
+    "register_num": "205002009",
+    "profile_name": "Anirudh K",
+    "profile_img": "https://media.licdn.com/dms/image/D5603AQFNkTwqgL3tSA/profile-displayphoto-shrink_400_400/0/1691763715416?e=1723075200&v=beta&t=mYNGkKVdoL515J1TA1tTxrof4qHkefRc9-UaNRtNqzk",
+    "profile_job": "Incoming MS CSE Grad @ University of Michigan",
+    "experience": null,
+    "skills": null,
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": null,
+            "dur": null,
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": "Grade: 9.47\nActivities and societies: ACM-W member"
+        },
+        {
+            "big": "SSN College of Engineering",
+            "mid": null,
+            "dur": null,
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": null
+        },
+        {
+            "big": "SSN College of Engineering",
+            "mid": null,
+            "dur": null,
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": "Activities and societies: Ex-ACM-W"
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "register_num": "205002041",
+    "profile_name": "Karthikraja T P",
+    "profile_img": "https://media.licdn.com/dms/image/D5603AQGAna98Vhevow/profile-displayphoto-shrink_400_400/0/1713076622512?e=1723075200&v=beta&t=OiLKZF3DAJWhCLV-kmO0g4G_sGgDqH3xsNmK_-qm_Cw",
+    "profile_job": "WWDC\u201923 Swift Student Challenge Winner | IT Undergraduate, SSN College of Engineering",
+    "experience": null,
+    "skills": [
+        "Event Planning",
+        "Communication",
+        "Git",
+        "Problem Solving",
+        "Cascading Style Sheets (CSS)",
+        "iOS Development",
+        "iOS",
+        "Flask",
+        "Xcode",
+        "HTML",
+        "JavaScript",
+        "Leadership",
+        "Strategic Planning",
+        "Event Management",
+        "Team Coordination",
+        "Swift (Programming Language)",
+        "Python (Programming Language)",
+        "C++",
+        "C (Programming Language)"
+    ],
+    "awards": null,
+    "volunteering": [
+        {
+            "big": "Vice Chair",
+            "mid": "SSN IEEE Computer Society",
+            "dur": "Apr 2023 - Mar 2024",
+            "exp": "1 yr",
+            "img": "https://media.licdn.com/dms/image/D560BAQFAbOt0fmqS3w/company-logo_100_100/0/1708189949706?e=1725494400&v=beta&t=Jk2KxEFsFHg7VhpG-wqtrasZBCCNOlKEuKEIYOsHA0Q"
+        },
+        {
+            "big": "Scout",
+            "mid": "The Bharat Scouts & Guides",
+            "dur": "Aug 2014 - Apr 2018",
+            "exp": "3 yrs 9 mos",
+            "img": "https://media.licdn.com/dms/image/C4D0BAQEyznZFPIRUKQ/company-logo_100_100/0/1645613518745?e=1725494400&v=beta&t=wHQ-BH5AF4pgqN5HqB6vtORSZWYazRCHZvlBdtuvuhE"
+        }
+    ],
+    "publications": null,
+    "education": [
+        {
+            "big": "Sri Sivasubramaniya Nadar College Of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "Jul 2020 - May 2024",
+            "img_src": "https://media.licdn.com/dms/image/C560BAQGK5F9nqLbxLw/company-logo_100_100/0/1632548839827/sri_sivasubramaniya_nadar_college_of_engineering_logo?e=1725494400&v=beta&t=BXc9stpwt2cemvsJi8PFvZsM1q0viKHBnOssFxTr4gU",
+            "desc": "Grade: 8.98"
+        },
+        {
+            "big": "Sri Chaitanya College of Education",
+            "mid": "TSBIE CLASS XII",
+            "dur": "May 2018 - Mar 2020",
+            "img_src": "https://media.licdn.com/dms/image/C4E0BAQFGcnCCVep9bw/company-logo_100_100-alternative/0/1630620788881/sri_chaitanya_college_of_education_logo?e=1725494400&v=beta&t=-h0LUSAfcHH4C7G-gMBstdXvs86TbFsXJahdbwXvXYI",
+            "desc": null
+        },
+        {
+            "big": "The Bharathi Vidya Bhavan",
+            "mid": "AISSE CBSE Class X",
+            "dur": "Apr 2008 - Mar 2018",
+            "img_src": null,
+            "desc": "Activities and societies: The Bharat Scouts and Guides (Troop Leader), House Captain"
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+#!/home/neetzsche/Documents/10-19_Informatik/10_code/10.05_alumnator/data/env/bin/python3
+# -*- coding: utf-8 -*-
+import re
+import sys
+from google_auth_oauthlib.tool.__main__ import main
+if __name__ == '__main__':
+    sys.argv[0] = re.sub(r'(-script\.pyw|\.exe)?$', '', sys.argv[0])
+    sys.exit(main())

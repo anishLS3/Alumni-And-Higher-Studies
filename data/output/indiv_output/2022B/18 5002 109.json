@@ -1,0 +1,51 @@
+{
+    "register_num": "18 5002 109",
+    "profile_name": "Swathi Asokraj",
+    "profile_img": "https://media.licdn.com/dms/image/D5603AQHXkOKvq2T7cQ/profile-displayphoto-shrink_400_400/0/1696436909388?e=1715817600&v=beta&t=unf5dso4LqYIX0Hw0v04VvfA3mzL7xJQDHEA4HP6fDg",
+    "profile_job": "MS CS @ USC",
+    "experience": [
+        {
+            "big": "Software Development Engineer",
+            "exp": "Jun 2022 - Nov 2023 \u00b7 1 yr 6 mos",
+            "small": "Workato \u00b7 Full-time",
+            "sub_exp": []
+        },
+        {
+            "big": "Software Engineer Intern",
+            "exp": "Jun 2021 - Aug 2021 \u00b7 3 mos",
+            "small": "Optum \u00b7 Internship",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "Deep Learning",
+        "Computer Vision",
+        "C (Programming Language)",
+        "c",
+        "C++",
+        "Python (Programming Language)",
+        "HTML",
+        "Cascading Style Sheets (CSS)",
+        "SQL",
+        "Machine Learning"
+    ],
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "University of Southern California",
+            "mid": "Master of Science - MS, Computer Science",
+            "dur": "Jan 2024 - Dec 2025",
+            "img_src": "https://media.licdn.com/dms/image/C4E0BAQHatTfEv4Af6w/company-logo_100_100/0/1631312619853?e=1718236800&v=beta&t=-7InKiXWyWYqk44Rxagz0T25EiUpDSm54RNDIh0Vfuk",
+            "desc": null
+        },
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor's degree, Information Technology",
+            "dur": "2018 - 2022",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+            "desc": null
+        }
+    ]
+}

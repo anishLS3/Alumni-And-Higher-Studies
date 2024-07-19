@@ -1,0 +1,54 @@
+{
+    "register_num": "18 5002 063",
+    "profile_name": "Mohamed Jameel A H",
+    "profile_img": "https://media.licdn.com/dms/image/C5603AQHnsBmno8JMqg/profile-displayphoto-shrink_400_400/0/1636813897738?e=1715817600&v=beta&t=pxQsW6C9oVgd0CCTt0fQS4rc-FhrM_U1mnBbYOi1ZCM",
+    "profile_job": "Sr tech Associate at Bank of America || B.Tech IT - 18 to 22",
+    "experience": [
+        {
+            "big": "Student",
+            "exp": "Aug 2018 - Nov 2021 \u00b7 3 yrs 4 mos",
+            "small": "SSN College of Engineering\nKalavakkam Chennai",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "Python (Programming Language)",
+        "C (Programming Language)",
+        "Adobe Illustrator",
+        "Leadership Development",
+        "Event Management",
+        "Digital Marketing",
+        "Database Management System (DBMS)",
+        "Digital Marketing Analytics",
+        "Adobe Photoshop",
+        "HTML",
+        "Web Design",
+        "Digital Curation",
+        "Cloud bas",
+        "Curator",
+        "Leadership",
+        "Sql",
+        "Front-End Development",
+        "Web Framework",
+        "Selenium"
+    ],
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2018 - 2022",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+            "desc": null
+        },
+        {
+            "big": "Campion Anglo Indian Hr Sec School",
+            "mid": null,
+            "dur": null,
+            "img_src": null,
+            "desc": null
+        }
+    ]
+}

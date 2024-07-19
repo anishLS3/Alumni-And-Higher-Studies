@@ -1,0 +1,110 @@
+{
+    "register_num": "205002100",
+    "profile_name": "Subhalakshmi Chellakumar",
+    "profile_img": "https://media.licdn.com/dms/image/D5603AQHhzWUr7YtbTQ/profile-displayphoto-shrink_400_400/0/1689770968388?e=1723075200&v=beta&t=YQTLmePUVRXAjRAP5_2sBARh5FTG6HSroQQ70QzJhy0",
+    "profile_job": "SFE Intern at Fidelity Management and Research, India | Final Year IT undergrad at SSNCE | Former research intern at Vayusastra, IIT Madras | Student Placement Coordinator (Placecomm), SSNCE",
+    "experience": [
+        {
+            "big": "Software Engineering Intern - FI Wealth Management Technology",
+            "exp": "India \u00b7 Remote",
+            "small": "Fidelity Investments \u00b7 Internship",
+            "sub_exp": []
+        },
+        {
+            "big": "SSN College of Engineering",
+            "exp": "1 yr 11 mos",
+            "small": null,
+            "sub_exp": [
+                {
+                    "big": "Student placement coordinator",
+                    "exp": "Dec 2022 to Present \u00b7 1 yr 7 mos",
+                    "small": "Full-time\nChennai, Tamil Nadu, India \u00b7 Hybrid"
+                },
+                {
+                    "big": "Member of Editorial and Design Committee",
+                    "exp": "Aug 2022 to Present \u00b7 1 yr 11 mos",
+                    "small": "Part-time\nIndia"
+                }
+            ]
+        },
+        {
+            "big": "SDE Intern",
+            "exp": "Bangalore Urban, Karnataka, India \u00b7 Remote",
+            "small": "Fidelity Investments \u00b7 Internship",
+            "sub_exp": []
+        },
+        {
+            "big": "Research Intern",
+            "exp": "Apr 2023 to Jul 2023 \u00b7 4 mos",
+            "small": "Vayusastra, IIT Madras \u00b7 Internship\nChennai, Tamil Nadu, India \u00b7 On-site",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "Full-Stack Development",
+        "Project",
+        "ESP32 Microcontrollers",
+        "Sensors",
+        "Mqtt",
+        "Ifttt",
+        "Google Home",
+        "Adafruuit",
+        "Spring Boot",
+        "Canva",
+        "HTML5",
+        "CSS Flexbox",
+        "Bootstrap (Framework)",
+        "Agile Project Management",
+        "Scrum",
+        "Angular CLI",
+        "Internet of Things (IoT)",
+        "Django",
+        "Editing",
+        "Creative Writing"
+    ],
+    "awards": [
+        {
+            "big": "Rank Holder",
+            "mid": null,
+            "date": "Apr 2024"
+        },
+        {
+            "big": "Runner up of HackIT hackathon, 2023",
+            "mid": null,
+            "date": "Oct 2023"
+        }
+    ],
+    "volunteering": [
+        {
+            "big": "NTSE Teaching Volunteer",
+            "mid": "Talent Quest for India",
+            "dur": "Oct 2021 - Mar 2022",
+            "exp": "6 mos",
+            "img": "https://media.licdn.com/dms/image/C510BAQEOreiA5fomuA/company-logo_100_100/0/1630578106483?e=1725494400&v=beta&t=Gq39k8C6zfFAtlN-JourXjl4OU25sOQn71VBzj0z3Mo"
+        },
+        {
+            "big": "Student Volunteer",
+            "mid": "NSS UPES",
+            "dur": null,
+            "exp": null,
+            "img": "https://media.licdn.com/dms/image/C4D0BAQEB9vmTjt1oZA/company-logo_100_100/0/1655375129414?e=1725494400&v=beta&t=pr9kCfWM4kzGXSYxnZIYSe4D1YihUAnPP8HCevrwbV0"
+        }
+    ],
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2020 - 2024",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": null
+        },
+        {
+            "big": "Zero To Mastery Academy",
+            "mid": null,
+            "dur": null,
+            "img_src": "https://media.licdn.com/dms/image/C4D0BAQEKCFN27S4Ntg/company-logo_100_100/0/1630493959126/ztm_academy_logo?e=1725494400&v=beta&t=g9fMAVr4NljrkKzLncjqabKfNw-eaa2BvthR5xpYe4I",
+            "desc": null
+        }
+    ]
+}

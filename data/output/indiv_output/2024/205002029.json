@@ -1,0 +1,69 @@
+{
+    "register_num": "205002029",
+    "profile_name": "Dineshkumar A",
+    "profile_img": "https://media.licdn.com/dms/image/D5603AQEraX65lzs_0w/profile-displayphoto-shrink_400_400/0/1717241839822?e=1723075200&v=beta&t=V9jHP6SVP16GC3TAMRgn20XpqzWF470wNdaUbjrdHrs",
+    "profile_job": "Undergraduate Student || SSN College of Engineering",
+    "experience": [
+        {
+            "big": "Head of Design",
+            "exp": "Sep 2023 to May 2024 \u00b7 9 mos",
+            "small": "ProCode IT SSN",
+            "sub_exp": []
+        },
+        {
+            "big": "Graphic Design Intern",
+            "exp": "Jul 2023 to Aug 2023 \u00b7 2 mos",
+            "small": "Poornatha Partnering Entrepreneurs Pvt. Ltd. \u00b7 Full-time\nMadurai, Tamil Nadu, India \u00b7 On-site",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "Product Design",
+        "Digital Marketing",
+        "Canva",
+        "Typography",
+        "Graphic Design Education",
+        "Adobe InDesign",
+        "After Effects",
+        "C (Programming Language)",
+        "Blender",
+        "Figma (Software)",
+        "UI UX",
+        "Logo Design",
+        "3D Modeling",
+        "C++",
+        "Microsoft PowerPoint",
+        "Cascading Style Sheets (CSS)",
+        "HTML",
+        "Python (Programming Language)",
+        "Tally ERP",
+        "Adobe XD"
+    ],
+    "awards": null,
+    "volunteering": [
+        {
+            "big": "Student Volunteer",
+            "mid": "National Service Scheme",
+            "dur": "Jun 2018 - Present",
+            "exp": "6 yrs 1 mo",
+            "img": "https://media.licdn.com/dms/image/C4E0BAQEJ6yAnaG3CtQ/company-logo_100_100/0/1631346049980?e=1725494400&v=beta&t=TuUjrTKZSJ2mfMD1K4OCR8B4l34fzscWLR94DSyetYM"
+        }
+    ],
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "Nov 2020 - Jun 2024",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": "Grade: 7.9"
+        },
+        {
+            "big": "St. Annes Matriculation Higher Secondary School",
+            "mid": "High School , Matriculation",
+            "dur": "Jun 2018 - Apr 2020",
+            "img_src": null,
+            "desc": "Grade: 92%\nActivities and societies: - NSS Volunteer"
+        }
+    ]
+}

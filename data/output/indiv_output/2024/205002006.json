@@ -1,0 +1,48 @@
+{
+    "register_num": "205002006",
+    "profile_name": "Adithya Choudhry Madhayan",
+    "profile_img": "https://media.licdn.com/dms/image/D5635AQHY02s-J9-U0w/profile-framedphoto-shrink_400_400/0/1717312672073?e=1718042400&v=beta&t=0jwVIFkCnqAjI_MQ2gofWwGv04LIdN2aBhvcf4aV01s",
+    "profile_job": "IT Undergrad at SSN",
+    "experience": null,
+    "skills": [
+        "Microsoft SQL Server",
+        "Python (Programming Language)",
+        "Web Applications",
+        "Software Testing",
+        "Software Development",
+        "Problem Solving",
+        "API Testing",
+        "Communication",
+        "REST APIs",
+        "React.js",
+        "Data Structures",
+        "Object-Oriented Programming (OOP)",
+        "Git",
+        "SQL",
+        "Computer Science",
+        "C++",
+        "Microsoft Foundation Class (MFC)",
+        "Flutter",
+        "Dart",
+        "Core Java"
+    ],
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology , Information Technology",
+            "dur": "2020 - 2024",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": null
+        },
+        {
+            "big": "Sri Vijay Vidyalaya Boys Matric Hr Secondary School , Dharmapuri",
+            "mid": null,
+            "dur": "2004 - 2018",
+            "img_src": null,
+            "desc": null
+        }
+    ]
+}

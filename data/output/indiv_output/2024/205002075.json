@@ -1,0 +1,82 @@
+{
+    "register_num": "205002075",
+    "profile_name": "Rohith Saravanan",
+    "profile_img": "https://media.licdn.com/dms/image/D5603AQFiuONLeH5Nug/profile-displayphoto-shrink_400_400/0/1679681294080?e=1723075200&v=beta&t=r3WMw_ZcalhYh7oLA-9SFyxZ3XWZ0NTh35gWaz3bsqo",
+    "profile_job": "Undergraduate at SSN \u2022 Information Technology",
+    "experience": [
+        {
+            "big": "Application Development Intern",
+            "exp": "Feb 2024 to Present \u00b7 5 mos",
+            "small": "TransUnion \u00b7 Internship\nChennai, Tamil Nadu, India \u00b7 On-site",
+            "sub_exp": []
+        },
+        {
+            "big": "Frontend Engineer",
+            "exp": "Jul 2023 to Aug 2023 \u00b7 2 mos",
+            "small": "EasyEC \u00b7 Internship\nChennai, Tamil Nadu, India",
+            "sub_exp": []
+        },
+        {
+            "big": "UI Designer",
+            "exp": "Dec 2020 to Jan 2021 \u00b7 2 mos",
+            "small": "Siam Computing \u00b7 Internship\nChennai, Tamil Nadu, India",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "User Experience (UX)",
+        "React.js",
+        "Web Development",
+        "Machine Learning",
+        "Jupyter",
+        "Design",
+        "Adobe Illustrator",
+        "Online Advertising",
+        "C++",
+        "Adobe Photoshop",
+        "Analytic Problem Solving",
+        "Project Management",
+        "Adobe Premiere Pro",
+        "English",
+        "Algorithm Design",
+        "Python (Programming Language)",
+        "Graphic Design",
+        "Film Direction",
+        "Film Criticism",
+        "Film History"
+    ],
+    "awards": null,
+    "volunteering": [
+        {
+            "big": "Volunteer",
+            "mid": "Invente, SSNCE",
+            "dur": "Nov 2022 - Present",
+            "exp": "1 yr 8 mos",
+            "img": "https://media.licdn.com/dms/image/C560BAQFE9khGxAj0EQ/company-logo_100_100/0/1630663617548?e=1725494400&v=beta&t=TtlWFPyY8BhP_hgSaVxk4lUzVhrBOhRq1Ivx6FAVIxE"
+        },
+        {
+            "big": "Volunteer",
+            "mid": "National Service Scheme",
+            "dur": null,
+            "exp": null,
+            "img": "https://media.licdn.com/dms/image/C4E0BAQEJ6yAnaG3CtQ/company-logo_100_100/0/1631346049980?e=1725494400&v=beta&t=TuUjrTKZSJ2mfMD1K4OCR8B4l34fzscWLR94DSyetYM"
+        }
+    ],
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2020 - 2024",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": ""
+        },
+        {
+            "big": "Chinmaya Vidyalaya",
+            "mid": "High School",
+            "dur": "2014 - 2020",
+            "img_src": "https://media.licdn.com/dms/image/C4E0BAQGkKERzK_zxTw/company-logo_100_100/0/1630579358736?e=1725494400&v=beta&t=9v3XW9CY72px-L9YKnafn1de8_3-n-kpAc85yuquBCM",
+            "desc": "Passed out with 95%"
+        }
+    ]
+}

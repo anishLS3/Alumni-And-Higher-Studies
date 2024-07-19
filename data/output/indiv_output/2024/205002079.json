@@ -1,0 +1,64 @@
+{
+    "register_num": "205002079",
+    "profile_name": "Sai Vishvesh V",
+    "profile_img": "https://media.licdn.com/dms/image/D5603AQG6mm1pLL_4cw/profile-displayphoto-shrink_400_400/0/1716562425074?e=1723075200&v=beta&t=cejD7mA46bJ-q4AvikrZ9uVq3yJCdcWgaWPkGvfsAEA",
+    "profile_job": "IT Undergraduate @ SSN College of Engineering | Web Development",
+    "experience": [
+        {
+            "big": "Data Visualization Intern",
+            "exp": "Jan 2024 to Present \u00b7 6 mos",
+            "small": "Comcast \u00b7 Internship\nIndia \u00b7 On-site",
+            "sub_exp": []
+        },
+        {
+            "big": "Joint Secretary",
+            "exp": "Jun 2022 to Jan 2024 \u00b7 1 yr 8 mos",
+            "small": "SSN College of Engineering\nChennai, Tamil Nadu, India",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "Google Cloud Platform (GCP)",
+        "SQL",
+        "Tableau",
+        "JavaScript",
+        "Django",
+        "HTML",
+        "HTML5",
+        "Cascading Style Sheets (CSS)"
+    ],
+    "awards": null,
+    "volunteering": [
+        {
+            "big": "Social Media Manager",
+            "mid": "National Service Scheme",
+            "dur": "Apr 2021 - Present",
+            "exp": "3 yrs 3 mos",
+            "img": "https://media.licdn.com/dms/image/C4E0BAQEJ6yAnaG3CtQ/company-logo_100_100/0/1631346049980?e=1725494400&v=beta&t=TuUjrTKZSJ2mfMD1K4OCR8B4l34fzscWLR94DSyetYM"
+        }
+    ],
+    "publications": null,
+    "education": [
+        {
+            "big": "Indian Institute of Technology, Madras",
+            "mid": "Bachelor of Science - BS, Programming and Data Science",
+            "dur": "Aug 2021 - Dec 2024",
+            "img_src": "https://media.licdn.com/dms/image/C4D0BAQGqbSuxjLqtWQ/company-logo_100_100/0/1659504006681/reachiitm_logo?e=1725494400&v=beta&t=RZTe_vedUjsgFJVxUV2FnQCiQggO7-gGFD1QSgO_wQE",
+            "desc": null
+        },
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2020 - 2024",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": null
+        },
+        {
+            "big": "Maharishi Vidya Mandir Senior Secondary School",
+            "mid": "class12, Computer Science",
+            "dur": "2016 - 2020",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQEwuZA2M0SuZg/company-logo_100_100/0/1630567693343/maharishi_vidya_mandir_senior_secondary_school_logo?e=1725494400&v=beta&t=WM-d2iO7NzGpj4Yqk_H8TsZipXaZKgQ5bmamCDbc1Gg",
+            "desc": null
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "register_num": "18 5002 096",
+    "profile_name": "Siddharth Sundar",
+    "profile_img": null,
+    "profile_job": "Analyst",
+    "experience": [
+        {
+            "big": "Analyst",
+            "exp": "May 2023 - Present \u00b7 11 mos",
+            "small": "Tiger Analytics \u00b7 Full-time",
+            "sub_exp": []
+        },
+        {
+            "big": "Data Science Intern",
+            "exp": "Chennai, Tamil Nadu, India \u00b7 Remote",
+            "small": "Tiger Analytics \u00b7 Internship",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "GitHub",
+        "NumPy",
+        "Pandas",
+        "Algorithms",
+        "Teamwork",
+        "Information Technology",
+        "SQL",
+        "Java",
+        "English",
+        "Data Analysis",
+        "Object-Oriented Programming (OOP)",
+        "MySQL",
+        "Communication",
+        "Problem Solving",
+        "Git",
+        "Analytical Skills",
+        "HTML",
+        "Data Science",
+        "Computer Science",
+        "Python (Programming Language)"
+    ],
+    "awards": null,
+    "volunteering": [
+        {
+            "big": "Volunteer",
+            "mid": "Youth Red Cross",
+            "dur": "Dec 2018 - Mar 2020",
+            "exp": "1 yr 4 mos",
+            "img": null
+        }
+    ],
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor's degree, Information Technology",
+            "dur": "2018 - 2022",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+            "desc": "Grade: 8.91"
+        },
+        {
+            "big": "PSBB Group of Schools",
+            "mid": null,
+            "dur": "2003 - 2018",
+            "img_src": null,
+            "desc": null
+        }
+    ]
+}

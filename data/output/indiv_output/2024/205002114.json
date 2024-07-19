@@ -1,0 +1,28 @@
+{
+    "register_num": "205002114",
+    "profile_name": "G Udaykiron Chowdary",
+    "profile_img": "https://media.licdn.com/dms/image/D5635AQH-GTJWLF9lVQ/profile-framedphoto-shrink_400_400/0/1716995083684?e=1718049600&v=beta&t=EmX_HRPiY2L7PmMIIQkFpbtY6NCGuC0uv0J-LgGmMUc",
+    "profile_job": "Student at SSN College of Engineering",
+    "experience": null,
+    "skills": [
+        "Machine Learning",
+        "Node.js",
+        "Python (Programming Language)",
+        "React.js",
+        "C++",
+        "C (Programming Language)",
+        "Microsoft PowerPoint"
+    ],
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2020 - 2024",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": null
+        }
+    ]
+}

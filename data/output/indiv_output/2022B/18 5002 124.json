@@ -1,0 +1,114 @@
+{
+    "register_num": "18 5002 124",
+    "profile_name": "Vishnu Prakash Prasannan",
+    "profile_img": "https://media.licdn.com/dms/image/D5603AQGLRpf2UbdPXQ/profile-displayphoto-shrink_400_400/0/1705250105392?e=1715817600&v=beta&t=AZHmIj1_jTmraoLt8j3NKMtpRfyt7Fgo2Wto6jDQsFk",
+    "profile_job": "SDE-I (Devops) @ FIS | FinTech | SSN ('22) B.Tech Information Technology",
+    "experience": [
+        {
+            "big": "Software Engineer I",
+            "exp": "Jun 2022 - Present \u00b7 1 yr 10 mos",
+            "small": "FIS \u00b7 Full-time\nBengaluru, Karnataka, India",
+            "sub_exp": []
+        },
+        {
+            "big": "Undergraduate",
+            "exp": "Aug 2018 - Jun 2022 \u00b7 3 yrs 11 mos",
+            "small": "SSN College of Engineering \u00b7 Full-time\nChennai",
+            "sub_exp": []
+        },
+        {
+            "big": "Research Intern",
+            "exp": "Aug 2021 - Dec 2021 \u00b7 5 mos",
+            "small": "Advanced Manufacturing Technology Development Centre, IIT-Madras \u00b7 Internship\nIndia",
+            "sub_exp": []
+        },
+        {
+            "big": "Internship Program",
+            "exp": "Jan 2020 - Feb 2020 \u00b7 2 mos",
+            "small": "Verzeo \u00b7 Part-time\nChennai, Tamil Nadu",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "YAML",
+        "Shell Scripting",
+        "Jira",
+        "Bitbucket",
+        "DevOps",
+        "Jenkins",
+        "OpenShift",
+        "Git",
+        "C#",
+        "C (Programming Language)",
+        "Python (Programming Language)",
+        "Database Management System (DBMS)",
+        "Data Structures",
+        "Machine Learning",
+        "Data Analysis",
+        "Deep Learning",
+        "SQL",
+        "Oracle Database",
+        "C++",
+        "MATLAB"
+    ],
+    "awards": [
+        {
+            "big": "Silver Medalist (7th Semester)",
+            "mid": "Issued by SSN College of Engineering",
+            "date": "Issued by SSN College of Engineering \u00b7 Jun 2022"
+        },
+        {
+            "big": "Future Maintainer Award",
+            "mid": "Issued by Github",
+            "date": "Issued by Github \u00b7 Jun 2021"
+        }
+    ],
+    "volunteering": [
+        {
+            "big": "Volunteer",
+            "mid": "NSS -SSN",
+            "dur": "Sep 2018 - Present",
+            "exp": "5 yrs 7 mos",
+            "img": null
+        },
+        {
+            "big": "Volunteer",
+            "mid": "National Service Scheme",
+            "dur": "Sep 2018 - Present",
+            "exp": "5 yrs 7 mos",
+            "img": "https://media.licdn.com/dms/image/C4E0BAQEJ6yAnaG3CtQ/company-logo_100_100/0/1631346049980?e=1718236800&v=beta&t=3yMZXOTUQ189F1VUuKt8KwJ03QOT_DDrcZnKzkDCUfg"
+        }
+    ],
+    "publications": [
+        {
+            "title": "Backtracking Algorithm with Optical Character Recognition for Solving Sudoku Puzzles",
+            "journal": "ICCCEM 2022 - International Conference on Computing,Circuits,Energy and Materials - University College of Engineering Nagercoil",
+            "date": "Dec 16, 2022",
+            "desc": "",
+            "pub_link": "https://drive.google.com/file/d/1oGCl7rUtckF3mZABwHlGlzjthoyozMz4/view?usp=drivesdk"
+        }
+    ],
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2018 - 2022",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+            "desc": "Grade: CGPA : 9.41\nActivities and societies: NSS - Volunteered 100+ Hours In the Nss Wing Of Our College\nB.Tech Information Technology (2018-2022)"
+        },
+        {
+            "big": "DAV Public School - Gurgaon, Haryana",
+            "mid": null,
+            "dur": null,
+            "img_src": null,
+            "desc": "Gurgaon, Haryana"
+        },
+        {
+            "big": "Montfort Senior Secondary School - Nagpur, Maharashtra",
+            "mid": null,
+            "dur": null,
+            "img_src": null,
+            "desc": "Nagpur, Maharashtra"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "register_num": "18 5002 126",
+    "profile_name": "Visvesh R",
+    "profile_img": "https://media.licdn.com/dms/image/C5603AQFo88_iGkgidg/profile-displayphoto-shrink_400_400/0/1610301373128?e=1715817600&v=beta&t=9V04GbeYOBpCZC26NxH0cunzFOm0VbnyzSQs1q1M0l8",
+    "profile_job": "Incoming SDE at Publicis Sapient",
+    "experience": null,
+    "skills": [
+        "Python (Programming Language)",
+        "Java",
+        "PostgreSQL",
+        "C",
+        "C++",
+        "Angular JS",
+        "Keras",
+        "Machine Learning"
+    ],
+    "awards": null,
+    "volunteering": [
+        {
+            "big": "Volunteer",
+            "mid": "National Service Scheme",
+            "dur": null,
+            "exp": null,
+            "img": "https://media.licdn.com/dms/image/C4E0BAQEJ6yAnaG3CtQ/company-logo_100_100/0/1631346049980?e=1718236800&v=beta&t=3yMZXOTUQ189F1VUuKt8KwJ03QOT_DDrcZnKzkDCUfg"
+        }
+    ],
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2018 - 2022",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+            "desc": null
+        }
+    ]
+}

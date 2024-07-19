@@ -1,0 +1,55 @@
+{
+    "register_num": "18 5002 048",
+    "profile_name": "Siddhartha Sankar Katti",
+    "profile_img": "https://media.licdn.com/dms/image/D5635AQFlZVQJsexZyw/profile-framedphoto-shrink_400_400/0/1674457966085?e=1710885600&v=beta&t=llORMdvKkCuBvc-LjtWCJs-ompNo0e4cNK1SBDGGTDg",
+    "profile_job": "Ex-Data Analyst Intern @ Frontier Airlines | MSDS Student @ CU Boulder",
+    "experience": [
+        {
+            "big": "BI Data Analyst",
+            "exp": "Sep 2023 - Dec 2023 \u00b7 4 mos",
+            "small": "Frontier Airlines \u00b7 Internship\nDenver, Colorado, United States \u00b7 Hybrid",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "Microsoft Power BI",
+        "Python (Programming Language)",
+        "Statistical Data Analysis",
+        "Statistics",
+        "Machine Learning",
+        "Analytics",
+        "Microsoft Excel",
+        "Dashboards",
+        "Organization Skills",
+        "Oral Communication",
+        "Identifying Trends",
+        "User Requirements",
+        "Communication",
+        "Business Requirements",
+        "Pandas (Software)",
+        "EDA",
+        "Exploratory Data Analysis",
+        "Data Engineering",
+        "Datasets",
+        "Data Science"
+    ],
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "University of Colorado Boulder",
+            "mid": "Master's degree, Data Science",
+            "dur": "Aug 2022 - Aug 2024",
+            "img_src": "https://media.licdn.com/dms/image/C560BAQGueVr_GgFPZg/company-logo_100_100/0/1631322902142?e=1718236800&v=beta&t=mufVZdIOVHE6Rh6u3da1XaNbvQ-X2a219CmnOY6X4WY",
+            "desc": null
+        },
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2018 - 2022",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+            "desc": null
+        }
+    ]
+}

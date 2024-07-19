@@ -1,0 +1,43 @@
+{
+    "register_num": "18 5002 033",
+    "profile_name": "Harshavardhini G",
+    "profile_img": "https://media.licdn.com/dms/image/D5603AQFxmWHwaDf_Ww/profile-displayphoto-shrink_400_400/0/1704080630852?e=1715817600&v=beta&t=Z1gBaNbj-cf-YdO-48BtUbvExf3C6vmW1Hh7yDRrV4g",
+    "profile_job": "Technology Analyst @ Citi | SSN'22",
+    "experience": [
+        {
+            "big": "Citi Technology Analyst",
+            "exp": "Jul 2022 - Present \u00b7 1 yr 9 mos",
+            "small": "Citi \u00b7 Full-time\nChennai, Tamil Nadu, India",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "Jira",
+        "C (Programming Language)",
+        "SQL",
+        "Python (Programming Language)",
+        "Java",
+        "CSS",
+        "JavaScript",
+        "HTML"
+    ],
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "Aug 2018 - May 2022",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+            "desc": "Grade: CGPA 8.84"
+        },
+        {
+            "big": "Bhaktavatsalam Vidyashram Hr. Sec. School",
+            "mid": "Computer Science",
+            "dur": "2016 - 2018",
+            "img_src": null,
+            "desc": "Grade: 97.16%"
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "register_num": "205002076",
+    "profile_name": "Sahithi M R",
+    "profile_img": null,
+    "profile_job": "SIH '22 Grand Finalist | SSN IT'24",
+    "experience": [
+        {
+            "big": "Core Committee Member",
+            "exp": "Aug 2023 to Present \u00b7 11 mos",
+            "small": "ProCode IT SSN \u00b7 Full-time\nChennai, Tamil Nadu, India",
+            "sub_exp": []
+        },
+        {
+            "big": "Student Volunteer",
+            "exp": "Sep 2022 to Dec 2023 \u00b7 1 yr 4 mos",
+            "small": "ACM India \u00b7 Part-time\nChennai, Tamil Nadu, India",
+            "sub_exp": []
+        },
+        {
+            "big": "Event Organizer",
+            "exp": "Sep 2023 to Oct 2023 \u00b7 2 mos",
+            "small": "Invente, SSNCE \u00b7 Part-time",
+            "sub_exp": []
+        },
+        {
+            "big": "Student Alumni Representative",
+            "exp": "Jul 2022 to Jul 2023 \u00b7 1 yr 1 mo",
+            "small": "SSN Alumni Association \u00b7 Full-time\nChennai, Tamil Nadu, India",
+            "sub_exp": []
+        },
+        {
+            "big": "School Pupil Leader",
+            "exp": "Apr 2019 to Mar 2020 \u00b7 1 yr",
+            "small": "DAV Mat. Hr. Sec. School \u00b7 Full-time\nChennai, Tamil Nadu, India",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "Computer Vision",
+        "Artificial Intelligence (AI)",
+        "Python (Programming Language)",
+        "C++",
+        "C",
+        "Scikit-Learn",
+        "Machine Learning",
+        "Object-Oriented Programming (OOP)",
+        "Deep Learning",
+        "Database Management System (DBMS)",
+        "Tableau",
+        "SQL",
+        "Microsoft Power BI",
+        "TensorFlow",
+        "OpenCV",
+        "Node.js",
+        "Flutter",
+        "Dart",
+        "Image Processing",
+        "Signal Processing"
+    ],
+    "awards": [
+        {
+            "big": "Vivid 6.0 - National Level Project Competition",
+            "mid": "Issued by SSN College of Engineering",
+            "date": "Issued by SSN College of Engineering \u00b7 Sep 2022"
+        },
+        {
+            "big": "Smart India Hackathon 2022 - Grand Finalist",
+            "mid": null,
+            "date": "Aug 2022"
+        }
+    ],
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2020 - 2024",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": "Grade: 8.76"
+        },
+        {
+            "big": "DAV Group of Schools (TNAES), Chennai",
+            "mid": "Higher National Diploma",
+            "dur": "Mar 2018 - Mar 2020",
+            "img_src": "https://media.licdn.com/dms/image/C560BAQH1W5GP2DUc8w/company-logo_100_100/0/1668508682067/davchennai_logo?e=1725494400&v=beta&t=hhp752FpVwhy7XZDG0OEV39k-b4hlL0Fer6WPUzKdcc",
+            "desc": "Grade: 564/600"
+        },
+        {
+            "big": "DAV Group of Schools (TNAES), Chennai",
+            "mid": "High School Diploma",
+            "dur": "Mar 2005 - Mar 2018",
+            "img_src": "https://media.licdn.com/dms/image/C560BAQH1W5GP2DUc8w/company-logo_100_100/0/1668508682067/davchennai_logo?e=1725494400&v=beta&t=hhp752FpVwhy7XZDG0OEV39k-b4hlL0Fer6WPUzKdcc",
+            "desc": "Grade: 95%\nPublic Speaking"
+        }
+    ]
+}

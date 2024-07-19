@@ -1,0 +1,38 @@
+{
+    "register_num": "18 5002 070",
+    "profile_name": "Nivethitha M",
+    "profile_img": "https://media.licdn.com/dms/image/D5603AQHLRVQH0qtt9A/profile-displayphoto-shrink_400_400/0/1692757503369?e=1715817600&v=beta&t=vaz02yuPxvwkB9u5fh25jCzluw6_15V9bGPuv3vMjhc",
+    "profile_job": "Software Engineer | Ruckus Commscope Networks India pvt Ltd",
+    "experience": [
+        {
+            "big": "Software Engineer",
+            "exp": "Jul 2022 - Present \u00b7 1 yr 9 mos",
+            "small": "CommScope",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "C and C++ programming",
+        "Oracle Database",
+        "HTML and CSS"
+    ],
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2018 - 2022",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+            "desc": null
+        },
+        {
+            "big": "Chellammal Vidhyalaya Matriculation Hr,Sec ,School",
+            "mid": null,
+            "dur": null,
+            "img_src": null,
+            "desc": null
+        }
+    ]
+}

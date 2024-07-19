@@ -1,0 +1,65 @@
+{
+    "register_num": "18 5002 010",
+    "profile_name": "Alfrin AJ",
+    "profile_img": "https://media.licdn.com/dms/image/C5603AQFgqVg0xD3NyA/profile-displayphoto-shrink_400_400/0/1630383695976?e=1715817600&v=beta&t=TnwTh4N4LD6O0_L69Quyr5AoopYAo8ioQVPNeuAgRjk",
+    "profile_job": "Associate Consultant at EY",
+    "experience": [
+        {
+            "big": "EY",
+            "exp": "2 yrs 2 mos",
+            "small": "Chennai, Tamil Nadu, India",
+            "sub_exp": [
+                {
+                    "big": "Associate Consultant",
+                    "exp": "Aug 2023 - Present \u00b7 8 mos",
+                    "small": "Full-time\nOn-site"
+                },
+                {
+                    "big": "Senior Data Analyst",
+                    "exp": "Aug 2022 - Aug 2023 \u00b7 1 yr 1 mo",
+                    "small": "Full-time"
+                },
+                {
+                    "big": "Data Analyst",
+                    "exp": "Feb 2022 - Jul 2022 \u00b7 6 mos",
+                    "small": "Internship"
+                }
+            ]
+        },
+        {
+            "big": "User Experience Designer",
+            "exp": "Jul 2020 - Sep 2022 \u00b7 2 yrs 3 mos",
+            "small": "myCTO.live \u00b7 Freelance\nTamil Nadu, India",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "Service Portfolio Management",
+        "Application Development",
+        "Integrated Risk Management",
+        "GRC",
+        "ServiceNow",
+        "ServiceNow Administration",
+        "Graphic Design",
+        "Video Editing",
+        "Photography",
+        "Animation",
+        "Adobe Illustrator",
+        "Digital Marketing",
+        "Marketing",
+        "Editing",
+        "Customer Experience"
+    ],
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "B.Tech, Information Technology",
+            "dur": "2018 - 2022",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+            "desc": null
+        }
+    ]
+}

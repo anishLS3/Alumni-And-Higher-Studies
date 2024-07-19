@@ -1,0 +1,55 @@
+{
+    "register_num": "205002034",
+    "profile_name": "Guhan S",
+    "profile_img": "https://media.licdn.com/dms/image/D5603AQEs0g4zmaQDNg/profile-displayphoto-shrink_400_400/0/1676824701036?e=1723075200&v=beta&t=WYONaL_3eVRKsm_H8RFr84cV77YWfoMpxyhOT_tSE0k",
+    "profile_job": "Student at SSN College of Engineering| Intern @ Quickplay",
+    "experience": [
+        {
+            "big": "Intern",
+            "exp": "Jan 2024 to Present \u00b7 6 mos",
+            "small": "Quickplay \u00b7 Internship\nChennai, Tamil Nadu, India",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "Git",
+        "Jira",
+        "Natural Language Processing (NLP)",
+        "Deep Learning",
+        "Machine Learning Algorithms",
+        "Data Storage Technologies",
+        "Data Storage",
+        "Data Science",
+        "Artificial Intelligence (AI)",
+        "Big Data",
+        "Computer Science",
+        "API Development",
+        "Troubleshooting",
+        "Application Programming Interfaces (API)",
+        "REST APIs",
+        "JSON",
+        "Programming",
+        "Analytical Skills",
+        "Data Analysis",
+        "Strategic Roadmaps"
+    ],
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2020 - 2024",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": null
+        },
+        {
+            "big": "Sri Sankara Senior Secondary School",
+            "mid": null,
+            "dur": null,
+            "img_src": null,
+            "desc": null
+        }
+    ]
+}

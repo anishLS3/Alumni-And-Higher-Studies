@@ -1,0 +1,65 @@
+{
+    "register_num": "18 5002 115",
+    "profile_name": "Vaishnavi devi KS",
+    "profile_img": null,
+    "profile_job": "Associate Consultant",
+    "experience": [
+        {
+            "big": "Associate Consultant",
+            "exp": "Jul 2022 - Present \u00b7 1 yr 9 mos",
+            "small": "ORACLE FINANCIAL SERVICES SOFTWARE LIMITED \u00b7 Full-time\nChennai, Tamil Nadu, India",
+            "sub_exp": []
+        },
+        {
+            "big": "Web Development Intern",
+            "exp": "May 2021 - May 2021 \u00b7 1 mo",
+            "small": "The Sparks Foundation \u00b7 Internship",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "Front-end Development",
+        "HTML",
+        "C (Programming Language)",
+        "Data Structures",
+        "Java",
+        "Python (Programming Language)",
+        "Cascading Style Sheets (CSS)",
+        "JavaScript",
+        "Microsoft Office",
+        "Bootstrap",
+        "SQL",
+        "C++",
+        "Communication",
+        "Teamwork",
+        "English",
+        "Tamil"
+    ],
+    "awards": null,
+    "volunteering": [
+        {
+            "big": "Volunteer",
+            "mid": "National Service Scheme",
+            "dur": "Aug 2018 - Present",
+            "exp": "5 yrs 8 mos",
+            "img": "https://media.licdn.com/dms/image/C4E0BAQEJ6yAnaG3CtQ/company-logo_100_100/0/1631346049980?e=1718236800&v=beta&t=3yMZXOTUQ189F1VUuKt8KwJ03QOT_DDrcZnKzkDCUfg"
+        }
+    ],
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2018 - 2022",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+            "desc": null
+        },
+        {
+            "big": "DAV Matriculation higher secondary school",
+            "mid": "HSC",
+            "dur": "2016 - 2018",
+            "img_src": null,
+            "desc": null
+        }
+    ]
+}

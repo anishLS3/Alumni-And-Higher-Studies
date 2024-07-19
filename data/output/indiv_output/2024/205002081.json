@@ -1,0 +1,42 @@
+{
+    "register_num": "205002081",
+    "profile_name": "SaravanaKumar M",
+    "profile_img": "https://media.licdn.com/dms/image/C5603AQEVyoSJ8vhalA/profile-displayphoto-shrink_800_800/0/1647010650295?e=1723075200&v=beta&t=yuc1vG25CfsJkuz1LpOCelgZUGo0hCpgcRMQMIeO-Xw",
+    "profile_job": "Student at Sri Sivasubramaniya Nadar College Of Engineering",
+    "experience": [
+        {
+            "big": "Summer Software Analyst",
+            "exp": "May 2023 to Jul 2023 \u00b7 3 mos",
+            "small": "Citi India \u00b7 Internship\nChennai, Tamil Nadu, India \u00b7 Hybrid",
+            "sub_exp": []
+        }
+    ],
+    "skills": null,
+    "awards": null,
+    "volunteering": [
+        {
+            "big": "Member",
+            "mid": "SSN YRC",
+            "dur": "Feb 2021 - Present",
+            "exp": "3 yrs 5 mos",
+            "img": "https://media.licdn.com/dms/image/C560BAQHWCuXNg938xA/company-logo_100_100/0/1642152180925/ssn_yrc_logo?e=1725494400&v=beta&t=6_4YXFfDQKXqsYH1p8JZsxNkI9TdXe0uKBqc8iEAkzY"
+        }
+    ],
+    "publications": null,
+    "education": [
+        {
+            "big": "Sri Sivasubramaniya Nadar College Of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2020 - 2024",
+            "img_src": "https://media.licdn.com/dms/image/C560BAQGK5F9nqLbxLw/company-logo_100_100/0/1632548839827/sri_sivasubramaniya_nadar_college_of_engineering_logo?e=1725494400&v=beta&t=BXc9stpwt2cemvsJi8PFvZsM1q0viKHBnOssFxTr4gU",
+            "desc": null
+        },
+        {
+            "big": "SRDF Vivekananda Vidyalaya, Chennai",
+            "mid": "Class 12, Computer Science",
+            "dur": "2006 - 2020",
+            "img_src": "https://media.licdn.com/dms/image/C560BAQEuFz_asuQIIg/company-logo_100_100/0/1630617204762?e=1725494400&v=beta&t=gmJInayiKFdsYOfQCnR1tdDvvQvGe4h0_MtuWvWe5JI",
+            "desc": null
+        }
+    ]
+}

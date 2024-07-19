@@ -1,0 +1,59 @@
+{
+    "register_num": "18 5002 301",
+    "profile_name": "Jesone Sam",
+    "profile_img": "https://media.licdn.com/dms/image/D5603AQG1cOcFzfBNtA/profile-displayphoto-shrink_400_400/0/1699518723788?e=1715817600&v=beta&t=IO-nQ_JKsRr7r6qM9aJz36wZ7ryas5n-1kbovvhhH5U",
+    "profile_job": "Associate Consultant at EY",
+    "experience": [
+        {
+            "big": "EY",
+            "exp": "Full-time \u00b7 1 yr 8 mos",
+            "small": "Chennai, Tamil Nadu, India",
+            "sub_exp": [
+                {
+                    "big": "Associate Consultant",
+                    "exp": "Oct 2023 - Present \u00b7 6 mos",
+                    "small": null
+                },
+                {
+                    "big": "Senior Analyst",
+                    "exp": "Aug 2022 - Oct 2023 \u00b7 1 yr 3 mos",
+                    "small": null
+                }
+            ]
+        }
+    ],
+    "skills": [
+        "Linux",
+        "Secure SDLC",
+        "Internet Security",
+        "Python (Programming Language)",
+        "TISAX",
+        "Information Security Management System (ISMS)",
+        "SOC 1",
+        "SOC 2",
+        "IT Audit",
+        "Financial Reporting",
+        "Microsoft Office",
+        "Arch Linux",
+        "Pandas (Software)"
+    ],
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor's degree, Information Technology",
+            "dur": "2019 - 2022",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+            "desc": null
+        },
+        {
+            "big": "Panimalar Polytechnic College",
+            "mid": "Diploma of Education, Electronics and Communications Engineering",
+            "dur": "Jun 2016 - Apr 2019",
+            "img_src": null,
+            "desc": "Grade: 92.3"
+        }
+    ]
+}

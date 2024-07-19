@@ -1,0 +1,61 @@
+{
+    "register_num": "18 5002 099",
+    "profile_name": "Sneha S",
+    "profile_img": "https://media.licdn.com/dms/image/D5603AQEVZUB46Zr9FQ/profile-displayphoto-shrink_400_400/0/1669716571678?e=1715817600&v=beta&t=H5nugd6qiVAm8jlqVRacfnyCjDTdWOyEZ5NTnFQAsN0",
+    "profile_job": "Programmer Analyst Trainee | Cognizant",
+    "experience": [
+        {
+            "big": "Cognizant",
+            "exp": "1 yr 5 mos",
+            "small": "Chennai, Tamil Nadu, India",
+            "sub_exp": [
+                {
+                    "big": "Programmer Analyst Trainee",
+                    "exp": "Jun 2023 - Present \u00b7 10 mos",
+                    "small": "Full-time\nHybrid"
+                },
+                {
+                    "big": "Programmer Analyst Trainee",
+                    "exp": "Nov 2022 - May 2023 \u00b7 7 mos",
+                    "small": "Apprenticeship"
+                }
+            ]
+        }
+    ],
+    "skills": [
+        "Selenium WebDriver",
+        "English",
+        "Selenium",
+        "SoapUI",
+        "Cucumber",
+        "Java",
+        "SQL",
+        "HTML",
+        "Cascading Style Sheets (CSS)",
+        "Manual Testing",
+        "JavaScript",
+        "C++",
+        "C#",
+        "PL/SQL",
+        "C (Programming Language)"
+    ],
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "Aug 2018 - Jul 2022",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+            "desc": "Grade: 8.33"
+        },
+        {
+            "big": "SRM Nightingale School",
+            "mid": "Computer Science",
+            "dur": "2017 - 2018",
+            "img_src": null,
+            "desc": "Grade: 91.5%"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "register_num": "205002069",
+    "profile_name": "Prithvi kiran Prem kumar",
+    "profile_img": "https://media.licdn.com/dms/image/C5603AQF890ZiNfw-vg/profile-displayphoto-shrink_400_400/0/1644071054330?e=1723075200&v=beta&t=AUo1qep5QE6vSGSnS_pB3ykpZQtPUuy6VeKwMlWh1kQ",
+    "profile_job": "Large Language Models ,Machine Learning ,IT undergrad at SSNCE(Anna University),",
+    "experience": null,
+    "skills": [
+        "Python (Programming Language)",
+        "Blockchain",
+        "Ethereum"
+    ],
+    "awards": null,
+    "volunteering": [
+        {
+            "big": "Core team member ,Procode",
+            "mid": "SSN College of Engineering",
+            "dur": "Jul 2022 - Present",
+            "exp": "2 yrs",
+            "img": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc"
+        },
+        {
+            "big": "Volunteer",
+            "mid": "Invente, SSNCE",
+            "dur": "Nov 2021",
+            "exp": "1 mo",
+            "img": "https://media.licdn.com/dms/image/C560BAQFE9khGxAj0EQ/company-logo_100_100/0/1630663617548?e=1725494400&v=beta&t=TtlWFPyY8BhP_hgSaVxk4lUzVhrBOhRq1Ivx6FAVIxE"
+        }
+    ],
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2020 - 2024",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": "Grade: 8.36 CGPA\nActivities and societies: IEEE CS society,Procode(Core team member of coding club) ,Athletics"
+        },
+        {
+            "big": "Chettinad Vidyashram",
+            "mid": "12th, Mathematics and Computer Science",
+            "dur": "Apr 2018 - Apr 2020",
+            "img_src": "https://media.licdn.com/dms/image/C560BAQFTxLBvpXpNfg/company-logo_100_100/0/1630646834580/chettinad_vidyashram_logo?e=1725494400&v=beta&t=NCV5WfoU_tnE0-utFHM7NYUMn8gUj5MJm0yUrcylR1k",
+            "desc": "Grade: 95.4%\nActivities and societies: Fiitjee integrated program for IITJEE preparation"
+        },
+        {
+            "big": "Sri sankara senior secondary school",
+            "mid": "10 th, Middle school",
+            "dur": "Jun 2012 - Apr 2018",
+            "img_src": null,
+            "desc": "Grade: 84%\nActivities and societies: School cricket team from 2012 to 2017 School athletics team (1500 meters) Gavel club (Public Speaking)"
+        }
+    ]
+}
