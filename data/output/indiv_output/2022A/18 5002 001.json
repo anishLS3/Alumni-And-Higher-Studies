@@ -1,0 +1,168 @@
+{
+    "register_num": "18 5002 001",
+    "profile_name": "Aadhithya B.Kailash",
+    "profile_img": null,
+    "profile_job": "Software Engineer at PayPal",
+    "experience": [
+        {
+            "big": "PayPal",
+            "exp": "2 yrs 2 mos",
+            "small": null,
+            "sub_exp": [
+                {
+                    "big": "Software Engineer",
+                    "exp": "Jul 2022 - Present \u00b7 1 yr 9 mos",
+                    "small": "Full-time"
+                },
+                {
+                    "big": "Software Engineer Intern",
+                    "exp": "Feb 2022 - Jul 2022 \u00b7 6 mos",
+                    "small": "Internship"
+                }
+            ]
+        },
+        {
+            "big": "Student Chair",
+            "exp": "Feb 2021 - Jun 2022 \u00b7 1 yr 5 mos",
+            "small": "IEEE Computer Society - SSN Student Branch",
+            "sub_exp": []
+        },
+        {
+            "big": "Student Placement Coordinator",
+            "exp": "Jan 2021 - May 2022 \u00b7 1 yr 5 mos",
+            "small": "SSN College of Engineering \u00b7 Part-time",
+            "sub_exp": []
+        },
+        {
+            "big": "Project Intern",
+            "exp": "Jul 2021 - Aug 2021 \u00b7 2 mos",
+            "small": "Healthcare Technology Innovation Centre, IIT-Madras \u00b7 Internship",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "Data Structures",
+        "Algorithms",
+        "Java",
+        "Spring Boot",
+        "Python (Programming Language)",
+        "Software Development",
+        "Machine Learning",
+        "C++",
+        "Software Design",
+        "Database Management System (DBMS)",
+        "Engineering",
+        "SQL",
+        "C (Programming Language)",
+        "Looker",
+        "Signalfx",
+        "Splunk",
+        "Deep Learning",
+        "Android Development",
+        "JUnit",
+        "Neural Networks"
+    ],
+    "awards": [
+        {
+            "big": "College Gold Medal for securing 1st Rank in B.Tech IT",
+            "mid": "Issued by SSN College of Engineering",
+            "date": "Issued by SSN College of Engineering \u00b7 Jan 2024"
+        },
+        {
+            "big": "Best Outgoing Student of IT Dept, SSN",
+            "mid": "Issued by SSN College of Engineering",
+            "date": "Issued by SSN College of Engineering \u00b7 Jun 2022"
+        },
+        {
+            "big": "Merit Scholarship for 4th year UG",
+            "mid": "Issued by SSN College of Engineering",
+            "date": "Issued by SSN College of Engineering \u00b7 Jun 2022"
+        },
+        {
+            "big": "IEEE Richard E. Merwin Scholarship",
+            "mid": "Issued by IEEE Computer Society",
+            "date": "Issued by IEEE Computer Society \u00b7 Feb 2022"
+        },
+        {
+            "big": "Merit Scholarship for 3rd year",
+            "mid": "Issued by SSN College of Engineering",
+            "date": "Issued by SSN College of Engineering \u00b7 Jan 2021"
+        },
+        {
+            "big": "Global Rank 99 & India Rank 8 in IEEE Xtreme 14.0 Programming Contest (out of 2100+ teams)",
+            "mid": "Issued by IEEE",
+            "date": "Issued by IEEE \u00b7 Jan 2020"
+        },
+        {
+            "big": "Global Rank 176 & India Rank 15 in IEEE Xtreme 13.0 Programming Contest (out of 2700+ teams)",
+            "mid": "Issued by IEEE",
+            "date": "Issued by IEEE \u00b7 Jan 2019"
+        },
+        {
+            "big": "Merit Scholarship for 2nd year",
+            "mid": "Issued by SSN College of Engineering",
+            "date": "Issued by SSN College of Engineering \u00b7 Jan 2019"
+        }
+    ],
+    "volunteering": [
+        {
+            "big": "Tech Head & Mentor, ProCode",
+            "mid": "SSN College of Engineering",
+            "dur": "Aug 2021 - Jun 2022",
+            "exp": "11 mos",
+            "img": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc"
+        },
+        {
+            "big": "Member",
+            "mid": "IEEE",
+            "dur": "Sep 2019 - Present",
+            "exp": "4 yrs 7 mos",
+            "img": "https://media.licdn.com/dms/image/C4E0BAQGoRdJYxmIDhQ/company-logo_100_100/0/1631326760285?e=1718236800&v=beta&t=lqQw8OC_szixbwZM70HThNugGBhEe4-ELSbrDKImKkY"
+        },
+        {
+            "big": "Student Member",
+            "mid": "ACM, Association for Computing Machinery",
+            "dur": "Jan 2021 - Dec 2022",
+            "exp": "2 yrs",
+            "img": "https://media.licdn.com/dms/image/C4E0BAQHmhfTYf-PSPA/company-logo_100_100/0/1672756106986/association_for_computing_machinery_logo?e=1718236800&v=beta&t=BhOPLuRrF7b6S-wiRFbiRaQu4VJm3-C7EtCQH-cbfvc"
+        },
+        {
+            "big": "Volunteer",
+            "mid": "National Service Scheme",
+            "dur": "Aug 2018 - Sep 2020",
+            "exp": "2 yrs 2 mos",
+            "img": "https://media.licdn.com/dms/image/C4E0BAQEJ6yAnaG3CtQ/company-logo_100_100/0/1631346049980?e=1718236800&v=beta&t=3yMZXOTUQ189F1VUuKt8KwJ03QOT_DDrcZnKzkDCUfg"
+        },
+        {
+            "big": "Student Member",
+            "mid": "IEEE Computer Society",
+            "dur": "Mar 2020 - Dec 2022",
+            "exp": "2 yrs 10 mos",
+            "img": "https://media.licdn.com/dms/image/C560BAQGgbT-kdahf5A/company-logo_100_100/0/1640027182473/ieee_computer_society_logo?e=1718236800&v=beta&t=nNVc90ZU8tFgF4F6Q5AtE62Vb5jqfDbo-orGQnfGKAI"
+        }
+    ],
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2018 - 2022",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+            "desc": "Grade: 9.68 / 10\n1. College Gold Medalist 2. Best Outgoing Student in SSN-IT Dept"
+        },
+        {
+            "big": "Padma Seshadri Bala Bhavan Sr. Sec. School",
+            "mid": null,
+            "dur": null,
+            "img_src": "https://media.licdn.com/dms/image/C4E0BAQG9gRadvV9QSQ/company-logo_100_100/0/1630620332709/padma_seshadri_bala_bhavan_logo?e=1718236800&v=beta&t=X3JNkuCXB5ROg6echaDC3oCUCkEe_RFv66ZednbMIaU",
+            "desc": "-> All-Rounder Award in Std 11 -> 1st in Computer Science"
+        },
+        {
+            "big": "Padma Seshadri Bala Bhavan Sr. Sec. School",
+            "mid": null,
+            "dur": null,
+            "img_src": "https://media.licdn.com/dms/image/C4E0BAQG9gRadvV9QSQ/company-logo_100_100/0/1630620332709/padma_seshadri_bala_bhavan_logo?e=1718236800&v=beta&t=X3JNkuCXB5ROg6echaDC3oCUCkEe_RFv66ZednbMIaU",
+            "desc": "-> All-Rounder Award in Std 10"
+        }
+    ]
+}

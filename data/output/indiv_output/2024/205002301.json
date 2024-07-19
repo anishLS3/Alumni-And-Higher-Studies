@@ -1,0 +1,47 @@
+{
+    "register_num": "205002301",
+    "profile_name": "AKKASH ANNIYAPPA C.S",
+    "profile_img": "https://media.licdn.com/dms/image/D5635AQE1zZZJ3N_HDw/profile-framedphoto-shrink_100_100/0/1702193860677?e=1718046000&v=beta&t=1pEiekNiwB2ThRnZXjsf0bDmVh5bThupzGsBhu39M5s",
+    "profile_job": "B.Tech IT",
+    "experience": [
+        {
+            "big": "Student",
+            "exp": "Mar 2021 to Present \u00b7 3 yrs 4 mos",
+            "small": "Sri Sivasubramaniya Nadar College Of Engineering \u00b7 Full-time\nChennai, Tamil Nadu, India",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "Pandas (Software)",
+        "Data Collection",
+        "Data Analytics",
+        "Python (Programming Language)",
+        "Data Analysis",
+        "Machine Learning",
+        "Image Processing",
+        "Engineering",
+        "English",
+        "Research",
+        "Communication",
+        "Strategy"
+    ],
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "Sri Sivasubramaniya Nadar College Of Engineering",
+            "mid": null,
+            "dur": null,
+            "img_src": null,
+            "desc": null
+        },
+        {
+            "big": "Pannimalar Polytechnic College",
+            "mid": "D EEE, Electrical and Electronics Engineering",
+            "dur": "2018 - 2021",
+            "img_src": null,
+            "desc": null
+        }
+    ]
+}

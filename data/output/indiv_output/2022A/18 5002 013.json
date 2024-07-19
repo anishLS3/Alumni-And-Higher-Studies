@@ -1,0 +1,78 @@
+{
+    "register_num": "18 5002 013",
+    "profile_name": "Anoosh Solayappan",
+    "profile_img": "https://media.licdn.com/dms/image/C4E03AQHZjn9JftTPIg/profile-displayphoto-shrink_400_400/0/1623391977468?e=1715817600&v=beta&t=qIbYVQaoshllwukp48yeXZR_hClO6DZyuOB6hsW56l8",
+    "profile_job": "SDE-1@ Ola Electric | SSN Co'22 | VM Co'18",
+    "experience": [
+        {
+            "big": "SDE",
+            "exp": "Jun 2022 - Present \u00b7 1 yr 10 mos",
+            "small": "Ola Electric \u00b7 Full-time\nBengaluru, Karnataka, India",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "Deep Learning",
+        "Computer Vision",
+        "Microsoft Azure Machine Learning",
+        "Azure Kubernetes Service (AKS)",
+        "Azure Logic Apps",
+        "Microsoft Azure",
+        "Machine Learning",
+        "Java",
+        "Python (Programming Language)",
+        "C++",
+        "C (Programming Language)",
+        "Deep Neural Networks (DNN)",
+        "Flask",
+        "IBM Watson",
+        "Appium",
+        "Selenium WebDriver",
+        "Jenkins",
+        "Cascading Style Sheets (CSS)",
+        "Leadership",
+        "Team Management"
+    ],
+    "awards": null,
+    "volunteering": [
+        {
+            "big": "Student Volunteer",
+            "mid": "National Service Scheme",
+            "dur": "Aug 2018 - May 2022",
+            "exp": "3 yrs 10 mos",
+            "img": "https://media.licdn.com/dms/image/C4E0BAQEJ6yAnaG3CtQ/company-logo_100_100/0/1631346049980?e=1718236800&v=beta&t=3yMZXOTUQ189F1VUuKt8KwJ03QOT_DDrcZnKzkDCUfg"
+        },
+        {
+            "big": "Teaching Volunteer/ Mentor",
+            "mid": "Teach a School",
+            "dur": "Sep 2021 - Jan 2022",
+            "exp": "5 mos",
+            "img": null
+        }
+    ],
+    "publications": [
+        {
+            "title": "Masked Deep Face Recognition using ArcFace and Ensemble Learning",
+            "journal": "IEEE Xplore",
+            "date": "May 10, 2021",
+            "desc": "",
+            "pub_link": "https://ieeexplore.ieee.org/document/9768777"
+        }
+    ],
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2018 - 2022",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+            "desc": "Grade: 8.929"
+        },
+        {
+            "big": "Vidya Mandir Senior Secondary School",
+            "mid": null,
+            "dur": null,
+            "img_src": "https://media.licdn.com/dms/image/C560BAQGAvHPgNx3Lzw/company-logo_100_100/0/1630661559800/vidya_mandir_senior_secondary_school_logo?e=1718236800&v=beta&t=2rNf-Hy04yU0tgvW_soBfFjgYs56uRRMM1A4R6CH_9c",
+            "desc": null
+        }
+    ]
+}

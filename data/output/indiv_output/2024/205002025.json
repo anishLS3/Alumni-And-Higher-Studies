@@ -1,0 +1,97 @@
+{
+    "register_num": "205002025",
+    "profile_name": "Deepak Kumar",
+    "profile_img": "https://media.licdn.com/dms/image/D5603AQG1LilcQG6ttQ/profile-displayphoto-shrink_400_400/0/1670036951757?e=1723075200&v=beta&t=amcijap5oCjy1a7ACShVGoQK_O64Jywn0oZGO28EAZo",
+    "profile_job": "SDE @ Yubi | IT Undergrad at SSNCE",
+    "experience": [
+        {
+            "big": "Software Engineer Intern",
+            "exp": "Mar 2024 to Present \u00b7 4 mos",
+            "small": "Yubi \u00b7 Internship\nChennai",
+            "sub_exp": []
+        },
+        {
+            "big": "DevOps Intern",
+            "exp": "Apr 2023 to Jun 2023 \u00b7 3 mos",
+            "small": "National Informatics Centre, MeitY \u00b7 Internship\nChennai, Tamil Nadu, India \u00b7 Hybrid",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "Social Media",
+        "Data Privacy",
+        "Data Security",
+        "Internet of Things (IoT)",
+        "Vuex",
+        "vue",
+        "Flask",
+        "Web Development",
+        "AngularJS",
+        "Machine Learning",
+        "Shell Scripting",
+        "Web Application Development",
+        "Vue.js",
+        "Git",
+        "Gitlab",
+        "Node.js",
+        "npm",
+        "Web Services API",
+        "Jenkins",
+        "docker"
+    ],
+    "awards": null,
+    "volunteering": [
+        {
+            "big": "Student Volunteer",
+            "mid": "Youth Red Cross",
+            "dur": "Sep 2020 - Jan 2024",
+            "exp": "3 yrs 5 mos",
+            "img": null
+        },
+        {
+            "big": "Head of Design",
+            "mid": "IEEE Computer Society",
+            "dur": "Apr 2021 - Dec 2022",
+            "exp": "1 yr 9 mos",
+            "img": "https://media.licdn.com/dms/image/C560BAQGgbT-kdahf5A/company-logo_100_100/0/1640027182473/ieee_computer_society_logo?e=1725494400&v=beta&t=r8uzo7SD1-8ELam1BPds0Bcja_6REtrGkfTefKrP_RM"
+        },
+        {
+            "big": "Secretary",
+            "mid": "IEEE Computer Society",
+            "dur": "Jan 2023 - Jan 2024",
+            "exp": "1 yr 1 mo",
+            "img": "https://media.licdn.com/dms/image/C560BAQGgbT-kdahf5A/company-logo_100_100/0/1640027182473/ieee_computer_society_logo?e=1725494400&v=beta&t=r8uzo7SD1-8ELam1BPds0Bcja_6REtrGkfTefKrP_RM"
+        },
+        {
+            "big": "Webmaster",
+            "mid": "IEEE Student Branch - SSN",
+            "dur": "Jan 2023 - Jan 2024",
+            "exp": "1 yr 1 mo",
+            "img": "https://media.licdn.com/dms/image/C560BAQF2TrjdU87hxA/company-logo_100_100/0/1631283904338/ieee_student_branch_ssn_logo?e=1725494400&v=beta&t=imFAwc-Ps-kg59SzXTSllKg98jiM7TP-Lzlh39sjk3A"
+        }
+    ],
+    "publications": null,
+    "education": [
+        {
+            "big": "Indian Institute of Technology, Madras",
+            "mid": "Bachelor of Science - BS, Programming and Data Science",
+            "dur": "Jan 2021 - Aug 2024",
+            "img_src": "https://media.licdn.com/dms/image/C4D0BAQGqbSuxjLqtWQ/company-logo_100_100/0/1659504006681/reachiitm_logo?e=1725494400&v=beta&t=RZTe_vedUjsgFJVxUV2FnQCiQggO7-gGFD1QSgO_wQE",
+            "desc": ""
+        },
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2020 - 2024",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": ""
+        },
+        {
+            "big": "Velammal Vidhyashram",
+            "mid": "High School Diploma",
+            "dur": "May 2017 - May 2019",
+            "img_src": null,
+            "desc": null
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "register_num": "205002082",
+    "profile_name": "Saravanan Ravi",
+    "profile_img": "https://media.licdn.com/dms/image/D4D35AQH9SM7U9GmrRA/profile-framedphoto-shrink_400_400/0/1698944606026?e=1718049600&v=beta&t=1YNGkBCXsEmLPY6Lfut5PS0Nv1rn3KdDF4TfZz6YmVw",
+    "profile_job": "Application Developer Intern @ TransUnion",
+    "experience": [
+        {
+            "big": "Intern",
+            "exp": "Feb 2024 to Present \u00b7 5 mos",
+            "small": "TransUnion \u00b7 Internship\nChennai, Tamil Nadu, India",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "Back-End Web Development",
+        "SQL",
+        "MongoDB",
+        "Node.js",
+        "Agile Methodologies",
+        "Spring Boot",
+        "REST APIs",
+        "Web Concepts",
+        "Web Applications",
+        "Object-Oriented Programming (OOP)",
+        "HTML",
+        "Data Structures",
+        "Python (Programming Language)",
+        "HTML5",
+        "Cascading Style Sheets (CSS)",
+        "JavaScript",
+        "C++"
+    ],
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2020 - 2024",
+            "img_src": null,
+            "desc": null
+        }
+    ]
+}

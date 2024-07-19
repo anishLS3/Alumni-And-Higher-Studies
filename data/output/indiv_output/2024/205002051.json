@@ -1,0 +1,20 @@
+{
+    "register_num": "205002051",
+    "profile_name": "Mughilan K",
+    "profile_img": "https://media.licdn.com/dms/image/D5603AQGOmtF8MXDuxA/profile-displayphoto-shrink_400_400/0/1708857979704?e=1723075200&v=beta&t=e-PLjjgjhuZ3fOu7FnJONi6sNG2YHa2xgAZcH7idMfI",
+    "profile_job": "--",
+    "experience": null,
+    "skills": null,
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology, Information Technology",
+            "dur": "2020 - 2024",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": null
+        }
+    ]
+}

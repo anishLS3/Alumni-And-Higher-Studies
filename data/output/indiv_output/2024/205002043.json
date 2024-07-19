@@ -1,0 +1,40 @@
+{
+    "register_num": "205002043",
+    "profile_name": "Khyati Gattani",
+    "profile_img": "https://media.licdn.com/dms/image/C5603AQEhMLcM3i3p1g/profile-displayphoto-shrink_400_400/0/1659725616069?e=1723075200&v=beta&t=SglOxjyXzjEZzP0Fvzv6BlQP6VWNTaPU1CJAPzHlu18",
+    "profile_job": "Final Year Student at SSN College of Engineering",
+    "experience": [
+        {
+            "big": "Intern",
+            "exp": "Jun 2023 to Sep 2023 \u00b7 4 mos",
+            "small": "Adobe \u00b7 Internship\nNoida, Uttar Pradesh, India \u00b7 On-site",
+            "sub_exp": []
+        },
+        {
+            "big": "Business Development Executive",
+            "exp": "Oct 2021 to Feb 2022 \u00b7 5 mos",
+            "small": "Blod.in",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "C++",
+        "Communication",
+        "Object-Oriented Programming (OOP)",
+        "New Business Development",
+        "Process Improvement",
+        "Business Development"
+    ],
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2020 - 2024",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": null
+        }
+    ]
+}

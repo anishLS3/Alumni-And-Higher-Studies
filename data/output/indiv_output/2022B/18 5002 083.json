@@ -1,0 +1,35 @@
+{
+    "register_num": "18 5002 083",
+    "profile_name": "Sabihah B",
+    "profile_img": "https://media.licdn.com/dms/image/C4E03AQFQUq3WCiJQAw/profile-displayphoto-shrink_400_400/0/1625578012056?e=1715817600&v=beta&t=bFFSwttL8qkIZsBFN6UzUMQuf0NAPlBm0C2UKDVYPKo",
+    "profile_job": "Analyst at Deloitte USI",
+    "experience": [
+        {
+            "big": "Analyst",
+            "exp": "Jan 2023 - Present \u00b7 1 yr 3 mos",
+            "small": "Deloitte \u00b7 Full-time\nHyderabad, Telangana, India \u00b7 On-site",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "SAP ABAP",
+        "C (Programming Language)",
+        "C++",
+        "HTML",
+        "Cascading Style Sheets (CSS)",
+        "SQL",
+        "Microsoft Office"
+    ],
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "Aug 2018 - Jun 2022",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+            "desc": "Grade: 8.77/10\nActivities and societies: NSS Volunteer"
+        }
+    ]
+}

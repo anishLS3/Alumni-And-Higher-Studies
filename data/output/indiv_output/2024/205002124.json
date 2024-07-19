@@ -1,0 +1,95 @@
+{
+    "register_num": "205002124",
+    "profile_name": "Vineet Kumar Gupta",
+    "profile_img": "https://media.licdn.com/dms/image/D5603AQHHI35xcuKowQ/profile-displayphoto-shrink_400_400/0/1696180008095?e=1723075200&v=beta&t=4pDKIVRCGFl9zgOJlzh16PcvIYTu3HT6mcGYRiKpDvA",
+    "profile_job": "Final Yr IT Undergrad @ SSNCE | SDE Intern @ Fidelity Investments | Grand Finalist @ SIH2022 | Full Stack Web Dev | App Dev",
+    "experience": [
+        {
+            "big": "Software Engineer Intern",
+            "exp": "Bengaluru, Karnataka, India \u00b7 Remote",
+            "small": "Fidelity Investments \u00b7 Internship",
+            "sub_exp": []
+        },
+        {
+            "big": "Student",
+            "exp": "Nov 2020 to Present \u00b7 3 yrs 8 mos",
+            "small": "SSN College of Engineering \u00b7 Full-time\nChennai, Tamil Nadu, India",
+            "sub_exp": []
+        },
+        {
+            "big": "Software Engineer Intern",
+            "exp": "Bengaluru, Karnataka, India \u00b7 Remote",
+            "small": "Fidelity Investments \u00b7 Internship",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "Angular",
+        "Spring Boot",
+        "Tkinter",
+        "Computer Vision",
+        "SQL",
+        "Problem Solving",
+        "Full-Stack Development",
+        "Speech Recognition",
+        "Android Studio",
+        "Animation",
+        "Web Development",
+        "Web Services API",
+        "Mobile Applications",
+        "Responsive Web Design",
+        "AngularJS",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "REST APIs",
+        "React Native"
+    ],
+    "awards": [
+        {
+            "big": "SSN Merit Scholarship Awardee (2020 - 2021)",
+            "mid": "Issued by SSN College of Engineering",
+            "date": "Issued by SSN College of Engineering \u00b7 Jun 2021"
+        }
+    ],
+    "volunteering": [
+        {
+            "big": "POC Member (IT)",
+            "mid": "National Service Scheme",
+            "dur": "Nov 2020 - Present",
+            "exp": "3 yrs 8 mos",
+            "img": "https://media.licdn.com/dms/image/C4E0BAQEJ6yAnaG3CtQ/company-logo_100_100/0/1631346049980?e=1725494400&v=beta&t=TuUjrTKZSJ2mfMD1K4OCR8B4l34fzscWLR94DSyetYM"
+        },
+        {
+            "big": "Student Member - SSN",
+            "mid": "IEEE",
+            "dur": "Nov 2020 - Present",
+            "exp": "3 yrs 8 mos",
+            "img": "https://media.licdn.com/dms/image/C4E0BAQGoRdJYxmIDhQ/company-logo_100_100/0/1631326760285?e=1725494400&v=beta&t=Wn7-DBo6yRBY79d6aVSQT6FyNWTJZoHDGkhz4LPtebc"
+        }
+    ],
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "Nov 2020 - Jun 2024",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": "SQL"
+        },
+        {
+            "big": "Velammal Vidhyashram Surapet (CBSE)",
+            "mid": "PCM with CS",
+            "dur": "Apr 2018 - Apr 2020",
+            "img_src": null,
+            "desc": "Grade: 96.4%"
+        },
+        {
+            "big": "Velammal Vidhyashram Surapet (CBSE)",
+            "mid": "Sci, Maths, Social, Eng, Hin",
+            "dur": "Apr 2017 - Apr 2018",
+            "img_src": null,
+            "desc": "Grade: 89.6%"
+        }
+    ]
+}

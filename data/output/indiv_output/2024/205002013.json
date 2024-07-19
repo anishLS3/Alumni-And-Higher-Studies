@@ -1,0 +1,90 @@
+{
+    "register_num": "205002013",
+    "profile_name": "Aravind Vijayaraghavan",
+    "profile_img": null,
+    "profile_job": "4th year, IT Undergrad at SSN College of Engineering",
+    "experience": [
+        {
+            "big": "Undergraduate Intern",
+            "exp": "Jan 2024 to Present \u00b7 6 mos",
+            "small": "Gen \u00b7 Internship\nChennai, Tamil Nadu, India \u00b7 Hybrid",
+            "sub_exp": []
+        },
+        {
+            "big": "Student",
+            "exp": "Dec 2020 to Present \u00b7 3 yrs 7 mos",
+            "small": "SSN College of Engineering \u00b7 Full-time\nChennai, Tamil Nadu, India",
+            "sub_exp": []
+        },
+        {
+            "big": "Intern",
+            "exp": "Jul 2023 to Aug 2023 \u00b7 2 mos",
+            "small": "Precision Infomatic (M) Private limited \u00b7 Internship\nChennai, Tamil Nadu, India \u00b7 On-site",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "Image Processing",
+        "Data Science",
+        "Deep Learning",
+        "Computer Science",
+        "Django",
+        "Regression Analysis",
+        "Jupyter",
+        "Oracle VM",
+        "Machine Learning",
+        "Apache Spark",
+        "MySQL",
+        "Data Analysis",
+        "Java",
+        "Internet of Things (IoT)",
+        "Compering",
+        "Problem Solving",
+        "Presentations",
+        "Microsoft Excel",
+        "Cascading Style Sheets (CSS)",
+        "HTML"
+    ],
+    "awards": null,
+    "volunteering": [
+        {
+            "big": "Student Volunteer",
+            "mid": "Red Cross Youth",
+            "dur": "Dec 2020 - Present",
+            "exp": "3 yrs 7 mos",
+            "img": "https://media.licdn.com/dms/image/C560BAQG3EX315y3JsQ/company-logo_100_100/0/1631322295766?e=1725494400&v=beta&t=vq298lAW4t_r7zuqmn3Ftu4estbjwusV55aVUWQ7jX0"
+        },
+        {
+            "big": "Volunteer",
+            "mid": "SSN ACM-W Student Chapter",
+            "dur": "Oct 2022 - Present",
+            "exp": "1 yr 9 mos",
+            "img": "https://media.licdn.com/dms/image/C560BAQG7xeo7IoSimA/company-logo_100_100/0/1630645191550?e=1725494400&v=beta&t=YEISsMyE9CCI1QxgOIGJdee9WSCTUDIRN_40epVB_r8"
+        }
+    ],
+    "publications": [
+        {
+            "title": "Identification and Classification of Eye Movements in Bharatanatyam using Deep Learning Techniques",
+            "journal": "Grenze International Journal of Engineering and Technology",
+            "date": "Jul 28, 2023",
+            "desc": "Other authors",
+            "pub_link": "https://thegrenze.com/index.php?display=page&view=journalabstract&absid=1912&id=8"
+        }
+    ],
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "Dec 2020 - Dec 2024",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": "Grade: 8.73"
+        },
+        {
+            "big": "Padma Seshadri Bala Bhavan Sr. Sec. School",
+            "mid": "12th Grade",
+            "dur": "2019 - 2020",
+            "img_src": "https://media.licdn.com/dms/image/C4E0BAQG9gRadvV9QSQ/company-logo_100_100/0/1630620332709/padma_seshadri_bala_bhavan_logo?e=1725494400&v=beta&t=E-Fdvq8NgbYKhZIPG2vvfWC_C10Tl3L-jpDE7K9zRQA",
+            "desc": "Grade: 96%"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "register_num": "205002093",
+    "profile_name": "Sneha R",
+    "profile_img": "https://media.licdn.com/dms/image/D5603AQHBFvUAtl4GOg/profile-displayphoto-shrink_400_400/0/1711603115880?e=1723075200&v=beta&t=lEb_oSeobTrTCayTSNbs5JCP6W-2uWWzGeVJlYfaK88",
+    "profile_job": "FSE Intern at Fidelity Investments | Final Year Undergraduate at SSN College of Engineering",
+    "experience": [
+        {
+            "big": "Full Stack Engineer",
+            "exp": "Bengaluru, Karnataka, India \u00b7 Remote",
+            "small": "Fidelity Investments \u00b7 Internship",
+            "sub_exp": []
+        },
+        {
+            "big": "Web Application Developer",
+            "exp": "Jun 2023 to Aug 2023 \u00b7 3 mos",
+            "small": "Fidelity Investments \u00b7 Internship\nChennai, Tamil Nadu, India",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "Web Application Design",
+        "Web Development",
+        "C (Programming Language)",
+        "C++",
+        "Java",
+        "Python (Programming Language)",
+        "Spring Boot",
+        "HTML5",
+        "JavaScript",
+        "Cascading Style Sheets (CSS)",
+        "AngularJS",
+        "MySQL",
+        "PostgreSQL",
+        "Snowflake",
+        "Oracle Database",
+        "Angular Material",
+        "PL/SQL",
+        "SharePoint",
+        "Leadership",
+        "Development Tools"
+    ],
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": null,
+            "dur": null,
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": null
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "register_num": "205002036",
+    "profile_name": "Harish S",
+    "profile_img": "https://media.licdn.com/dms/image/D5635AQFNhsAhE_ZCHA/profile-framedphoto-shrink_400_400/0/1702793052251?e=1718042400&v=beta&t=DMuZ82lIa2XvIHj9sc8Tz-eGfAm-FivWbtjWXT4l6b4",
+    "profile_job": "Passionate about Tech and Innovation | Seeking opportunities in IT industry",
+    "experience": null,
+    "skills": [
+        "Full-Stack Development",
+        "Programming",
+        "Docker",
+        "Kubernetes",
+        "Red Hat Linux",
+        "NoSQL",
+        "Communication",
+        "C++",
+        "C (Programming Language)",
+        "Machine Learning",
+        "Deep Learning",
+        "HTML5",
+        "HTML",
+        "Cascading Style Sheets (CSS)",
+        "JavaScript",
+        "C#",
+        "AngularJS",
+        "Express.js",
+        "Node.js",
+        "MySQL"
+    ],
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "Jul 2020 - May 2024",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": null
+        },
+        {
+            "big": "Senthil College of Education",
+            "mid": "CBSE | CLASS XII",
+            "dur": "May 2018 - May 2020",
+            "img_src": null,
+            "desc": null
+        }
+    ]
+}

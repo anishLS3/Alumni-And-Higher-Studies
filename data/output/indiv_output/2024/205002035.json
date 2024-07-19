@@ -1,0 +1,127 @@
+{
+    "register_num": "205002035",
+    "profile_name": "Gunanicaa Arun",
+    "profile_img": "https://media.licdn.com/dms/image/D5603AQG1AvPbVudvjg/profile-displayphoto-shrink_400_400/0/1696067448164?e=1723075200&v=beta&t=y1wiswGWBj3vARYAKIopevcSaokHbPhP08abOfOnvcI",
+    "profile_job": "Intern at Fidelity Investments | Interned at Elektrobit | Chair of SSN ACM-W | Undergrad at SSN College of Engineering",
+    "experience": [
+        {
+            "big": "Full Stack Engineer Intern",
+            "exp": "Jan 2024 to Present \u00b7 6 mos",
+            "small": "Fidelity Investments \u00b7 Internship",
+            "sub_exp": []
+        },
+        {
+            "big": "SSN ACM-W Student Chapter",
+            "exp": "3 yrs",
+            "small": null,
+            "sub_exp": [
+                {
+                    "big": "Chairperson",
+                    "exp": "Aug 2023 to Present \u00b7 11 mos",
+                    "small": "Chennai, Tamil Nadu, India"
+                },
+                {
+                    "big": "Vice Chairperson",
+                    "exp": "Aug 2022 to Jul 2023 \u00b7 1 yr",
+                    "small": "Chennai, Tamil Nadu, India"
+                },
+                {
+                    "big": "Secretary",
+                    "exp": "Jul 2021 to Jul 2022 \u00b7 1 yr 1 mo",
+                    "small": "Chennai, Tamil Nadu, India"
+                }
+            ]
+        },
+        {
+            "big": "Secretary",
+            "exp": "Aug 2023 to Present \u00b7 11 mos",
+            "small": "SSN Coding Club\nChennai, Tamil Nadu, India",
+            "sub_exp": []
+        },
+        {
+            "big": "Private Tutor",
+            "exp": "Feb 2023 to Mar 2024 \u00b7 1 yr 2 mos",
+            "small": "Self-employed",
+            "sub_exp": []
+        },
+        {
+            "big": "Intern",
+            "exp": "Oct 2023 to Dec 2023 \u00b7 3 mos",
+            "small": "Elektrobit \u00b7 Internship\nBengaluru, Karnataka, India",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "Data Structures",
+        "Algorithms",
+        "AngularJS",
+        "Node.js",
+        "MongoDB",
+        "Python (Programming Language)",
+        "C++",
+        "C (Programming Language)",
+        "HTML",
+        "Cascading Style Sheets (CSS)",
+        "JavaScript",
+        "Event Planning",
+        "Public Speaking",
+        "Teamwork",
+        "Leadership",
+        "Microsoft Office",
+        "Microsoft Excel",
+        "Microsoft PowerPoint",
+        "Microsoft Word"
+    ],
+    "awards": [
+        {
+            "big": "Awardee of Merit Scholarship",
+            "mid": "Issued by SSN College of Engineering",
+            "date": "Issued by SSN College of Engineering \u00b7 May 2022"
+        },
+        {
+            "big": "Double Promoted to Class X",
+            "mid": null,
+            "date": null
+        }
+    ],
+    "volunteering": [
+        {
+            "big": "Volunteer",
+            "mid": "Red Cross Youth",
+            "dur": "Dec 2020 - Present",
+            "exp": "3 yrs 7 mos",
+            "img": "https://media.licdn.com/dms/image/C560BAQG3EX315y3JsQ/company-logo_100_100/0/1631322295766?e=1725494400&v=beta&t=vq298lAW4t_r7zuqmn3Ftu4estbjwusV55aVUWQ7jX0"
+        },
+        {
+            "big": "Organising Volunteer",
+            "mid": "Take A Step",
+            "dur": "Oct 2022 - Dec 2022",
+            "exp": "3 mos",
+            "img": "https://media.licdn.com/dms/image/C560BAQFNwbl-xXRLaA/company-logo_100_100/0/1630638450331/take_a_step_now_logo?e=1725494400&v=beta&t=DW-PA5stwzNCoczh8INvlCPxOh4v3JShZgJdLf_-LIg"
+        }
+    ],
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2020 - 2024",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": null
+        },
+        {
+            "big": "Kamala Niketan Montessori School",
+            "mid": null,
+            "dur": null,
+            "img_src": "https://media.licdn.com/dms/image/C4E0BAQHFFxJZBRIVHQ/company-logo_100_100/0/1630581500321?e=1725494400&v=beta&t=dJqwEEtbM5QcGIsrPLQMvY7yOT9pyFrv_SBBGIojlNE",
+            "desc": null
+        },
+        {
+            "big": "International School Hannover Region (ISHR)",
+            "mid": null,
+            "dur": null,
+            "img_src": "https://media.licdn.com/dms/image/C4E0BAQGks707S12ySg/company-logo_100_100/0/1679656858596/international_school_hannover_region_ishr_logo?e=1725494400&v=beta&t=jwwLCLUspYj6Z4j-7oBfCl5ElbMHA70DsvHrrrYoYqU",
+            "desc": null
+        }
+    ]
+}

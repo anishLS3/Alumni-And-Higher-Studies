@@ -1,0 +1,119 @@
+{
+    "register_num": "205002014",
+    "profile_name": "Aruneeswaran K",
+    "profile_img": "https://media.licdn.com/dms/image/D5635AQETymI5KZUJsQ/profile-framedphoto-shrink_400_400/0/1691582615769?e=1718042400&v=beta&t=zZwW17Tzrmrpjvxl7zXHovjQJz16bDKLQ7ICerUjrIM",
+    "profile_job": "Software Development Engineer | IT Final year Undergrad student @ SSN College of Engineering",
+    "experience": [
+        {
+            "big": "Software Engineer Intern",
+            "exp": "Feb 2023 to Jun 2023 \u00b7 5 mos",
+            "small": "Vittae.Money \u00b7 Internship\nChennai, Tamil Nadu, India \u00b7 Hybrid",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "UI/UX design",
+        "Flutter",
+        "PyQt",
+        "Hashing",
+        "Performance Analysis",
+        "Project Management Skills",
+        "Tkinter",
+        "Python (Programming Language)",
+        "SQLite",
+        "Database Design",
+        "Application Development",
+        "Jira",
+        "HTML5",
+        "Cascading Style Sheets (CSS)",
+        "Flask",
+        "MongoDB",
+        "Data Structures",
+        "Database Management System (DBMS)",
+        "Computer Networking",
+        "Digital Image Processing"
+    ],
+    "awards": null,
+    "volunteering": [
+        {
+            "big": "Organizer",
+            "mid": "Invente, SSNCE",
+            "dur": "Nov 2022",
+            "exp": "1 mo",
+            "img": "https://media.licdn.com/dms/image/C560BAQFE9khGxAj0EQ/company-logo_100_100/0/1630663617548?e=1725494400&v=beta&t=TtlWFPyY8BhP_hgSaVxk4lUzVhrBOhRq1Ivx6FAVIxE"
+        },
+        {
+            "big": "Educator",
+            "mid": "Take A Step",
+            "dur": "Nov 2022",
+            "exp": "1 mo",
+            "img": "https://media.licdn.com/dms/image/C560BAQFNwbl-xXRLaA/company-logo_100_100/0/1630638450331/take_a_step_now_logo?e=1725494400&v=beta&t=DW-PA5stwzNCoczh8INvlCPxOh4v3JShZgJdLf_-LIg"
+        },
+        {
+            "big": "Student Volunteer",
+            "mid": "SSN ACM-W Student Chapter",
+            "dur": null,
+            "exp": null,
+            "img": "https://media.licdn.com/dms/image/C560BAQG7xeo7IoSimA/company-logo_100_100/0/1630645191550?e=1725494400&v=beta&t=YEISsMyE9CCI1QxgOIGJdee9WSCTUDIRN_40epVB_r8"
+        },
+        {
+            "big": "Student Coordinator",
+            "mid": "IEEE Winter Summit on Smart Computing and Networks",
+            "dur": "Mar 2023",
+            "exp": "1 mo",
+            "img": null
+        },
+        {
+            "big": "Technical Support Assistant",
+            "mid": "VIVID 2023 National Level Project Competition",
+            "dur": "Sep 2022",
+            "exp": "1 mo",
+            "img": null
+        },
+        {
+            "big": "Host",
+            "mid": "FDP on IoT, AI and Blockchain: Insights and Open Challenges 2022 Faculty Development Program",
+            "dur": "Mar 2022",
+            "exp": "1 mo",
+            "img": null
+        },
+        {
+            "big": "Member",
+            "mid": "Lions Clubs International (India)",
+            "dur": "Jan 2015 - Jan 2019",
+            "exp": "4 yrs",
+            "img": "https://media.licdn.com/dms/image/C510BAQGw8K9UmYwfkQ/company-logo_100_100/0/1631362025770?e=1725494400&v=beta&t=RWccGZgxnAfxbmM-lj9wHV8hb3DX1o8GBijs3G04-lE"
+        }
+    ],
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "B.Tech, Information Technology",
+            "dur": "Nov 2020 - May 2024",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": "Grade: CGPA - 9.11/10"
+        },
+        {
+            "big": "Trinity School",
+            "mid": "Grade 3 Exam with distinction, Electronic Keyboard",
+            "dur": "Aug 2021 - Apr 2022",
+            "img_src": "https://media.licdn.com/dms/image/C4D0BAQEclyXaxlmW8w/company-logo_100_100/0/1631316763259?e=1725494400&v=beta&t=75LUN_hrLogbicxvDHdTmPOCk8Jak_9aBEM-14Sf3Sw",
+            "desc": null
+        },
+        {
+            "big": "Kendriya vidyalaya",
+            "mid": "AISSCE",
+            "dur": "2019 - 2020",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQGcv8M8B-5hkg/company-logo_100_100/0/1630568383735/kendriya_vidyalaya_sanghthan_logo?e=1725494400&v=beta&t=7CocTAKh_Huf81tNz0bgaQ80-MWWj_6oM0MhlmNGlXw",
+            "desc": "Grade: CBSE - 95.2%"
+        },
+        {
+            "big": "Dakshina Bharat Hindi Prachar Sabha",
+            "mid": null,
+            "dur": null,
+            "img_src": "https://media.licdn.com/dms/image/C560BAQFyukKxvX4bZg/company-logo_100_100/0/1635221665598?e=1725494400&v=beta&t=YW5Ty1-Lr1M2RrvMfMkNVhlYBARokH6AAzp-B9HDEKw",
+            "desc": null
+        }
+    ]
+}

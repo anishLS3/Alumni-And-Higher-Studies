@@ -1,0 +1,27 @@
+{
+    "register_num": "18 5002 113",
+    "profile_name": "Venkata Yaswanth Telanakula",
+    "profile_img": "https://media.licdn.com/dms/image/C5603AQHgKGqOepcXzg/profile-displayphoto-shrink_400_400/0/1620377754392?e=1715817600&v=beta&t=-6GQz9mCSFME-vn6-rFmrtAG4F5uNnYspotpmBpgqPo",
+    "profile_job": "Analyst at LatentView Analytics",
+    "experience": [
+        {
+            "big": "Analyst",
+            "exp": "Sep 2022 - Present \u00b7 1 yr 7 mos",
+            "small": "LatentView Analytics \u00b7 Full-time\nChennai, Tamil Nadu, India",
+            "sub_exp": []
+        }
+    ],
+    "skills": null,
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": null,
+            "dur": "2018 - 2022",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+            "desc": null
+        }
+    ]
+}

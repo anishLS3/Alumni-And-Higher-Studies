@@ -1,0 +1,46 @@
+{
+    "register_num": "205002107",
+    "profile_name": "Suraj P",
+    "profile_img": "https://media.licdn.com/dms/image/D5603AQEEWLe_e7levA/profile-displayphoto-shrink_400_400/0/1692625958173?e=1723075200&v=beta&t=Eb_8e01erwLnsECCJoCaK90xSIya9sxeyExmMwu5CfI",
+    "profile_job": "SDE intern at Avalara | Expert on Codeforces | Final Year IT Undergrad at SSNCE",
+    "experience": [
+        {
+            "big": "Software Engineer Intern",
+            "exp": "Jan 2024 to Present \u00b7 6 mos",
+            "small": "Avalara \u00b7 Internship\nPune, Maharashtra, India",
+            "sub_exp": []
+        },
+        {
+            "big": "Committee Member",
+            "exp": "Jun 2022 to Present \u00b7 2 yrs 1 mo",
+            "small": "SSN Coding Club",
+            "sub_exp": []
+        },
+        {
+            "big": "CP Team Committee Member",
+            "exp": "Aug 2022 to Aug 2023 \u00b7 1 yr 1 mo",
+            "small": "Google DSC SSNCE",
+            "sub_exp": []
+        }
+    ],
+    "skills": [],
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "Nov 2020 - Jun 2024",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": null
+        },
+        {
+            "big": "Lalaji Memorial Omega International School",
+            "mid": null,
+            "dur": "Nov 2011 - Jan 2020",
+            "img_src": "https://media.licdn.com/dms/image/C560BAQG-XnfOZ5K-hQ/company-logo_100_100/0/1630638948377/lalaji_memorial_omega_international_school_logo?e=1725494400&v=beta&t=FUOlzaBVTlSNoa0yMAWGDhZPT_GrCSwi3EeGjXR1D1o",
+            "desc": null
+        }
+    ]
+}

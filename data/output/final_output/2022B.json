@@ -1,0 +1,2361 @@
+[
+    {
+        "register_num": "18 5002 065",
+        "profile_name": "Nandana Sreenivasan",
+        "profile_img": "https://media.licdn.com/dms/image/C5603AQFXZWrQdJImVw/profile-displayphoto-shrink_400_400/0/1625420367691?e=1715817600&v=beta&t=1QMi5nUN-tRrTNQAE8YQnW_4jN_IHYJPzZjb6PjAybs",
+        "profile_job": "SDE at Fidelity Investments",
+        "experience": [
+            {
+                "big": "Fidelity Investments",
+                "exp": "2 yrs 3 mos",
+                "small": null,
+                "sub_exp": [
+                    {
+                        "big": "Software Engineer",
+                        "exp": "Sep 2023 - Present \u00b7 7 mos",
+                        "small": "Full-time\nChennai, Tamil Nadu, India \u00b7 Hybrid"
+                    },
+                    {
+                        "big": "Associate Software Engineer",
+                        "exp": "Nov 2022 - Sep 2023 \u00b7 11 mos",
+                        "small": "Full-time\nChennai, Tamil Nadu, India \u00b7 On-site"
+                    },
+                    {
+                        "big": "Executive Graduate Trainee",
+                        "exp": "Aug 2022 - Nov 2022 \u00b7 4 mos",
+                        "small": "Full-time\nChennai, Tamil Nadu, India"
+                    }
+                ]
+            },
+            {
+                "big": "SSN College of Engineering",
+                "exp": "Part-time \u00b7 1 yr 6 mos",
+                "small": "Chennai, Tamil Nadu, India",
+                "sub_exp": [
+                    {
+                        "big": "Overall Event coordinator",
+                        "exp": "Jun 2021 - Jun 2022 \u00b7 1 yr 1 mo",
+                        "small": null
+                    },
+                    {
+                        "big": "Student Placement Coordinator",
+                        "exp": "Jan 2021 - Jun 2022 \u00b7 1 yr 6 mos",
+                        "small": null
+                    }
+                ]
+            },
+            {
+                "big": "Student Intern",
+                "exp": "Jul 2021 - Aug 2021 \u00b7 2 mos",
+                "small": "Facilio: Data-driven Building Operations \u00b7 Internship\nChennai, Tamil Nadu, India",
+                "sub_exp": []
+            },
+            {
+                "big": "Computer vision intern",
+                "exp": "Oct 2020 - Oct 2020 \u00b7 1 mo",
+                "small": "DaveAI \u00b7 Internship",
+                "sub_exp": []
+            }
+        ],
+        "skills": [
+            "Amazon Web Services (AWS)",
+            "Python (Programming Language)",
+            "c++",
+            "Computer Vision",
+            "Image Processing",
+            "Machine Learning",
+            "Artificial Intelligence (AI)",
+            "Programming",
+            "Data Science",
+            "Analytical Skills",
+            "css",
+            "HTML",
+            "JavaScript",
+            "Bootstrap",
+            "Node.js",
+            "React.js",
+            "C (Programming Language)",
+            "MongoDB",
+            "Microsoft Visual Studio Code",
+            "Tableau"
+        ],
+        "awards": null,
+        "volunteering": null,
+        "publications": null,
+        "education": [
+            {
+                "big": "SSN College of Engineering",
+                "mid": "Bachelor of Technology - BTech, Information Technology",
+                "dur": "2018 - 2022",
+                "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+                "desc": "Grade: 8.82 CGPA"
+            },
+            {
+                "big": "Dav Sr Sec School - India",
+                "mid": "High School Diploma, Computer Science",
+                "dur": "2016 - 2018",
+                "img_src": null,
+                "desc": "Grade: 94.6%"
+            }
+        ]
+    },
+    {
+        "register_num": "18 5002 068",
+        "profile_name": "Nithish B",
+        "profile_img": "https://media.licdn.com/dms/image/C5635AQEfdhlQpyP_qw/profile-framedphoto-shrink_400_400/0/1620917417228?e=1710921600&v=beta&t=bhXXqpHcOdST3BNAq7XgZThDae_50yiJZJttbj74Fs8",
+        "profile_job": "Student at SSN College of Engineering",
+        "experience": [
+            {
+                "big": "Student Placement Coordinator",
+                "exp": "Jan 2021 - Present \u00b7 3 yrs 3 mos",
+                "small": "SSN College of Engineering \u00b7 Part-time",
+                "sub_exp": []
+            }
+        ],
+        "skills": [
+            "Full-Stack Development",
+            "JavaScript",
+            "Node.js",
+            "Front-end Development",
+            "Event Planning",
+            "MongoDB",
+            "Python (Programming Language)",
+            "C++",
+            "Java",
+            "jQuery",
+            "Bootstrap",
+            "HTML",
+            "CSS",
+            "C (Programming Language)",
+            "React.js",
+            "Embedded JavaScript (EJS)",
+            "Team Leadership",
+            "Decision-Making",
+            "Communication",
+            "Database Management System (DBMS)"
+        ],
+        "awards": null,
+        "volunteering": [
+            {
+                "big": "Student Volunteer",
+                "mid": "National Service Scheme",
+                "dur": "Aug 2018 - Present",
+                "exp": "5 yrs 8 mos",
+                "img": "https://media.licdn.com/dms/image/C4E0BAQEJ6yAnaG3CtQ/company-logo_100_100/0/1631346049980?e=1718236800&v=beta&t=3yMZXOTUQ189F1VUuKt8KwJ03QOT_DDrcZnKzkDCUfg"
+            }
+        ],
+        "publications": null,
+        "education": [
+            {
+                "big": "SSN College of Engineering",
+                "mid": "Bachelor of Technology - BTech, Information Technology",
+                "dur": "2018 - 2022",
+                "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+                "desc": null
+            }
+        ]
+    },
+    {
+        "register_num": "18 5002 069",
+        "profile_name": "Nithyashree N",
+        "profile_img": "https://media.licdn.com/dms/image/C4E03AQEqagwcyHDbpA/profile-displayphoto-shrink_400_400/0/1658827386693?e=1715817600&v=beta&t=WX_lcpp40JTGuUchNuALe3s1yh6gc8bE1RAT6vuMVGM",
+        "profile_job": "Technology Analyst at Citi || SSN IT '22",
+        "experience": [
+            {
+                "big": "Technology Analyst",
+                "exp": "Jul 2022 - Present \u00b7 1 yr 9 mos",
+                "small": "Citi \u00b7 Full-time",
+                "sub_exp": []
+            }
+        ],
+        "skills": [
+            "C++",
+            "Python (Programming Language)",
+            "Web Development",
+            "Data Structures",
+            "SQL",
+            "Django",
+            "HTML",
+            "CSS",
+            "Javascript",
+            "C (Programming Language)",
+            "Database Management System (DBMS)"
+        ],
+        "awards": null,
+        "volunteering": null,
+        "publications": null,
+        "education": [
+            {
+                "big": "SSN College of Engineering",
+                "mid": "Bachelor of Technology - BTech, Information Technology",
+                "dur": "2018 - 2022",
+                "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+                "desc": "Grade: 8.88"
+            }
+        ]
+    },
+    {
+        "register_num": "18 5002 070",
+        "profile_name": "Nivethitha M",
+        "profile_img": "https://media.licdn.com/dms/image/D5603AQHLRVQH0qtt9A/profile-displayphoto-shrink_400_400/0/1692757503369?e=1715817600&v=beta&t=vaz02yuPxvwkB9u5fh25jCzluw6_15V9bGPuv3vMjhc",
+        "profile_job": "Software Engineer | Ruckus Commscope Networks India pvt Ltd",
+        "experience": [
+            {
+                "big": "Software Engineer",
+                "exp": "Jul 2022 - Present \u00b7 1 yr 9 mos",
+                "small": "CommScope",
+                "sub_exp": []
+            }
+        ],
+        "skills": [
+            "C and C++ programming",
+            "Oracle Database",
+            "HTML and CSS"
+        ],
+        "awards": null,
+        "volunteering": null,
+        "publications": null,
+        "education": [
+            {
+                "big": "SSN College of Engineering",
+                "mid": "Bachelor of Technology - BTech, Information Technology",
+                "dur": "2018 - 2022",
+                "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+                "desc": null
+            },
+            {
+                "big": "Chellammal Vidhyalaya Matriculation Hr,Sec ,School",
+                "mid": null,
+                "dur": null,
+                "img_src": null,
+                "desc": null
+            }
+        ]
+    },
+    {
+        "register_num": "18 5002 071",
+        "profile_name": "Obed Immanuel Raj J J",
+        "profile_img": "https://media.licdn.com/dms/image/C4D03AQHdqYyx38AVog/profile-displayphoto-shrink_400_400/0/1653834817574?e=1715817600&v=beta&t=N4DSiEsItdWI-8m81i8v8n1nYX1BGj39MRMh0NZxyjA",
+        "profile_job": "SWE at Fi | Previously at Amazon, SSN '22",
+        "experience": [
+            {
+                "big": "Software Engineer",
+                "exp": "Sep 2022 - Present \u00b7 1 yr 7 mos",
+                "small": "Fi \u00b7 Full-time\nBengaluru, Karnataka, India",
+                "sub_exp": []
+            },
+            {
+                "big": "SDE Intern",
+                "exp": "Feb 2022 - Jun 2022 \u00b7 5 mos",
+                "small": "Amazon \u00b7 Internship\nChennai, Tamil Nadu, India",
+                "sub_exp": []
+            }
+        ],
+        "skills": [
+            "Java",
+            "Groovy",
+            "Git",
+            "Amazon Web Services (AWS)",
+            "Documentation",
+            "C++",
+            "Machine Learning Algorithms",
+            "Python (Programming Language)",
+            "C (Programming Language)",
+            "Web Development",
+            "Data Structures"
+        ],
+        "awards": null,
+        "volunteering": null,
+        "publications": null,
+        "education": [
+            {
+                "big": "SSN College of Engineering",
+                "mid": "Bachelor of Technology - BTech, Information Technology",
+                "dur": "2018 - 2022",
+                "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+                "desc": null
+            },
+            {
+                "big": "St. Xavier's Matric. Hr. Sec. School",
+                "mid": "Maths",
+                "dur": "2006 - 2018",
+                "img_src": null,
+                "desc": null
+            }
+        ]
+    },
+    {
+        "register_num": "18 5002 072",
+        "profile_name": "Pakkeer Mydeen",
+        "profile_img": "https://media.licdn.com/dms/image/C5603AQGJeFRSyQzFoA/profile-displayphoto-shrink_400_400/0/1616741301839?e=1715817600&v=beta&t=lBLZtITMHxAl6YwWeJjc98OxouFdV-LyVlHJ2bMbFUc",
+        "profile_job": "Software Developer @ IBM CIO | SSN IT '22",
+        "experience": [
+            {
+                "big": "IBM",
+                "exp": "2 yrs 3 mos",
+                "small": null,
+                "sub_exp": [
+                    {
+                        "big": "Software Developer",
+                        "exp": "Aug 2022 - Present \u00b7 1 yr 8 mos",
+                        "small": "Full-time\nBengaluru, Karnataka, India"
+                    },
+                    {
+                        "big": "Intern",
+                        "exp": "Jan 2022 - Jul 2022 \u00b7 7 mos",
+                        "small": "Internship\nBangalore Urban district, Karnataka, India"
+                    }
+                ]
+            }
+        ],
+        "skills": [
+            "Git",
+            "React.js",
+            "Django",
+            "Wagtail CMS",
+            "Data Structures",
+            "Programming",
+            "Python (Programming Language)",
+            "Database Management System (DBMS)",
+            "Java",
+            "Node.js",
+            "HTML",
+            "Cascading Style Sheets (CSS)",
+            "JavaScript",
+            "Android Development",
+            "Full-Stack Development",
+            "C (Programming Language)",
+            "C++"
+        ],
+        "awards": null,
+        "volunteering": [
+            {
+                "big": "NSS Volunteer",
+                "mid": "SSN College of Engineering",
+                "dur": "May 2018 - Present",
+                "exp": "5 yrs 11 mos",
+                "img": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc"
+            }
+        ],
+        "publications": null,
+        "education": [
+            {
+                "big": "SSN College of Engineering",
+                "mid": "Bachelor of Technology - BTech, Information Technology",
+                "dur": "2018 - 2022",
+                "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+                "desc": null
+            }
+        ]
+    },
+    {
+        "register_num": "18 5002 073",
+        "profile_name": "RAJITHA LAKSHMI",
+        "profile_img": "https://media.licdn.com/dms/image/C5603AQFk3dRHEPGivw/profile-displayphoto-shrink_400_400/0/1645718683404?e=1715817600&v=beta&t=-JoKUCWdBk2KRiOBgqbxBD2Rd_-HjfJMpQ7b4mzOlHQ",
+        "profile_job": "Backend Developer at SuperOps.ai",
+        "experience": [
+            {
+                "big": "SuperOps.ai",
+                "exp": "2 yrs 3 mos",
+                "small": null,
+                "sub_exp": [
+                    {
+                        "big": "Junior Software Engineer",
+                        "exp": "Jun 2022 - Present \u00b7 1 yr 10 mos",
+                        "small": "Full-time\nChennai, Tamil Nadu, India"
+                    },
+                    {
+                        "big": "Intern",
+                        "exp": "Jan 2022 - Jun 2022 \u00b7 6 mos",
+                        "small": "Internship\nTamil Nadu, India"
+                    }
+                ]
+            }
+        ],
+        "skills": [
+            "Git",
+            "Bash",
+            "Powershell",
+            "Linux",
+            "Data Structures",
+            "C (Programming Language)",
+            "C++",
+            "Python (Programming Language)",
+            "Tkinter",
+            "Go (Programming Language)"
+        ],
+        "awards": null,
+        "volunteering": null,
+        "publications": null,
+        "education": [
+            {
+                "big": "SSN College of Engineering",
+                "mid": "Bachelor of Technology - BTech, Information Technology",
+                "dur": "2018 - 2022",
+                "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+                "desc": null
+            }
+        ]
+    },
+    {
+        "register_num": "18 5002 074",
+        "profile_name": "Pranava Krishna",
+        "profile_img": "https://media.licdn.com/dms/image/C5603AQH0meuFRQyGgg/profile-displayphoto-shrink_800_800/0/1588609365060?e=1715817600&v=beta&t=fWytECbgy2Bq-0km4gn6-GDs7AmLVXpMC5jaZehC5B4",
+        "profile_job": "SDE @Mad Street Den",
+        "experience": [
+            {
+                "big": "Software Engineer",
+                "exp": "Jul 2022 - Present \u00b7 1 yr 9 mos",
+                "small": "Mad Street Den \u00b7 Full-time",
+                "sub_exp": []
+            },
+            {
+                "big": "SDE Intern",
+                "exp": "Dec 2021 - May 2022 \u00b7 6 mos",
+                "small": "Mad Street Den \u00b7 Internship",
+                "sub_exp": []
+            }
+        ],
+        "skills": [
+            "C++",
+            "C (Programming Language)",
+            "Python (Programming Language)",
+            "HTML5",
+            "Cascading Style Sheets (CSS)",
+            "SASS",
+            "JavaScript",
+            "Data Structures",
+            "Algorithms"
+        ],
+        "awards": null,
+        "volunteering": null,
+        "publications": null,
+        "education": [
+            {
+                "big": "SSN College of Engineering",
+                "mid": "Bachelor of Technology - BTech, Information Technology",
+                "dur": "2018 - 2022",
+                "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+                "desc": null
+            },
+            {
+                "big": "Sri sankara senior secondary school",
+                "mid": "High school, Math , Physics and chemistry",
+                "dur": "2016 - 2018",
+                "img_src": null,
+                "desc": "Grade: 92%\nActivities and societies: School cricket team, Model United Nations"
+            }
+        ]
+    },
+    {
+        "register_num": "18 5002 075",
+        "profile_name": "Pravin Varma V",
+        "profile_img": "https://media.licdn.com/dms/image/D5603AQGMTbWjzaE_lA/profile-displayphoto-shrink_400_400/0/1689787076350?e=1715817600&v=beta&t=MBjsihkfjzTo5hmiCe6H37QM4yHXUqG3tJMXrsSWTf8",
+        "profile_job": "Senior Software Engineer @Accolite Digital | @Morgan Stanley",
+        "experience": [
+            {
+                "big": "Accolite",
+                "exp": "2 yrs 2 mos",
+                "small": null,
+                "sub_exp": [
+                    {
+                        "big": "Senior Software Engineer",
+                        "exp": "Nov 2023 - Present \u00b7 5 mos",
+                        "small": "Full-time\nBengaluru, Karnataka, India"
+                    },
+                    {
+                        "big": "Software Engineer",
+                        "exp": "Sep 2022 - Nov 2023 \u00b7 1 yr 3 mos",
+                        "small": "Full-time\nBengaluru, Karnataka, India"
+                    },
+                    {
+                        "big": "Associate Software Engineer",
+                        "exp": "Jun 2022 - Aug 2022 \u00b7 3 mos",
+                        "small": "Full-time\nBengaluru, Karnataka, India"
+                    }
+                ]
+            },
+            {
+                "big": "Software Consultant",
+                "exp": "Jul 2022 - Present \u00b7 1 yr 9 mos",
+                "small": "Morgan Stanley\nBengaluru, Karnataka, India",
+                "sub_exp": []
+            },
+            {
+                "big": "Head Of Design",
+                "exp": "Dec 2020 - Jan 2021 \u00b7 2 mos",
+                "small": "SSN College of Engineering\nChennai, Tamil Nadu, India",
+                "sub_exp": []
+            }
+        ],
+        "skills": [
+            "Java",
+            "Spring Boot",
+            "Angular",
+            "Web Development",
+            "Web Design",
+            "Video Editing",
+            "After Effects",
+            "Python (Programming Language)",
+            "C#",
+            "C++",
+            "JavaScript",
+            "HTML",
+            "Cascading Style Sheets (CSS)",
+            "Portrait Photography",
+            "Event Photography",
+            "Responsive Web Design",
+            "Cloud Computing",
+            "Cloud Storage",
+            "Cloud Security",
+            "Cloud Development"
+        ],
+        "awards": null,
+        "volunteering": [
+            {
+                "big": "Student Volunteer",
+                "mid": "Red Cross Youth",
+                "dur": null,
+                "exp": null,
+                "img": "https://media.licdn.com/dms/image/C560BAQG3EX315y3JsQ/company-logo_100_100/0/1631322295766?e=1718236800&v=beta&t=x5vIbUBynJ9rEHrrIpD4ME1DC4i83rvyPYRku3eiieY"
+            }
+        ],
+        "publications": null,
+        "education": [
+            {
+                "big": "SSN College of Engineering",
+                "mid": "Bachelor of Technology - BTech, Information Technology",
+                "dur": "2018 - 2022",
+                "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+                "desc": null
+            }
+        ]
+    },
+    {
+        "register_num": "18 5002 076",
+        "profile_name": "Preetha V",
+        "profile_img": null,
+        "profile_job": "Started working at Optum",
+        "experience": [
+            {
+                "big": "TDP II Software Engineer",
+                "exp": "Sep 2022 - Present \u00b7 1 yr 7 mos",
+                "small": "Optum \u00b7 Full-time\nHyderabad, Telangana, India",
+                "sub_exp": []
+            },
+            {
+                "big": "Professional development",
+                "exp": "Sep 2022 - Present \u00b7 1 yr 7 mos",
+                "small": "Career Break\nHyderabad, Telangana",
+                "sub_exp": []
+            }
+        ],
+        "skills": null,
+        "awards": null,
+        "volunteering": null,
+        "publications": null,
+        "education": [
+            {
+                "big": "SSN College of Engineering",
+                "mid": "Bachelor's degree, Information Technology",
+                "dur": "2018 - 2022",
+                "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+                "desc": null
+            }
+        ]
+    },
+    {
+        "register_num": "18 5002 078",
+        "profile_name": "Ram PRAKASH KCP",
+        "profile_img": "https://media.licdn.com/dms/image/C5603AQHyRQbXD4TNvw/profile-displayphoto-shrink_400_400/0/1636634809914?e=1715817600&v=beta&t=gMEdRLtoNssbXLXA4N5Ofxuw51yKoRNnHYZcv-7zAPA",
+        "profile_job": "Student at SSN College of Engineering",
+        "experience": null,
+        "skills": [
+            "Data Structures",
+            "Engineering",
+            "Programming",
+            "Database Management System (DBMS)",
+            "C++"
+        ],
+        "awards": null,
+        "volunteering": null,
+        "publications": null,
+        "education": [
+            {
+                "big": "SSN College of Engineering",
+                "mid": "Bachelor of Technology - BTech , Information Technology",
+                "dur": "2018 - 2022",
+                "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+                "desc": null
+            }
+        ]
+    },
+    {
+        "register_num": "18 5002 080",
+        "profile_name": "Rithanya Sridhar",
+        "profile_img": "https://media.licdn.com/dms/image/D5603AQGg_Jl6uiAdDQ/profile-displayphoto-shrink_400_400/0/1708800284687?e=1715817600&v=beta&t=fz1FPQsH15N9ylBK12FFMJl9EsnmNEI03HOUnI0lk0s",
+        "profile_job": "Associate Software Engineer@Optum Global Solutions",
+        "experience": [
+            {
+                "big": "Software Engineer",
+                "exp": "Aug 2022 - Present \u00b7 1 yr 8 mos",
+                "small": "Optum \u00b7 Full-time\nHyderabad, Telangana, India",
+                "sub_exp": []
+            }
+        ],
+        "skills": [
+            "Python (Programming Language)",
+            "C++",
+            "C (Programming Language)",
+            "Microsoft Office",
+            "Visual Basic",
+            "Graphical User Interface (GUI)",
+            "Oracle Database",
+            "data science algorithms",
+            "HTML",
+            "Cascading Style Sheets (CSS)",
+            "JavaScript",
+            "MongoDB",
+            "AngularJS",
+            "Node.js",
+            "Full-Stack Development",
+            "SQL",
+            "Java",
+            "Git"
+        ],
+        "awards": null,
+        "volunteering": [
+            {
+                "big": "Volunteer",
+                "mid": "NSS SSN College",
+                "dur": "Aug 2018 - Present",
+                "exp": "5 yrs 8 mos",
+                "img": null
+            },
+            {
+                "big": "Vice President",
+                "mid": "SSN College of Engineering",
+                "dur": "Jun 2021 - Present",
+                "exp": "2 yrs 10 mos",
+                "img": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc"
+            }
+        ],
+        "publications": null,
+        "education": [
+            {
+                "big": "SSN College of Engineering",
+                "mid": "Bachelor of Technology - BTech, Information Technology",
+                "dur": "2018 - 2022",
+                "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+                "desc": "Activities and societies: NSS Volunteer"
+            },
+            {
+                "big": "Vidyaa Vikas Higher Secondary school",
+                "mid": null,
+                "dur": null,
+                "img_src": null,
+                "desc": null
+            }
+        ]
+    },
+    {
+        "register_num": "18 5002 081",
+        "profile_name": "Ritika CM",
+        "profile_img": "https://media.licdn.com/dms/image/C5603AQHfbtGTMJ00rQ/profile-displayphoto-shrink_400_400/0/1625400554082?e=1715817600&v=beta&t=EHwGPyQMG_Pcma5Y-ObXKQdgCC_efbvoSTbX6vZizEY",
+        "profile_job": "Student at SSN College of Engineering",
+        "experience": null,
+        "skills": null,
+        "awards": null,
+        "volunteering": null,
+        "publications": null,
+        "education": [
+            {
+                "big": "SSN College of Engineering",
+                "mid": "Bachelor of Technology - BTech, Information Technology",
+                "dur": "2018 - 2022",
+                "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+                "desc": "Final year"
+            }
+        ]
+    },
+    {
+        "register_num": "18 5002 082",
+        "profile_name": "Saai Sindhoora G",
+        "profile_img": null,
+        "profile_job": "Student at SSN College of Engineering",
+        "experience": null,
+        "skills": null,
+        "awards": null,
+        "volunteering": null,
+        "publications": null,
+        "education": [
+            {
+                "big": "SSN College of Engineering",
+                "mid": "Bachelor of Technology - BTech, Information Technology",
+                "dur": "2018 - 2022",
+                "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+                "desc": null
+            }
+        ]
+    },
+    {
+        "register_num": "18 5002 083",
+        "profile_name": "Sabihah B",
+        "profile_img": "https://media.licdn.com/dms/image/C4E03AQFQUq3WCiJQAw/profile-displayphoto-shrink_400_400/0/1625578012056?e=1715817600&v=beta&t=bFFSwttL8qkIZsBFN6UzUMQuf0NAPlBm0C2UKDVYPKo",
+        "profile_job": "Analyst at Deloitte USI",
+        "experience": [
+            {
+                "big": "Analyst",
+                "exp": "Jan 2023 - Present \u00b7 1 yr 3 mos",
+                "small": "Deloitte \u00b7 Full-time\nHyderabad, Telangana, India \u00b7 On-site",
+                "sub_exp": []
+            }
+        ],
+        "skills": [
+            "SAP ABAP",
+            "C (Programming Language)",
+            "C++",
+            "HTML",
+            "Cascading Style Sheets (CSS)",
+            "SQL",
+            "Microsoft Office"
+        ],
+        "awards": null,
+        "volunteering": null,
+        "publications": null,
+        "education": [
+            {
+                "big": "SSN College of Engineering",
+                "mid": "Bachelor of Technology - BTech, Information Technology",
+                "dur": "Aug 2018 - Jun 2022",
+                "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+                "desc": "Grade: 8.77/10\nActivities and societies: NSS Volunteer"
+            }
+        ]
+    },
+    {
+        "register_num": "18 5002 084",
+        "profile_name": "Safin Abdul Nazar",
+        "profile_img": "https://media.licdn.com/dms/image/D4E03AQHUEv1_MHQU4w/profile-displayphoto-shrink_400_400/0/1680629202155?e=1715817600&v=beta&t=gZ0Z98yadAeDMTbWMFauQOvUUEkLoWX0VrXfxRSh32c",
+        "profile_job": "ESMT Berlin MIM 2022-24 | B.Tech. IT Graduate at SSN CE",
+        "experience": [
+            {
+                "big": "Customer and Sales Controlling Intern",
+                "exp": "Apr 2023 - Sep 2023 \u00b7 6 mos",
+                "small": "METRO AG \u00b7 Internship\nD\u00fcsseldorf, North Rhine-Westphalia, Germany",
+                "sub_exp": []
+            },
+            {
+                "big": "Human Resources Intern",
+                "exp": "Sep 2021 - Oct 2021 \u00b7 2 mos",
+                "small": "Growth Central VC \u00b7 Internship\nChennai, Tamil Nadu, India",
+                "sub_exp": []
+            },
+            {
+                "big": "Business Analytics Project",
+                "exp": "Mar 2021 - Apr 2021 \u00b7 2 mos",
+                "small": "zebo.ai: AI Based Dermatology Platform\nChennai, Tamil Nadu, India",
+                "sub_exp": []
+            }
+        ],
+        "skills": [
+            "Data Analytics",
+            "Information Technology",
+            "Business Development",
+            "Python (Programming Language)",
+            "Customer Controlling",
+            "Sales Controlling",
+            "Microsoft Excel",
+            "Excel",
+            "Microsoft PowerPoint",
+            "Machine Learning",
+            "SQL",
+            "R",
+            "C++",
+            "C#",
+            "HTML",
+            "Database Management System (DBMS)",
+            "ChatGPT",
+            "Google CoLab",
+            "Orange (Software)",
+            "HR Consulting"
+        ],
+        "awards": null,
+        "volunteering": [
+            {
+                "big": "Volunteer",
+                "mid": "National Service Scheme",
+                "dur": "Sep 2018 - Mar 2020",
+                "exp": "1 yr 7 mos",
+                "img": "https://media.licdn.com/dms/image/C4E0BAQEJ6yAnaG3CtQ/company-logo_100_100/0/1631346049980?e=1718236800&v=beta&t=3yMZXOTUQ189F1VUuKt8KwJ03QOT_DDrcZnKzkDCUfg"
+            }
+        ],
+        "publications": null,
+        "education": [
+            {
+                "big": "ESMT Berlin",
+                "mid": "MSc, Management",
+                "dur": "Sep 2022 - Aug 2024",
+                "img_src": "https://media.licdn.com/dms/image/D4E0BAQEUSbkZCxQJ9g/company-logo_100_100/0/1709814614362/esmt_logo?e=1718236800&v=beta&t=ACmq83pwZ-xyvL27lQj_STO6-MWfZEpR1CJs1EfC5bE",
+                "desc": "Grade: 1,33 (German Grade)\nActivities and societies: Education Consultant - Meraki Club (Meraki Smile School, Madagascar), International Affairs Club, Inclusive Leadership Roundtable\nQuantitative Business track ESMT Merit Scholarship holder Relevant course work: Decision-Making, Competitive and Corporate Strategy, Financial Management, Data Science for Analytics, Operations and Supply Chain, Econometrics"
+            },
+            {
+                "big": "UNC Kenan-Flagler Business School",
+                "mid": "MBA Exchange, Business Administration and Management, General",
+                "dur": "Jan 2024 - May 2024",
+                "img_src": "https://media.licdn.com/dms/image/C4E0BAQGzj-9BhFjiQA/company-logo_100_100/0/1646422987250/unc_kenan_flagler_logo?e=1718236800&v=beta&t=_nWNvRdgbtZ6C5AO1bZGC_WYwlrk6jlKSyw1x9svfak",
+                "desc": "Relevant course work: Data Science and Artificial Intelligence in Business, Financial Technology Tools, Investments - Advanced Quantitive Analysis, Strategic Economics"
+            },
+            {
+                "big": "SSN College of Engineering",
+                "mid": "Bachelor of Technology - B.Tech., Information Technology",
+                "dur": "Aug 2018 - Jun 2022",
+                "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+                "desc": "Grade: 9.196 / 10.0\nActivities and societies: Model United Nations Society (MUNSoc), English Literary Club (ELC) Projects: AI-Based Sudoku Solver, Hotel Management System\nClassification: First Class with Distinction SSN Merit Scholarship Holder Relevant course work: Advanced Data Structures, Big Data Engineering, DevOps, Probability and Statistics, Cloud Computing and Virtualization, Information Theory"
+            },
+            {
+                "big": "The Village International School - India",
+                "mid": "CBSE",
+                "dur": "2014 - 2018",
+                "img_src": null,
+                "desc": "Grade: 97.8%\nActivities and societies: Cultural Fest, Quiz Club, Literary Club\nMathematics"
+            }
+        ]
+    },
+    {
+        "register_num": "18 5002 086",
+        "profile_name": "Sandeep S",
+        "profile_img": "https://media.licdn.com/dms/image/D5603AQHiyH40zKKOgw/profile-displayphoto-shrink_400_400/0/1710249327150?e=1715817600&v=beta&t=Q_mCgqoG5c5kg8hQ5a5iBDmD5CtIIbmfbfRi9kMKOms",
+        "profile_job": "SDE @ Fidelity Investments",
+        "experience": [
+            {
+                "big": "Fidelity Investments",
+                "exp": "1 yr 8 mos",
+                "small": null,
+                "sub_exp": [
+                    {
+                        "big": "Software Engineer",
+                        "exp": "Sep 2023 - Present \u00b7 7 mos",
+                        "small": "Chennai, Tamil Nadu, India"
+                    },
+                    {
+                        "big": "Associate Software Engineer",
+                        "exp": "Nov 2022 - Sep 2023 \u00b7 11 mos",
+                        "small": "Full-time\nChennai, Tamil Nadu, India"
+                    },
+                    {
+                        "big": "Executive Graduate Trainee",
+                        "exp": "Aug 2022 - Nov 2022 \u00b7 4 mos",
+                        "small": "Chennai, Tamil Nadu, India"
+                    }
+                ]
+            },
+            {
+                "big": "Software Engineer Intern",
+                "exp": "Chennai, Tamil Nadu, India \u00b7 Remote",
+                "small": "Fidelity Investments",
+                "sub_exp": []
+            }
+        ],
+        "skills": [
+            "Angular Framework",
+            "Software Design Patterns",
+            "Spring MVC",
+            "Spring Framework",
+            "Hibernate",
+            "PL/SQL",
+            "Oracle SQL Developer",
+            "JHipster",
+            "Oracle Database",
+            "JavaScript",
+            "Software Design",
+            "Node.js",
+            "Embedded JavaScript (EJS)",
+            "JPA",
+            "Angular Command Line Interface (CLI)",
+            "Angular Material",
+            "AG Grid",
+            "Spring Boot",
+            "Angular",
+            "Oracle SQL"
+        ],
+        "awards": [
+            {
+                "big": "Shortlisted for IRIS National Fair 2014",
+                "mid": "Issued by IRIS National Fair, http://www.irisnationalfair.org/",
+                "date": "Issued by IRIS National Fair, http://www.irisnationalfair.org/ \u00b7 Dec 2014"
+            },
+            {
+                "big": "Distinguished All-Rounder",
+                "mid": "Issued by Padma Seshadri Bala Bhavan Sr. Sec. School",
+                "date": "Issued by Padma Seshadri Bala Bhavan Sr. Sec. School \u00b7 Jan 2014"
+            },
+            {
+                "big": "RK Narayanan Talent Award",
+                "mid": "Issued by Padma Seshadri Bala Bhavan Sr. Sec. School",
+                "date": "Issued by Padma Seshadri Bala Bhavan Sr. Sec. School \u00b7 Jan 2013"
+            }
+        ],
+        "volunteering": [
+            {
+                "big": "Student Volunteer",
+                "mid": "National Service Scheme",
+                "dur": "Jan 2019 - Sep 2020",
+                "exp": "1 yr 9 mos",
+                "img": "https://media.licdn.com/dms/image/C4E0BAQEJ6yAnaG3CtQ/company-logo_100_100/0/1631346049980?e=1718236800&v=beta&t=3yMZXOTUQ189F1VUuKt8KwJ03QOT_DDrcZnKzkDCUfg"
+            }
+        ],
+        "publications": null,
+        "education": [
+            {
+                "big": "SSN College of Engineering",
+                "mid": "Bachelor of Technology - BTech, Information Technology",
+                "dur": "2018 - 2022",
+                "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+                "desc": "Grade: 9.1/10.0 CGPA"
+            },
+            {
+                "big": "Padma Seshadri Bala Bhavan Sr. Sec. School",
+                "mid": null,
+                "dur": null,
+                "img_src": "https://media.licdn.com/dms/image/C4E0BAQG9gRadvV9QSQ/company-logo_100_100/0/1630620332709/padma_seshadri_bala_bhavan_logo?e=1718236800&v=beta&t=X3JNkuCXB5ROg6echaDC3oCUCkEe_RFv66ZednbMIaU",
+                "desc": null
+            }
+        ]
+    },
+    {
+        "register_num": "18 5002 087",
+        "profile_name": "SanjayBharathi S",
+        "profile_img": "https://media.licdn.com/dms/image/D5603AQFSi07jfcuP0A/profile-displayphoto-shrink_400_400/0/1687084269146?e=1715817600&v=beta&t=eviMfbkyYvKJi_3oNblkveO5Ye7YaNlliTNXYvxktcc",
+        "profile_job": "Software Engineer at Mphasis",
+        "experience": [
+            {
+                "big": "Software Engineer",
+                "exp": "Jun 2022 - Present \u00b7 1 yr 10 mos",
+                "small": "Mphasis \u00b7 Full-time\nChennai, Tamil Nadu, India",
+                "sub_exp": []
+            }
+        ],
+        "skills": [
+            "Cloud Computing",
+            ".NET Framework",
+            "Microsoft SQL Server",
+            "Cascading Style Sheets (CSS)",
+            "HTML5",
+            "SQL",
+            "RDBMS",
+            "Engineering"
+        ],
+        "awards": null,
+        "volunteering": null,
+        "publications": null,
+        "education": [
+            {
+                "big": "SSN College of Engineering",
+                "mid": "Bachelor of Technology - BTech, Information Technology",
+                "dur": "Jun 2018 - Jun 2022",
+                "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+                "desc": "Activities and societies: NSS"
+            }
+        ]
+    },
+    {
+        "register_num": "18 5002 089",
+        "profile_name": "Saravanan V",
+        "profile_img": null,
+        "profile_job": "Student at SSN College of Engineering",
+        "experience": null,
+        "skills": null,
+        "awards": null,
+        "volunteering": null,
+        "publications": null,
+        "education": [
+            {
+                "big": "SSN College of Engineering",
+                "mid": "Bachelor of Technology - BTech, Information Technology",
+                "dur": "2018 - 2022",
+                "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+                "desc": null
+            }
+        ]
+    },
+    {
+        "register_num": "18 5002 090",
+        "profile_name": "Saurav Singh",
+        "profile_img": "https://media.licdn.com/dms/image/C4D03AQHKdnsLYANZzA/profile-displayphoto-shrink_400_400/0/1657107441975?e=1715817600&v=beta&t=RsptpE6S5vaxO-4yUnnVRqMaJtozApHfPivxR--8nd4",
+        "profile_job": "Software Engineer at Ruckus Networks, CommScope || B.Tech (IT) From SSNCE, CHENNAI",
+        "experience": [
+            {
+                "big": "Software Engineer",
+                "exp": "Jul 2022 - Present \u00b7 1 yr 9 mos",
+                "small": "CommScope \u00b7 Full-time\nBangalore Urban, Karnataka, India",
+                "sub_exp": []
+            }
+        ],
+        "skills": [
+            "Python (Programming Language)",
+            "C (Programming Language)",
+            "C++",
+            "Machine Learning",
+            "Programming",
+            "MySQL",
+            "PL/SQL"
+        ],
+        "awards": null,
+        "volunteering": null,
+        "publications": null,
+        "education": [
+            {
+                "big": "SSN College of Engineering",
+                "mid": "B.Tech, Information Technology",
+                "dur": "2018 - 2022",
+                "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+                "desc": "Grade: 8.34"
+            },
+            {
+                "big": "Vidyagyan school",
+                "mid": "schooling, 6 to 12th class",
+                "dur": "2011 - 2018",
+                "img_src": null,
+                "desc": "Grade: All Time Good Performer"
+            }
+        ]
+    },
+    {
+        "register_num": "18 5002 093",
+        "profile_name": "Shivakumar G.",
+        "profile_img": "https://media.licdn.com/dms/image/C4D03AQFg0e9wIamGYQ/profile-displayphoto-shrink_400_400/0/1652867274210?e=1715817600&v=beta&t=LyllSGDzHlyhli836-9xP_WB-duHs9RC6sJ1_NME-dc",
+        "profile_job": "",
+        "experience": [
+            {
+                "big": "Graduate Analyst",
+                "exp": "Aug 2022 - Present \u00b7 1 yr 8 mos",
+                "small": "Barclays \u00b7 Full-time\nChennai",
+                "sub_exp": []
+            }
+        ],
+        "skills": [],
+        "awards": null,
+        "volunteering": null,
+        "publications": null,
+        "education": [
+            {
+                "big": "SSN College of Engineering",
+                "mid": "Bachelor of Technology - BTech, Information Technology",
+                "dur": "2018 - 2022",
+                "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+                "desc": null
+            },
+            {
+                "big": "Nag Vidhyashram Sr. Sec. School",
+                "mid": null,
+                "dur": "2010 - 2018",
+                "img_src": null,
+                "desc": null
+            }
+        ]
+    },
+    {
+        "register_num": "18 5002 094",
+        "profile_name": "Shobia Vasu",
+        "profile_img": "https://media.licdn.com/dms/image/C5603AQEDGryx2RpSqg/profile-displayphoto-shrink_400_400/0/1602918027435?e=1715817600&v=beta&t=l-O7UM2k_DdWZkBEGG9GwWzTbkLA-OUyGPHSKKaARpM",
+        "profile_job": "Software Engineer @Lynk Logistics (FullStack) | ReactJs | Golang | Python",
+        "experience": [
+            {
+                "big": "LYNK logistics",
+                "exp": "2 yrs 3 mos",
+                "small": "Mylapore, Tamil Nadu, India",
+                "sub_exp": [
+                    {
+                        "big": "Software Engineer",
+                        "exp": "Jul 2022 - Present \u00b7 1 yr 9 mos",
+                        "small": "Full-time"
+                    },
+                    {
+                        "big": "Intern",
+                        "exp": "Jan 2022 - Jun 2022 \u00b7 6 mos",
+                        "small": "Internship"
+                    }
+                ]
+            },
+            {
+                "big": "Student",
+                "exp": "Jul 2018 - Jun 2022 \u00b7 4 yrs",
+                "small": "SSN College of Engineering \u00b7 Full-time\nChennai, Tamil Nadu, India",
+                "sub_exp": []
+            }
+        ],
+        "skills": [
+            "Microservices",
+            "Git",
+            "Web Development",
+            "Cascading Style Sheets (CSS)",
+            "API Development",
+            "Apache Kafka",
+            "PostgreSQL",
+            "Go (Programming Language)",
+            "React.js",
+            "SQL",
+            "Python (Programming Language)",
+            "C++",
+            "Data Structures",
+            "C (Programming Language)",
+            "Tamil",
+            "English",
+            "Database Management System (DBMS)"
+        ],
+        "awards": null,
+        "volunteering": [
+            {
+                "big": "Volunteer",
+                "mid": "National Service Scheme (NSS), SSN",
+                "dur": "Aug 2018 - Present",
+                "exp": "5 yrs 8 mos",
+                "img": null
+            }
+        ],
+        "publications": null,
+        "education": [
+            {
+                "big": "SSN College of Engineering",
+                "mid": "Bachelor of Technology - BTech, Information Technology",
+                "dur": "2018 - 2022",
+                "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+                "desc": null
+            },
+            {
+                "big": "Kendriya vidyalaya",
+                "mid": "HSC, Biology",
+                "dur": "2016 - 2018",
+                "img_src": "https://media.licdn.com/dms/image/C510BAQGcv8M8B-5hkg/company-logo_100_100/0/1630568383735/kendriya_vidyalaya_sanghthan_logo?e=1718236800&v=beta&t=N6Hq1cOAhvbtWdJrN6fbdIm5FgceKEqB4HDMz0UkezI",
+                "desc": null
+            }
+        ]
+    },
+    {
+        "register_num": "18 5002 095",
+        "profile_name": "Shruthi Arun",
+        "profile_img": null,
+        "profile_job": "Technology Analyst at Citi",
+        "experience": [
+            {
+                "big": "Application Developer",
+                "exp": "Jul 2022 - Present \u00b7 1 yr 9 mos",
+                "small": "Citi\nChennai, Tamil Nadu, India",
+                "sub_exp": []
+            },
+            {
+                "big": "Data Anayst Intern",
+                "exp": "Jul 2021 - Aug 2021 \u00b7 2 mos",
+                "small": "JK Fenner (India) Ltd \u00b7 Internship\nChennai",
+                "sub_exp": []
+            }
+        ],
+        "skills": [
+            "Java",
+            "Python (Programming Language)",
+            "SQL",
+            "Problem Solving",
+            "C++"
+        ],
+        "awards": null,
+        "volunteering": null,
+        "publications": null,
+        "education": [
+            {
+                "big": "Sri Sivasubramaniya Nadar College Of Engineering",
+                "mid": "Bachelor of Technology, Information Technology",
+                "dur": "2018 - 2022",
+                "img_src": "https://media.licdn.com/dms/image/C560BAQGK5F9nqLbxLw/company-logo_100_100/0/1632548839827/sri_sivasubramaniya_nadar_college_of_engineering_logo?e=1718236800&v=beta&t=YJyti6rlAQIyFb8y9OKqkzhkVTNrPyCEDUQd8u37ZLo",
+                "desc": "Grade: CGPA : 9.28\nActivities and societies: SSN AIT(Association of Information Technologists) SSN Music Club Lakshya(Student Entrepreneurship Cell) Attended National Sports Organization Camp"
+            },
+            {
+                "big": "Sri Sankara Senior Secondary School",
+                "mid": "Class XII, Computer Science",
+                "dur": "Jun 2017 - May 2018",
+                "img_src": null,
+                "desc": "Grade: Class XII: 96.2%"
+            },
+            {
+                "big": "Sri Sankara Senior Secondary School",
+                "mid": "Class X",
+                "dur": "Jun 2015 - May 2016",
+                "img_src": null,
+                "desc": "Grade: CGPA - 10.0\nActivities and societies: Sports: ThrowBall, BasketBall, Athletics teams"
+            }
+        ]
+    },
+    {
+        "register_num": "18 5002 096",
+        "profile_name": "Siddharth Sundar",
+        "profile_img": null,
+        "profile_job": "Analyst",
+        "experience": [
+            {
+                "big": "Analyst",
+                "exp": "May 2023 - Present \u00b7 11 mos",
+                "small": "Tiger Analytics \u00b7 Full-time",
+                "sub_exp": []
+            },
+            {
+                "big": "Data Science Intern",
+                "exp": "Chennai, Tamil Nadu, India \u00b7 Remote",
+                "small": "Tiger Analytics \u00b7 Internship",
+                "sub_exp": []
+            }
+        ],
+        "skills": [
+            "GitHub",
+            "NumPy",
+            "Pandas",
+            "Algorithms",
+            "Teamwork",
+            "Information Technology",
+            "SQL",
+            "Java",
+            "English",
+            "Data Analysis",
+            "Object-Oriented Programming (OOP)",
+            "MySQL",
+            "Communication",
+            "Problem Solving",
+            "Git",
+            "Analytical Skills",
+            "HTML",
+            "Data Science",
+            "Computer Science",
+            "Python (Programming Language)"
+        ],
+        "awards": null,
+        "volunteering": [
+            {
+                "big": "Volunteer",
+                "mid": "Youth Red Cross",
+                "dur": "Dec 2018 - Mar 2020",
+                "exp": "1 yr 4 mos",
+                "img": null
+            }
+        ],
+        "publications": null,
+        "education": [
+            {
+                "big": "SSN College of Engineering",
+                "mid": "Bachelor's degree, Information Technology",
+                "dur": "2018 - 2022",
+                "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+                "desc": "Grade: 8.91"
+            },
+            {
+                "big": "PSBB Group of Schools",
+                "mid": null,
+                "dur": "2003 - 2018",
+                "img_src": null,
+                "desc": null
+            }
+        ]
+    },
+    {
+        "register_num": "18 5002 097",
+        "profile_name": "Smithi Parthiban",
+        "profile_img": null,
+        "profile_job": "Graduate Student @ Northeastern University",
+        "experience": [
+            {
+                "big": "Data Engineer",
+                "exp": "Aug 2022 - Aug 2023 \u00b7 1 yr 1 mo",
+                "small": "Optum \u00b7 Full-time\nHyderabad, Telangana, India \u00b7 Hybrid",
+                "sub_exp": []
+            }
+        ],
+        "skills": [
+            "SSMS",
+            "Microsoft Azure",
+            "GitHub",
+            "Azure Data Factory",
+            "Azure Databricks",
+            "Snowflake",
+            "HTML5",
+            "Cascading Style Sheets (CSS)",
+            "Python (Programming Language)",
+            "Front-end Development",
+            "Search Engine Optimization (SEO)",
+            "HTML",
+            "JavaScript",
+            "C#",
+            "C++",
+            "Databases",
+            "Presentations",
+            "Leadership",
+            "ChatGPT",
+            "Microsoft Power BI"
+        ],
+        "awards": null,
+        "volunteering": [
+            {
+                "big": "Student Volunteer - Youth Red Cross",
+                "mid": "SSN College of Engineering",
+                "dur": "Sep 2018 - May 2020",
+                "exp": "1 yr 9 mos",
+                "img": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc"
+            }
+        ],
+        "publications": null,
+        "education": [
+            {
+                "big": "Northeastern University",
+                "mid": null,
+                "dur": null,
+                "img_src": "https://media.licdn.com/dms/image/C4D0BAQGwTPCvlTQlvw/company-logo_100_100/0/1630531267482/northeastern_university_logo?e=1718236800&v=beta&t=ZAHjDr9Ma7c3OuuFuVbzwoOSRQi_0bUnU0FxtOYGJ0w",
+                "desc": null
+            },
+            {
+                "big": "SSN College of Engineering",
+                "mid": "Bachelor's degree, Information Technology",
+                "dur": "2018 - 2022",
+                "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+                "desc": null
+            },
+            {
+                "big": "Jawahar Higher secondary school, chennai",
+                "mid": "High School",
+                "dur": "2016 - 2018",
+                "img_src": null,
+                "desc": null
+            }
+        ]
+    },
+    {
+        "register_num": "18 5002 098",
+        "profile_name": "Sneha C.M",
+        "profile_img": "https://media.licdn.com/dms/image/D4D35AQEh8uqeOy9Qdg/profile-framedphoto-shrink_400_400/0/1625580676410?e=1710921600&v=beta&t=6ob-vkg5hWviYYzh09e-YzyTXYNJJOpj4hsoLkjJj6A",
+        "profile_job": "Student at SSN College of Engineering",
+        "experience": null,
+        "skills": [],
+        "awards": null,
+        "volunteering": null,
+        "publications": null,
+        "education": [
+            {
+                "big": "SSN College of Engineering",
+                "mid": "Bachelor of Technology - BTech, Information Technology",
+                "dur": "2018 - 2022",
+                "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+                "desc": null
+            }
+        ]
+    },
+    {
+        "register_num": "18 5002 099",
+        "profile_name": "Sneha S",
+        "profile_img": "https://media.licdn.com/dms/image/D5603AQEVZUB46Zr9FQ/profile-displayphoto-shrink_400_400/0/1669716571678?e=1715817600&v=beta&t=H5nugd6qiVAm8jlqVRacfnyCjDTdWOyEZ5NTnFQAsN0",
+        "profile_job": "Programmer Analyst Trainee | Cognizant",
+        "experience": [
+            {
+                "big": "Cognizant",
+                "exp": "1 yr 5 mos",
+                "small": "Chennai, Tamil Nadu, India",
+                "sub_exp": [
+                    {
+                        "big": "Programmer Analyst Trainee",
+                        "exp": "Jun 2023 - Present \u00b7 10 mos",
+                        "small": "Full-time\nHybrid"
+                    },
+                    {
+                        "big": "Programmer Analyst Trainee",
+                        "exp": "Nov 2022 - May 2023 \u00b7 7 mos",
+                        "small": "Apprenticeship"
+                    }
+                ]
+            }
+        ],
+        "skills": [
+            "Selenium WebDriver",
+            "English",
+            "Selenium",
+            "SoapUI",
+            "Cucumber",
+            "Java",
+            "SQL",
+            "HTML",
+            "Cascading Style Sheets (CSS)",
+            "Manual Testing",
+            "JavaScript",
+            "C++",
+            "C#",
+            "PL/SQL",
+            "C (Programming Language)"
+        ],
+        "awards": null,
+        "volunteering": null,
+        "publications": null,
+        "education": [
+            {
+                "big": "SSN College of Engineering",
+                "mid": "Bachelor of Technology - BTech, Information Technology",
+                "dur": "Aug 2018 - Jul 2022",
+                "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+                "desc": "Grade: 8.33"
+            },
+            {
+                "big": "SRM Nightingale School",
+                "mid": "Computer Science",
+                "dur": "2017 - 2018",
+                "img_src": null,
+                "desc": "Grade: 91.5%"
+            }
+        ]
+    },
+    {
+        "register_num": "18 5002 101",
+        "profile_name": "Sriram Kannan",
+        "profile_img": "https://media.licdn.com/dms/image/C5603AQFjTQnD3Cy-Eg/profile-displayphoto-shrink_400_400/0/1625410857977?e=1715817600&v=beta&t=goGRoMF-9IBrxeEmE0ulat0At-3Ner0AkcK6ApZFKws",
+        "profile_job": "Student at SSN College of Engineering",
+        "experience": [
+            {
+                "big": "Data Engineer",
+                "exp": "Jan 2022 - Present \u00b7 2 yrs 3 mos",
+                "small": "Fidelity Investments \u00b7 Internship\nChennai, Tamil Nadu, India",
+                "sub_exp": []
+            },
+            {
+                "big": "Computer Vision Research Intern",
+                "exp": "Jun 2021 - Aug 2021 \u00b7 3 mos",
+                "small": "OYOBO Sports (SRIC) \u00b7 Internship\nChennai, Tamil Nadu, India",
+                "sub_exp": []
+            },
+            {
+                "big": "Full Stack Developer",
+                "exp": "Feb 2021 - Mar 2021 \u00b7 2 mos",
+                "small": "GUVI Geek Networks, IITM Research Park \u00b7 Internship\nChennai, Tamil Nadu, India",
+                "sub_exp": []
+            }
+        ],
+        "skills": [
+            "Data Analysis",
+            "Machine Learning",
+            "Web Development",
+            "C++",
+            "Microsoft Power BI",
+            "Python (Programming Language)",
+            "Cascading Style Sheets (CSS)",
+            "HTML",
+            "JavaScript",
+            "C (Programming Language)",
+            "Flask",
+            "Node.js",
+            "MongoDB",
+            "SQL"
+        ],
+        "awards": null,
+        "volunteering": null,
+        "publications": null,
+        "education": [
+            {
+                "big": "SSN College of Engineering",
+                "mid": "Bachelor of Technology - BTech, Information Technology",
+                "dur": "2018 - 2022",
+                "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+                "desc": "Grade: 8.4/10"
+            },
+            {
+                "big": "D A V SENIOR SECONDARY SCHOOL",
+                "mid": "12th Grade",
+                "dur": "2017 - 2018",
+                "img_src": null,
+                "desc": "Grade: 95.4 %"
+            },
+            {
+                "big": "D A V SENIOR SECONDARY SCHOOL",
+                "mid": "10th Grade",
+                "dur": "2015 - 2016",
+                "img_src": null,
+                "desc": "Grade: 9.8/10"
+            }
+        ]
+    },
+    {
+        "register_num": "18 5002 103",
+        "profile_name": "Srividhya Narayanan",
+        "profile_img": "https://media.licdn.com/dms/image/D5603AQHdwObjV_watg/profile-displayphoto-shrink_400_400/0/1700476814073?e=1715817600&v=beta&t=kTw43PspBbAGytGr1witFGrurI7sPDrfr_M54YcJ5Ss",
+        "profile_job": "SDE@Amazon",
+        "experience": [
+            {
+                "big": "Software Development Engineer",
+                "exp": "Oct 2022 - Present \u00b7 1 yr 6 mos",
+                "small": "Amazon \u00b7 Full-time\nChennai, Tamil Nadu, India",
+                "sub_exp": []
+            },
+            {
+                "big": "SDE Intern",
+                "exp": "Jan 2022 - Jul 2022 \u00b7 7 mos",
+                "small": "Toorak Capital Partners \u00b7 Internship\nBanglore",
+                "sub_exp": []
+            },
+            {
+                "big": "Software Engineer Intern",
+                "exp": "India \u00b7 Remote",
+                "small": "Optum \u00b7 Internship",
+                "sub_exp": []
+            }
+        ],
+        "skills": [
+            "Software Development",
+            "Amazon Web Services (AWS)",
+            "Python (Programming Language)",
+            "C++",
+            "React.js",
+            "HTML",
+            "Cascading Style Sheets (CSS)",
+            "C (Programming Language)",
+            "Java",
+            "TypeScript",
+            "Git",
+            "Machine Learning",
+            "Selenium",
+            "Cucumber",
+            "Gherkin",
+            "Maven",
+            "Technical Documentation",
+            "User Interface Design",
+            "Problem Solving",
+            "Teamwork"
+        ],
+        "awards": [
+            {
+                "big": "First Year IT department topper",
+                "mid": "Issued by SSN College Of Enginneering",
+                "date": "Issued by SSN College Of Enginneering \u00b7 Aug 2019"
+            }
+        ],
+        "volunteering": null,
+        "publications": null,
+        "education": [
+            {
+                "big": "SSN College of Engineering",
+                "mid": "Bachelor of Technology - BTech, Information Technology",
+                "dur": "2018 - 2022",
+                "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+                "desc": "Grade: 9.62\nUser Interface Design"
+            },
+            {
+                "big": "KDAV",
+                "mid": "Class 12",
+                "dur": "2017 - 2018",
+                "img_src": null,
+                "desc": "Grade: 95.2%"
+            },
+            {
+                "big": "KDAV",
+                "mid": "Class 10",
+                "dur": "2015 - 2016",
+                "img_src": null,
+                "desc": "Grade: 10 CGPA"
+            }
+        ]
+    },
+    {
+        "register_num": "18 5002 104",
+        "profile_name": "Sruthi Ashok Kumar",
+        "profile_img": "https://media.licdn.com/dms/image/C5603AQHQ1XubXD-hlQ/profile-displayphoto-shrink_400_400/0/1598369953442?e=1715817600&v=beta&t=9d1EUJtZmabKFdjYFvMh9rJr_Nc_c_PCDepXKC0fmrY",
+        "profile_job": "Associate Software Engineer at Navis",
+        "experience": [
+            {
+                "big": "Associate Software Engineer",
+                "exp": "Aug 2022 - Present \u00b7 1 yr 8 mos",
+                "small": "Navis \u00b7 Full-time\nChennai, Tamil Nadu, India",
+                "sub_exp": []
+            },
+            {
+                "big": "Associate Software Engineer Intern",
+                "exp": "Jan 2022 - Jun 2022 \u00b7 6 mos",
+                "small": "Navis \u00b7 Internship\nChennai, Tamil Nadu, India",
+                "sub_exp": []
+            },
+            {
+                "big": "Digital Marketing Intern",
+                "exp": "Mar 2021 - Apr 2021 \u00b7 2 mos",
+                "small": "Inspace Technologies Pvt Ltd",
+                "sub_exp": []
+            }
+        ],
+        "skills": [
+            "Microsoft Office",
+            "Digital Marketing",
+            "Test Automation",
+            "Vue.js",
+            "Web Development",
+            "Mobile Application Development",
+            "Data Structures",
+            "Analytical Skills",
+            "Leadership",
+            "Algorithms",
+            "C++",
+            "C (Programming Language)",
+            "HTML",
+            "Cascading Style Sheets (CSS)",
+            "Python (Programming Language)",
+            "Communication",
+            "Good knowledge about data structures and algorithm",
+            "Database Management System (DBMS)"
+        ],
+        "awards": null,
+        "volunteering": [
+            {
+                "big": "Campus Ambassador",
+                "mid": "Coding Ninjas India",
+                "dur": "May 2020 - Jun 2021",
+                "exp": "1 yr 2 mos",
+                "img": "https://media.licdn.com/dms/image/D4D0BAQFThEvZuev8jA/company-logo_100_100/0/1693993872406/codingninjas_logo?e=1718236800&v=beta&t=7_TN3prKqtQxkq-3dF8tuVNLBXIE8ORow2qUxThEk9k"
+            }
+        ],
+        "publications": null,
+        "education": [
+            {
+                "big": "SSN College of Engineering",
+                "mid": "Bachelor of Technology - BTech, Information Technology",
+                "dur": "2018 - 2022",
+                "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+                "desc": "Grade: 8.7"
+            }
+        ]
+    },
+    {
+        "register_num": "18 5002 108",
+        "profile_name": "Suthakar K",
+        "profile_img": "https://media.licdn.com/dms/image/D5603AQEPg5iLLlE3nQ/profile-displayphoto-shrink_400_400/0/1707575542782?e=1715817600&v=beta&t=Ro8gO6-lJrZcqa_euQRVxaZcxDUutrOuH8E1XeC0Y4Q",
+        "profile_job": "Technical Analyst",
+        "experience": [
+            {
+                "big": "Volunteer",
+                "exp": "Jul 2018 - Jun 2022 \u00b7 4 yrs",
+                "small": "National Service Scheme\nChennai, Tamil Nadu, India",
+                "sub_exp": []
+            }
+        ],
+        "skills": [
+            "Flutter",
+            "Python (Programming Language)",
+            "Web Development",
+            "Creative Writing",
+            "Event Planning",
+            "Application Development",
+            "C++",
+            "HTML5",
+            "Cascading Style Sheets (CSS)",
+            "Team Leadership",
+            "Team Management",
+            "Dart",
+            "Ground Handling"
+        ],
+        "awards": null,
+        "volunteering": null,
+        "publications": null,
+        "education": [
+            {
+                "big": "SSN College of Engineering",
+                "mid": "Bachelor of Technology - BTech, Information Technology",
+                "dur": "2018 - 2022",
+                "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+                "desc": "Grade: 8.13 CGPA"
+            },
+            {
+                "big": "Kamlavati Higher Secondary school",
+                "mid": null,
+                "dur": null,
+                "img_src": null,
+                "desc": null
+            }
+        ]
+    },
+    {
+        "register_num": "18 5002 109",
+        "profile_name": "Swathi Asokraj",
+        "profile_img": "https://media.licdn.com/dms/image/D5603AQHXkOKvq2T7cQ/profile-displayphoto-shrink_400_400/0/1696436909388?e=1715817600&v=beta&t=unf5dso4LqYIX0Hw0v04VvfA3mzL7xJQDHEA4HP6fDg",
+        "profile_job": "MS CS @ USC",
+        "experience": [
+            {
+                "big": "Software Development Engineer",
+                "exp": "Jun 2022 - Nov 2023 \u00b7 1 yr 6 mos",
+                "small": "Workato \u00b7 Full-time",
+                "sub_exp": []
+            },
+            {
+                "big": "Software Engineer Intern",
+                "exp": "Jun 2021 - Aug 2021 \u00b7 3 mos",
+                "small": "Optum \u00b7 Internship",
+                "sub_exp": []
+            }
+        ],
+        "skills": [
+            "Deep Learning",
+            "Computer Vision",
+            "C (Programming Language)",
+            "c",
+            "C++",
+            "Python (Programming Language)",
+            "HTML",
+            "Cascading Style Sheets (CSS)",
+            "SQL",
+            "Machine Learning"
+        ],
+        "awards": null,
+        "volunteering": null,
+        "publications": null,
+        "education": [
+            {
+                "big": "University of Southern California",
+                "mid": "Master of Science - MS, Computer Science",
+                "dur": "Jan 2024 - Dec 2025",
+                "img_src": "https://media.licdn.com/dms/image/C4E0BAQHatTfEv4Af6w/company-logo_100_100/0/1631312619853?e=1718236800&v=beta&t=-7InKiXWyWYqk44Rxagz0T25EiUpDSm54RNDIh0Vfuk",
+                "desc": null
+            },
+            {
+                "big": "SSN College of Engineering",
+                "mid": "Bachelor's degree, Information Technology",
+                "dur": "2018 - 2022",
+                "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+                "desc": null
+            }
+        ]
+    },
+    {
+        "register_num": "18 5002 110",
+        "profile_name": "Swathika Balamurugan",
+        "profile_img": "https://media.licdn.com/dms/image/C5603AQE3v343WnmVMA/profile-displayphoto-shrink_800_800/0/1601566357121?e=1715817600&v=beta&t=n1YkpkrOIBO1Yjadb_FAoLD64JAlVxiEUEGkEGm3Sf0",
+        "profile_job": "App and Game Developer",
+        "experience": null,
+        "skills": null,
+        "awards": null,
+        "volunteering": null,
+        "publications": null,
+        "education": [
+            {
+                "big": "SSN College of Engineering",
+                "mid": "Bachelor of Technology - BTech, Information Technology",
+                "dur": "2018 - 2022",
+                "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+                "desc": null
+            }
+        ]
+    },
+    {
+        "register_num": "18 5002 111",
+        "profile_name": "Swetha V",
+        "profile_img": null,
+        "profile_job": "Data Engineer at Barclays",
+        "experience": [
+            {
+                "big": "Barclays",
+                "exp": "Full-time \u00b7 1 yr 8 mos",
+                "small": null,
+                "sub_exp": [
+                    {
+                        "big": "Data Engineer",
+                        "exp": "Mar 2023 - Present \u00b7 1 yr 1 mo",
+                        "small": null
+                    },
+                    {
+                        "big": "Graduate Analyst",
+                        "exp": "Aug 2022 - May 2023 \u00b7 10 mos",
+                        "small": null
+                    }
+                ]
+            }
+        ],
+        "skills": [
+            "SQL",
+            "Ab Initio",
+            "Python (Programming Language)",
+            "C++",
+            "Machine Learning",
+            "Mobile Applications",
+            "Singing",
+            "Data Structures",
+            "Deep Learning",
+            "C (Programming Language)",
+            "Adobe Illustrator",
+            "Microsoft Excel",
+            "Microsoft Word",
+            "Microsoft PowerPoint",
+            "HTML",
+            "Databases",
+            "Java",
+            "Management",
+            "Communication",
+            "Public Speaking"
+        ],
+        "awards": null,
+        "volunteering": [
+            {
+                "big": "Volunteer",
+                "mid": "youth red cross",
+                "dur": "Jun 2018 - Present",
+                "exp": "5 yrs 10 mos",
+                "img": null
+            }
+        ],
+        "publications": null,
+        "education": [
+            {
+                "big": "SSN College of Engineering",
+                "mid": "Bachelor of Technology - BTech, Information Technology",
+                "dur": "2018 - 2022",
+                "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+                "desc": null
+            },
+            {
+                "big": "Vyasa Vidyalaya",
+                "mid": null,
+                "dur": null,
+                "img_src": null,
+                "desc": null
+            }
+        ]
+    },
+    {
+        "register_num": "18 5002 113",
+        "profile_name": "Venkata Yaswanth Telanakula",
+        "profile_img": "https://media.licdn.com/dms/image/C5603AQHgKGqOepcXzg/profile-displayphoto-shrink_400_400/0/1620377754392?e=1715817600&v=beta&t=-6GQz9mCSFME-vn6-rFmrtAG4F5uNnYspotpmBpgqPo",
+        "profile_job": "Analyst at LatentView Analytics",
+        "experience": [
+            {
+                "big": "Analyst",
+                "exp": "Sep 2022 - Present \u00b7 1 yr 7 mos",
+                "small": "LatentView Analytics \u00b7 Full-time\nChennai, Tamil Nadu, India",
+                "sub_exp": []
+            }
+        ],
+        "skills": null,
+        "awards": null,
+        "volunteering": null,
+        "publications": null,
+        "education": [
+            {
+                "big": "SSN College of Engineering",
+                "mid": null,
+                "dur": "2018 - 2022",
+                "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+                "desc": null
+            }
+        ]
+    },
+    {
+        "register_num": "18 5002 114",
+        "profile_name": "Theevika B",
+        "profile_img": "https://media.licdn.com/dms/image/D5603AQEVUfceI9t3xA/profile-displayphoto-shrink_400_400/0/1697872288143?e=1715817600&v=beta&t=9ivGjC3yXLOEEna3Y2IEErdR-vCyGPhcF-tOlK-hej4",
+        "profile_job": "QA Engineer @ CogentSoft Systems (Samsung Electronics, E-commerce) | SSN'22",
+        "experience": [
+            {
+                "big": "QA Engineer",
+                "exp": "Oct 2022 - Present \u00b7 1 yr 6 mos",
+                "small": "CogentSoft Systems \u00b7 Full-time\nChennai, Tamil Nadu, India",
+                "sub_exp": []
+            }
+        ],
+        "skills": null,
+        "awards": [
+            {
+                "big": "Awarded Sustainability Champion 2023-2024",
+                "mid": "Issued by Cogentsoft Systems",
+                "date": "Issued by Cogentsoft Systems \u00b7 Sep 2023"
+            }
+        ],
+        "volunteering": null,
+        "publications": null,
+        "education": [
+            {
+                "big": "SSN College of Engineering",
+                "mid": "B.Tech, Information Technology",
+                "dur": "2018 - 2022",
+                "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+                "desc": null
+            }
+        ]
+    },
+    {
+        "register_num": "18 5002 115",
+        "profile_name": "Vaishnavi devi KS",
+        "profile_img": null,
+        "profile_job": "Associate Consultant",
+        "experience": [
+            {
+                "big": "Associate Consultant",
+                "exp": "Jul 2022 - Present \u00b7 1 yr 9 mos",
+                "small": "ORACLE FINANCIAL SERVICES SOFTWARE LIMITED \u00b7 Full-time\nChennai, Tamil Nadu, India",
+                "sub_exp": []
+            },
+            {
+                "big": "Web Development Intern",
+                "exp": "May 2021 - May 2021 \u00b7 1 mo",
+                "small": "The Sparks Foundation \u00b7 Internship",
+                "sub_exp": []
+            }
+        ],
+        "skills": [
+            "Front-end Development",
+            "HTML",
+            "C (Programming Language)",
+            "Data Structures",
+            "Java",
+            "Python (Programming Language)",
+            "Cascading Style Sheets (CSS)",
+            "JavaScript",
+            "Microsoft Office",
+            "Bootstrap",
+            "SQL",
+            "C++",
+            "Communication",
+            "Teamwork",
+            "English",
+            "Tamil"
+        ],
+        "awards": null,
+        "volunteering": [
+            {
+                "big": "Volunteer",
+                "mid": "National Service Scheme",
+                "dur": "Aug 2018 - Present",
+                "exp": "5 yrs 8 mos",
+                "img": "https://media.licdn.com/dms/image/C4E0BAQEJ6yAnaG3CtQ/company-logo_100_100/0/1631346049980?e=1718236800&v=beta&t=3yMZXOTUQ189F1VUuKt8KwJ03QOT_DDrcZnKzkDCUfg"
+            }
+        ],
+        "publications": null,
+        "education": [
+            {
+                "big": "SSN College of Engineering",
+                "mid": "Bachelor of Technology - BTech, Information Technology",
+                "dur": "2018 - 2022",
+                "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+                "desc": null
+            },
+            {
+                "big": "DAV Matriculation higher secondary school",
+                "mid": "HSC",
+                "dur": "2016 - 2018",
+                "img_src": null,
+                "desc": null
+            }
+        ]
+    },
+    {
+        "register_num": "18 5002 116",
+        "profile_name": "Vaishnavi K",
+        "profile_img": null,
+        "profile_job": "Student at SSN College of Engineering",
+        "experience": null,
+        "skills": null,
+        "awards": null,
+        "volunteering": null,
+        "publications": null,
+        "education": [
+            {
+                "big": "SSN College of Engineering",
+                "mid": "B.Tech, Information Technology",
+                "dur": "2018 - 2022",
+                "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+                "desc": null
+            },
+            {
+                "big": "SSN College of Engineering",
+                "mid": null,
+                "dur": "2016 - 2018",
+                "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+                "desc": null
+            }
+        ]
+    },
+    {
+        "register_num": "18 5002 117",
+        "profile_name": "Varshini V",
+        "profile_img": "https://media.licdn.com/dms/image/C5603AQHojcKAi-dEDA/profile-displayphoto-shrink_400_400/0/1627384773547?e=1715817600&v=beta&t=m2WlHj0tymZ3GHvEQkvOLguvGDsU5ZW9UGBXQ0ocJCg",
+        "profile_job": "SSN College Of Engineering",
+        "experience": null,
+        "skills": null,
+        "awards": null,
+        "volunteering": null,
+        "publications": null,
+        "education": [
+            {
+                "big": "SSN College of Engineering",
+                "mid": "Bachelor of Technology - BTech, Information Technology",
+                "dur": "2018 - 2022",
+                "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+                "desc": null
+            }
+        ]
+    },
+    {
+        "register_num": "18 5002 120",
+        "profile_name": "Vigneswaran Sekar",
+        "profile_img": "https://media.licdn.com/dms/image/C5603AQEBfOCPecN9aw/profile-displayphoto-shrink_400_400/0/1643102829042?e=1715817600&v=beta&t=LPiv3c8OFUp1DMVHX0hF9Hm7UNLblW7I2Tpl976SrH8",
+        "profile_job": "SE @Chargebee",
+        "experience": [
+            {
+                "big": "Chargebee",
+                "exp": "2 yrs 3 mos",
+                "small": null,
+                "sub_exp": [
+                    {
+                        "big": "Software Engineer",
+                        "exp": "Aug 2022 - Present \u00b7 1 yr 8 mos",
+                        "small": null
+                    },
+                    {
+                        "big": "Software Engineer Intern",
+                        "exp": "Jan 2022 - Jul 2022 \u00b7 7 mos",
+                        "small": null
+                    }
+                ]
+            },
+            {
+                "big": "Committee Member - Schools",
+                "exp": "Apr 2020 - Apr 2021 \u00b7 1 yr 1 mo",
+                "small": "Ultimate Players Association of India \u00b7 Part-time",
+                "sub_exp": []
+            }
+        ],
+        "skills": [
+            "Python (Programming Language)",
+            "C (Programming Language)",
+            "Data Structures",
+            "C++",
+            "TensorFlow",
+            "Data Analysis"
+        ],
+        "awards": null,
+        "volunteering": null,
+        "publications": null,
+        "education": [
+            {
+                "big": "SSN College of Engineering",
+                "mid": "Bachelor of Technology - BTech, Information Technology",
+                "dur": "2018 - 2022",
+                "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+                "desc": null
+            },
+            {
+                "big": "Chettinad Vidyashram",
+                "mid": null,
+                "dur": null,
+                "img_src": "https://media.licdn.com/dms/image/C560BAQFTxLBvpXpNfg/company-logo_100_100/0/1630646834580/chettinad_vidyashram_logo?e=1718236800&v=beta&t=X-24K-X8NzYls83oWXPW2pFJZOumkcI1HjR83W5L6Fs",
+                "desc": null
+            }
+        ]
+    },
+    {
+        "register_num": "18 5002 122",
+        "profile_name": "Vinish Elangovan",
+        "profile_img": "https://media.licdn.com/dms/image/D5603AQHzAoP_-hH21A/profile-displayphoto-shrink_400_400/0/1697396997624?e=1715817600&v=beta&t=Ap1lWR1UBdxaaXMUGHJhYdJvdlNnxEnRhWBbsPQKX1Q",
+        "profile_job": "Software Engineer At Bank Of America",
+        "experience": [
+            {
+                "big": "Bank of America",
+                "exp": "Full-time \u00b7 2 yrs",
+                "small": "Hybrid",
+                "sub_exp": [
+                    {
+                        "big": "Software Engineer 1 B",
+                        "exp": "Apr 2023 - Present \u00b7 1 yr",
+                        "small": "Chennai, Tamil Nadu, India"
+                    },
+                    {
+                        "big": "Apprentice",
+                        "exp": "Apr 2022 - Apr 2023 \u00b7 1 yr 1 mo",
+                        "small": "Chennai, Tamil Nadu, India"
+                    }
+                ]
+            }
+        ],
+        "skills": [
+            "CSS3",
+            "HTML5",
+            "Mean Stack",
+            "Java",
+            "JavaScript",
+            "C++",
+            "Python"
+        ],
+        "awards": null,
+        "volunteering": null,
+        "publications": null,
+        "education": [
+            {
+                "big": "SSN College of Engineering",
+                "mid": "Bachelor's degree, Information Technology",
+                "dur": "Aug 2018 - Jun 2022",
+                "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+                "desc": "Grade: 8.03"
+            },
+            {
+                "big": "Sowdambikaa Matriculation Higher Secondary School, Thuraiyur",
+                "mid": null,
+                "dur": null,
+                "img_src": null,
+                "desc": null
+            },
+            {
+                "big": "Sowdambikaa Matriculation Higher Secondary School, Thuraiyur",
+                "mid": null,
+                "dur": null,
+                "img_src": null,
+                "desc": null
+            }
+        ]
+    },
+    {
+        "register_num": "18 5002 124",
+        "profile_name": "Vishnu Prakash Prasannan",
+        "profile_img": "https://media.licdn.com/dms/image/D5603AQGLRpf2UbdPXQ/profile-displayphoto-shrink_400_400/0/1705250105392?e=1715817600&v=beta&t=AZHmIj1_jTmraoLt8j3NKMtpRfyt7Fgo2Wto6jDQsFk",
+        "profile_job": "SDE-I (Devops) @ FIS | FinTech | SSN ('22) B.Tech Information Technology",
+        "experience": [
+            {
+                "big": "Software Engineer I",
+                "exp": "Jun 2022 - Present \u00b7 1 yr 10 mos",
+                "small": "FIS \u00b7 Full-time\nBengaluru, Karnataka, India",
+                "sub_exp": []
+            },
+            {
+                "big": "Undergraduate",
+                "exp": "Aug 2018 - Jun 2022 \u00b7 3 yrs 11 mos",
+                "small": "SSN College of Engineering \u00b7 Full-time\nChennai",
+                "sub_exp": []
+            },
+            {
+                "big": "Research Intern",
+                "exp": "Aug 2021 - Dec 2021 \u00b7 5 mos",
+                "small": "Advanced Manufacturing Technology Development Centre, IIT-Madras \u00b7 Internship\nIndia",
+                "sub_exp": []
+            },
+            {
+                "big": "Internship Program",
+                "exp": "Jan 2020 - Feb 2020 \u00b7 2 mos",
+                "small": "Verzeo \u00b7 Part-time\nChennai, Tamil Nadu",
+                "sub_exp": []
+            }
+        ],
+        "skills": [
+            "YAML",
+            "Shell Scripting",
+            "Jira",
+            "Bitbucket",
+            "DevOps",
+            "Jenkins",
+            "OpenShift",
+            "Git",
+            "C#",
+            "C (Programming Language)",
+            "Python (Programming Language)",
+            "Database Management System (DBMS)",
+            "Data Structures",
+            "Machine Learning",
+            "Data Analysis",
+            "Deep Learning",
+            "SQL",
+            "Oracle Database",
+            "C++",
+            "MATLAB"
+        ],
+        "awards": [
+            {
+                "big": "Silver Medalist (7th Semester)",
+                "mid": "Issued by SSN College of Engineering",
+                "date": "Issued by SSN College of Engineering \u00b7 Jun 2022"
+            },
+            {
+                "big": "Future Maintainer Award",
+                "mid": "Issued by Github",
+                "date": "Issued by Github \u00b7 Jun 2021"
+            }
+        ],
+        "volunteering": [
+            {
+                "big": "Volunteer",
+                "mid": "NSS -SSN",
+                "dur": "Sep 2018 - Present",
+                "exp": "5 yrs 7 mos",
+                "img": null
+            },
+            {
+                "big": "Volunteer",
+                "mid": "National Service Scheme",
+                "dur": "Sep 2018 - Present",
+                "exp": "5 yrs 7 mos",
+                "img": "https://media.licdn.com/dms/image/C4E0BAQEJ6yAnaG3CtQ/company-logo_100_100/0/1631346049980?e=1718236800&v=beta&t=3yMZXOTUQ189F1VUuKt8KwJ03QOT_DDrcZnKzkDCUfg"
+            }
+        ],
+        "publications": [
+            {
+                "title": "Backtracking Algorithm with Optical Character Recognition for Solving Sudoku Puzzles",
+                "journal": "ICCCEM 2022 - International Conference on Computing,Circuits,Energy and Materials - University College of Engineering Nagercoil",
+                "date": "Dec 16, 2022",
+                "desc": "",
+                "pub_link": "https://drive.google.com/file/d/1oGCl7rUtckF3mZABwHlGlzjthoyozMz4/view?usp=drivesdk"
+            }
+        ],
+        "education": [
+            {
+                "big": "SSN College of Engineering",
+                "mid": "Bachelor of Technology - BTech, Information Technology",
+                "dur": "2018 - 2022",
+                "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+                "desc": "Grade: CGPA : 9.41\nActivities and societies: NSS - Volunteered 100+ Hours In the Nss Wing Of Our College\nB.Tech Information Technology (2018-2022)"
+            },
+            {
+                "big": "DAV Public School - Gurgaon, Haryana",
+                "mid": null,
+                "dur": null,
+                "img_src": null,
+                "desc": "Gurgaon, Haryana"
+            },
+            {
+                "big": "Montfort Senior Secondary School - Nagpur, Maharashtra",
+                "mid": null,
+                "dur": null,
+                "img_src": null,
+                "desc": "Nagpur, Maharashtra"
+            }
+        ]
+    },
+    {
+        "register_num": "18 5002 126",
+        "profile_name": "Visvesh R",
+        "profile_img": "https://media.licdn.com/dms/image/C5603AQFo88_iGkgidg/profile-displayphoto-shrink_400_400/0/1610301373128?e=1715817600&v=beta&t=9V04GbeYOBpCZC26NxH0cunzFOm0VbnyzSQs1q1M0l8",
+        "profile_job": "Incoming SDE at Publicis Sapient",
+        "experience": null,
+        "skills": [
+            "Python (Programming Language)",
+            "Java",
+            "PostgreSQL",
+            "C",
+            "C++",
+            "Angular JS",
+            "Keras",
+            "Machine Learning"
+        ],
+        "awards": null,
+        "volunteering": [
+            {
+                "big": "Volunteer",
+                "mid": "National Service Scheme",
+                "dur": null,
+                "exp": null,
+                "img": "https://media.licdn.com/dms/image/C4E0BAQEJ6yAnaG3CtQ/company-logo_100_100/0/1631346049980?e=1718236800&v=beta&t=3yMZXOTUQ189F1VUuKt8KwJ03QOT_DDrcZnKzkDCUfg"
+            }
+        ],
+        "publications": null,
+        "education": [
+            {
+                "big": "SSN College of Engineering",
+                "mid": "Bachelor of Technology - BTech, Information Technology",
+                "dur": "2018 - 2022",
+                "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+                "desc": null
+            }
+        ]
+    },
+    {
+        "register_num": "18 5002 307",
+        "profile_name": "sajeethnihethan vetrivendhan",
+        "profile_img": null,
+        "profile_job": "Student at SSN College of Engineering",
+        "experience": [
+            {
+                "big": "Student",
+                "exp": null,
+                "small": "SSN College of Engineering \u00b7 Full-time",
+                "sub_exp": []
+            }
+        ],
+        "skills": null,
+        "awards": null,
+        "volunteering": null,
+        "publications": null,
+        "education": null
+    },
+    {
+        "register_num": "18 5002 309",
+        "profile_name": "Siva Ganesh",
+        "profile_img": "https://media.licdn.com/dms/image/C5603AQErKWd1a8JJ_A/profile-displayphoto-shrink_400_400/0/1618066703668?e=1715817600&v=beta&t=xo1UeWHeJ4WvCKjI9cypDG7ecgayOHNCF916Fo3XXOs",
+        "profile_job": "Software Engineer at Foodhub",
+        "experience": [
+            {
+                "big": "Foodhub",
+                "exp": "2 yrs 1 mo",
+                "small": "Chennai, Tamil Nadu, India",
+                "sub_exp": [
+                    {
+                        "big": "Software Engineer Trainee",
+                        "exp": "Jun 2022 - Present \u00b7 1 yr 10 mos",
+                        "small": "Apprenticeship"
+                    },
+                    {
+                        "big": "Intern",
+                        "exp": "Mar 2022 - Jun 2022 \u00b7 4 mos",
+                        "small": "Internship"
+                    }
+                ]
+            }
+        ],
+        "skills": [
+            "Data Structures",
+            "C++",
+            "C (Programming Language)",
+            "Database Management System (DBMS)",
+            "Databases",
+            "Programming Languages"
+        ],
+        "awards": null,
+        "volunteering": null,
+        "publications": null,
+        "education": [
+            {
+                "big": "SSN College of Engineering",
+                "mid": "Bachelor of Technology - BTech, Information Technology",
+                "dur": "2019 - 2022",
+                "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+                "desc": null
+            },
+            {
+                "big": "P.T. Lee Chengalvaraya Naicker College of Engineering and Technology",
+                "mid": "Diploma of Education, Computer Engineering",
+                "dur": "2016 - 2019",
+                "img_src": "https://media.licdn.com/dms/image/C4D0BAQE-nWcRqjMeoA/company-logo_100_100/0/1630537780018/pt_lee_chengalvaraya_naicker_college_of_engineering_and_technology_logo?e=1718236800&v=beta&t=-XQ4nzRmfQzjK0vdxcBLWBroM5tZK4VQ1qwEIky0pME",
+                "desc": "Grade: 83%"
+            },
+            {
+                "big": "Bosco Academy Matriculation Higher Secondary School",
+                "mid": "SSLC, High School/Secondary Diploma Programs",
+                "dur": "Jun 2015 - Mar 2016",
+                "img_src": null,
+                "desc": "Grade: 83%"
+            }
+        ]
+    },
+    {
+        "register_num": "18 5002 701",
+        "profile_name": "DAPHNE EVANGELIN PRIYA",
+        "profile_img": null,
+        "profile_job": "Graduate Analyst",
+        "experience": [
+            {
+                "big": "Graduate Analyst",
+                "exp": "Aug 2022 - Present \u00b7 1 yr 8 mos",
+                "small": "Barclays Corporate Banking",
+                "sub_exp": []
+            }
+        ],
+        "skills": [],
+        "awards": null,
+        "volunteering": null,
+        "publications": null,
+        "education": [
+            {
+                "big": "SSN College of Engineering",
+                "mid": "Bachelor of Technology - BTech, Information Technology",
+                "dur": "2018 - 2022",
+                "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+                "desc": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,78 @@
+{
+    "register_num": "205002127",
+    "profile_name": "Vishwajith Saminathan",
+    "profile_img": "https://media.licdn.com/dms/image/D5603AQEyiOzGREu8uA/profile-displayphoto-shrink_400_400/0/1709028357839?e=1723075200&v=beta&t=hB0TIRGvpRHoChhwhEGAaI-PFaz-bTAzNW6nsrQuLNY",
+    "profile_job": "Developer / Designer | Currently working on Endpoint Central.",
+    "experience": [
+        {
+            "big": "Zoho",
+            "exp": "Full-time \u00b7 5 mos",
+            "small": null,
+            "sub_exp": [
+                {
+                    "big": "Member of Technical Staff",
+                    "exp": "May 2024 to Present \u00b7 2 mos",
+                    "small": "Chennai"
+                },
+                {
+                    "big": "Technical Trainee",
+                    "exp": "Feb 2024 to May 2024 \u00b7 4 mos",
+                    "small": null
+                }
+            ]
+        },
+        {
+            "big": "President",
+            "exp": "Jun 2023 to Apr 2024 \u00b7 11 mos",
+            "small": "Gradient - SSN Design Club",
+            "sub_exp": []
+        },
+        {
+            "big": "Software Development Intern",
+            "exp": "Jun 2023 to Aug 2023 \u00b7 3 mos",
+            "small": "Rocketlane \u00b7 Internship\nChennai, Tamil Nadu, India \u00b7 On-site",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "Go",
+        "Swift (Programming Language)",
+        "Objective-C",
+        "Network Administration",
+        "Networking",
+        "Redux.js",
+        "styled-components",
+        "Redux",
+        "JavaScript",
+        "TypeScript",
+        "React.js",
+        "Design",
+        "After Effects",
+        "Adobe Illustrator",
+        "Adobe Photoshop",
+        "Python (Programming Language)",
+        "C++",
+        "Graphic Design",
+        "User Interface Design",
+        "User Experience Design (UED)"
+    ],
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2020 - 2024",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": "Grade: 8.66"
+        },
+        {
+            "big": "Lalaji Memorial Omega International School",
+            "mid": null,
+            "dur": null,
+            "img_src": "https://media.licdn.com/dms/image/C560BAQG-XnfOZ5K-hQ/company-logo_100_100/0/1630638948377/lalaji_memorial_omega_international_school_logo?e=1725494400&v=beta&t=FUOlzaBVTlSNoa0yMAWGDhZPT_GrCSwi3EeGjXR1D1o",
+            "desc": null
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "register_num": "18 5002 056",
+    "profile_name": "Mahima Sundararajan",
+    "profile_img": "https://media.licdn.com/dms/image/D4E03AQFYwuUcLd9mGQ/profile-displayphoto-shrink_400_400/0/1700001235284?e=1715817600&v=beta&t=iJtIdxKQ_dJzj9AZ9yElJZKx-963RCajlu4VM3hUsTw",
+    "profile_job": "MS CS Grad at UMass Amherst",
+    "experience": [
+        {
+            "big": "Kaleris",
+            "exp": "1 yr 8 mos",
+            "small": null,
+            "sub_exp": [
+                {
+                    "big": "Associate Software Engineer",
+                    "exp": "Aug 2022 - Aug 2023 \u00b7 1 yr 1 mo",
+                    "small": "Full-time"
+                },
+                {
+                    "big": "Associate Software Engineer Intern",
+                    "exp": "Jan 2022 - Jul 2022 \u00b7 7 mos",
+                    "small": "Internship\nChennai, Tamil Nadu, India"
+                }
+            ]
+        },
+        {
+            "big": "Career Mentorship Program",
+            "exp": "Apr 2021 - Sep 2021 \u00b7 6 mos",
+            "small": "Wells Fargo",
+            "sub_exp": []
+        },
+        {
+            "big": "Software Development Intern",
+            "exp": "May 2021 - Aug 2021 \u00b7 4 mos",
+            "small": "LatentView Analytics \u00b7 Internship\nChennai, Tamil Nadu, India",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "Algorithm Analysis",
+        "Statistical Analysis",
+        "Generative AI",
+        "FinTech",
+        "Large Language Models (LLM)",
+        "Prompt Engineering",
+        "Software Projects",
+        "Performance Analysis",
+        "Statistics",
+        "PySpark",
+        "Team Leadership",
+        "Software Design",
+        "User Analysis",
+        "Data Analytics",
+        "Engineering Leadership",
+        "Job Skills",
+        "Analytical Skills",
+        "Artificial Intelligence (AI)",
+        "Microsoft Power BI",
+        "Communication"
+    ],
+    "awards": [
+        {
+            "big": "Merit Scholarship for ranking among the top 5 in the University Department",
+            "mid": "Issued by SSN College of Engineering - Information Technology Dept.",
+            "date": "Issued by SSN College of Engineering - Information Technology Dept. \u00b7 Mar 2022"
+        },
+        {
+            "big": "AWS Machine Learning Scholarship",
+            "mid": "Issued by AWS",
+            "date": "Issued by AWS \u00b7 Jun 2021"
+        },
+        {
+            "big": "IIT Madras Wells Fargo ML Hackathon - Finalist (6th Nation wide)",
+            "mid": "Issued by Shaastra IIT Madras",
+            "date": "Issued by Shaastra IIT Madras \u00b7 Mar 2021"
+        },
+        {
+            "big": "6 Star Gold Badge in Problem Solving",
+            "mid": "Issued by Hackerrank",
+            "date": "Issued by Hackerrank \u00b7 Oct 2020"
+        },
+        {
+            "big": "Winner of DevFest ML Hackathon",
+            "mid": "Issued by SSN College of Engineering",
+            "date": "Issued by SSN College of Engineering \u00b7 May 2020"
+        }
+    ],
+    "volunteering": [
+        {
+            "big": "Volunteer",
+            "mid": "National Service Scheme",
+            "dur": "Aug 2018 - Present",
+            "exp": "5 yrs 8 mos",
+            "img": "https://media.licdn.com/dms/image/C4E0BAQEJ6yAnaG3CtQ/company-logo_100_100/0/1631346049980?e=1718236800&v=beta&t=3yMZXOTUQ189F1VUuKt8KwJ03QOT_DDrcZnKzkDCUfg"
+        },
+        {
+            "big": "Curator",
+            "mid": "IEEE, Zero",
+            "dur": "Dec 2019 - Feb 2020",
+            "exp": "3 mos",
+            "img": null
+        },
+        {
+            "big": "Volunteer",
+            "mid": "IEEE ICCCSP2021",
+            "dur": "May 2021",
+            "exp": "1 mo",
+            "img": null
+        }
+    ],
+    "publications": [
+        {
+            "title": "Analysis on the Impact of Lombard effect on Speech Emotions using Machine Learning",
+            "journal": "",
+            "date": null,
+            "desc": "Other authors",
+            "pub_link": "https://journal.uob.edu.bh/bitstream/handle/123456789/4877/IJCDS140133.pdf?sequence=3&isAllowed=y"
+        },
+        {
+            "title": "On the Impact of Climatic, Fiscal and Environmental Factors on Covid-19: A Regression and Correlation Based Study",
+            "journal": "International Journal of Artificial and Computational Intelligence",
+            "date": null,
+            "desc": "",
+            "pub_link": "http://www.acors.org/Journal/Papers/Volume2/issue2/vol2_issue2_01.pdf"
+        }
+    ],
+    "education": [
+        {
+            "big": "University of Massachusetts Amherst",
+            "mid": "Master of Science - MS, Computer Science",
+            "dur": "Aug 2023 - May 2025",
+            "img_src": "https://media.licdn.com/dms/image/D4E0BAQFCzmsrZannXw/company-logo_100_100/0/1680271203107/umassamherst_logo?e=1718236800&v=beta&t=_jG2TGLLSiGdwpE939ZMxKSBuc7Uop4miO6doJWkVQU",
+            "desc": "Grade: 3.9\nCourses: Machine Learning, Systems for Data Science, Secured Distributed Systems Database Design and Implementation, Statistics, Software Engineering"
+        },
+        {
+            "big": "Sri Sivasubramaniya Nadar College Of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2018 - 2022",
+            "img_src": "https://media.licdn.com/dms/image/C560BAQGK5F9nqLbxLw/company-logo_100_100/0/1632548839827/sri_sivasubramaniya_nadar_college_of_engineering_logo?e=1718236800&v=beta&t=YJyti6rlAQIyFb8y9OKqkzhkVTNrPyCEDUQd8u37ZLo",
+            "desc": "Grade: CGPA - 8.9"
+        },
+        {
+            "big": "Sacred Heart Church Park",
+            "mid": "HSC, Computer Science",
+            "dur": "2004 - 2018",
+            "img_src": null,
+            "desc": "Grade: HSC - 97% ; SSLC - 94%\n\u2022 School House Vice-Captain and Captain (2016-2018)"
+        }
+    ]
+}

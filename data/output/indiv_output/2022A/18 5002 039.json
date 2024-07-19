@@ -1,0 +1,97 @@
+{
+    "register_num": "18 5002 039",
+    "profile_name": "Abhaya Chetna",
+    "profile_img": "https://media.licdn.com/dms/image/C5603AQG4JyVbC9bgPA/profile-displayphoto-shrink_400_400/0/1624706995354?e=1715817600&v=beta&t=8Uh30zVcO-L4JwelgtyIYhOGPU0fsr7l80zM8AjU1tA",
+    "profile_job": "Analyst at Citi",
+    "experience": [
+        {
+            "big": "Graduate Analyst",
+            "exp": "Jul 2022 - Present \u00b7 1 yr 9 mos",
+            "small": "Citi \u00b7 Full-time\nChennai, Tamil Nadu, India",
+            "sub_exp": []
+        },
+        {
+            "big": "Software Developer Engineer",
+            "exp": "Aug 2021 - Dec 2021 \u00b7 5 mos",
+            "small": "ITK Education Services Pvt Ltd \u00b7 Internship\nChennai, Tamil Nadu, India",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "C++",
+        "C (Programming Language)",
+        "Python (Programming Language)",
+        "Competitive Programming",
+        "Java",
+        "SQL",
+        "Problem Solving",
+        "Communication"
+    ],
+    "awards": [
+        {
+            "big": "AIR 1492 in Google HashCode",
+            "mid": null,
+            "date": "Jan 2021"
+        },
+        {
+            "big": "All India rank 65, Global rank 503 in IEEE Xtreme 14.0",
+            "mid": "Issued by IEEE",
+            "date": "Issued by IEEE \u00b7 Jan 2020"
+        },
+        {
+            "big": "Merit Scholarship for Academic Excellence in 2nd Year",
+            "mid": null,
+            "date": "Jan 2020"
+        },
+        {
+            "big": "All India rank 101, Global rank 705 in IEEE Xtreme 13.0",
+            "mid": "Issued by IEEE",
+            "date": "Issued by IEEE \u00b7 Jan 2019"
+        },
+        {
+            "big": "Merit Scholarship for Academic Excellence in 1st Year",
+            "mid": null,
+            "date": "Jan 2019"
+        }
+    ],
+    "volunteering": [
+        {
+            "big": "Student Member",
+            "mid": "ACM, Association for Computing Machinery",
+            "dur": null,
+            "exp": null,
+            "img": "https://media.licdn.com/dms/image/C4E0BAQHmhfTYf-PSPA/company-logo_100_100/0/1672756106986/association_for_computing_machinery_logo?e=1718236800&v=beta&t=BhOPLuRrF7b6S-wiRFbiRaQu4VJm3-C7EtCQH-cbfvc"
+        },
+        {
+            "big": "Student Member",
+            "mid": "IEEE",
+            "dur": null,
+            "exp": null,
+            "img": "https://media.licdn.com/dms/image/C4E0BAQGoRdJYxmIDhQ/company-logo_100_100/0/1631326760285?e=1718236800&v=beta&t=lqQw8OC_szixbwZM70HThNugGBhEe4-ELSbrDKImKkY"
+        },
+        {
+            "big": "Student Member",
+            "mid": "Youth Red Cross",
+            "dur": null,
+            "exp": null,
+            "img": null
+        }
+    ],
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2018 - 2022",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+            "desc": null
+        },
+        {
+            "big": "Chettinad Vidyashram",
+            "mid": null,
+            "dur": "2004 - 2018",
+            "img_src": "https://media.licdn.com/dms/image/C560BAQFTxLBvpXpNfg/company-logo_100_100/0/1630646834580/chettinad_vidyashram_logo?e=1718236800&v=beta&t=X-24K-X8NzYls83oWXPW2pFJZOumkcI1HjR83W5L6Fs",
+            "desc": null
+        }
+    ]
+}

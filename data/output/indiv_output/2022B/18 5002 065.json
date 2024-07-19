@@ -1,0 +1,100 @@
+{
+    "register_num": "18 5002 065",
+    "profile_name": "Nandana Sreenivasan",
+    "profile_img": "https://media.licdn.com/dms/image/C5603AQFXZWrQdJImVw/profile-displayphoto-shrink_400_400/0/1625420367691?e=1715817600&v=beta&t=1QMi5nUN-tRrTNQAE8YQnW_4jN_IHYJPzZjb6PjAybs",
+    "profile_job": "SDE at Fidelity Investments",
+    "experience": [
+        {
+            "big": "Fidelity Investments",
+            "exp": "2 yrs 3 mos",
+            "small": null,
+            "sub_exp": [
+                {
+                    "big": "Software Engineer",
+                    "exp": "Sep 2023 - Present \u00b7 7 mos",
+                    "small": "Full-time\nChennai, Tamil Nadu, India \u00b7 Hybrid"
+                },
+                {
+                    "big": "Associate Software Engineer",
+                    "exp": "Nov 2022 - Sep 2023 \u00b7 11 mos",
+                    "small": "Full-time\nChennai, Tamil Nadu, India \u00b7 On-site"
+                },
+                {
+                    "big": "Executive Graduate Trainee",
+                    "exp": "Aug 2022 - Nov 2022 \u00b7 4 mos",
+                    "small": "Full-time\nChennai, Tamil Nadu, India"
+                }
+            ]
+        },
+        {
+            "big": "SSN College of Engineering",
+            "exp": "Part-time \u00b7 1 yr 6 mos",
+            "small": "Chennai, Tamil Nadu, India",
+            "sub_exp": [
+                {
+                    "big": "Overall Event coordinator",
+                    "exp": "Jun 2021 - Jun 2022 \u00b7 1 yr 1 mo",
+                    "small": null
+                },
+                {
+                    "big": "Student Placement Coordinator",
+                    "exp": "Jan 2021 - Jun 2022 \u00b7 1 yr 6 mos",
+                    "small": null
+                }
+            ]
+        },
+        {
+            "big": "Student Intern",
+            "exp": "Jul 2021 - Aug 2021 \u00b7 2 mos",
+            "small": "Facilio: Data-driven Building Operations \u00b7 Internship\nChennai, Tamil Nadu, India",
+            "sub_exp": []
+        },
+        {
+            "big": "Computer vision intern",
+            "exp": "Oct 2020 - Oct 2020 \u00b7 1 mo",
+            "small": "DaveAI \u00b7 Internship",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "Amazon Web Services (AWS)",
+        "Python (Programming Language)",
+        "c++",
+        "Computer Vision",
+        "Image Processing",
+        "Machine Learning",
+        "Artificial Intelligence (AI)",
+        "Programming",
+        "Data Science",
+        "Analytical Skills",
+        "css",
+        "HTML",
+        "JavaScript",
+        "Bootstrap",
+        "Node.js",
+        "React.js",
+        "C (Programming Language)",
+        "MongoDB",
+        "Microsoft Visual Studio Code",
+        "Tableau"
+    ],
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2018 - 2022",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+            "desc": "Grade: 8.82 CGPA"
+        },
+        {
+            "big": "Dav Sr Sec School - India",
+            "mid": "High School Diploma, Computer Science",
+            "dur": "2016 - 2018",
+            "img_src": null,
+            "desc": "Grade: 94.6%"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "register_num": "18 5002 053",
+    "profile_name": "Lakshanya P.",
+    "profile_img": "https://media.licdn.com/dms/image/C4D03AQFTC6jq5WP68g/profile-displayphoto-shrink_400_400/0/1596542793625?e=1715817600&v=beta&t=qMtNW_Ty5np9IGsEoF-5IO-D104chge466HKyEDKS5M",
+    "profile_job": "Associate Software Engineer at Optum",
+    "experience": [
+        {
+            "big": "Associate Software Engineer",
+            "exp": "Aug 2022 - Present \u00b7 1 yr 8 mos",
+            "small": "Optum\nHyderabad, Telangana, India",
+            "sub_exp": []
+        },
+        {
+            "big": "Software Development Intern",
+            "exp": "Jun 2021 - Aug 2021 \u00b7 3 mos",
+            "small": "Optum \u00b7 Internship",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "Teamwork",
+        "C++",
+        "SQL",
+        "Creative Writing",
+        "Data Structures",
+        "Algorithms",
+        "C (Programming Language)",
+        "Python (Programming Language)",
+        "MySQL",
+        "Angular",
+        "Angular Command Line Interface (CLI)",
+        "Angular Material",
+        "Spring Boot",
+        "REST APIs",
+        "Java",
+        "Cascading Style Sheets (CSS)",
+        "HTML",
+        "Bootstrap",
+        "JavaScript"
+    ],
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2018 - 2022",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+            "desc": null
+        },
+        {
+            "big": "Notre Dame Of Holy Cross School",
+            "mid": "Class 11-12",
+            "dur": "2016 - 2018",
+            "img_src": null,
+            "desc": null
+        },
+        {
+            "big": "Adhyapana School CBSE - India",
+            "mid": "Class 8 -10",
+            "dur": "2013 - 2016",
+            "img_src": "https://media.licdn.com/dms/image/C560BAQHRwB9xg068ig/company-logo_100_100/0/1630641984617/adhyapana_school_cbse___india_logo?e=1718236800&v=beta&t=NiQ3ampQEqB_no9HcROfLwCC8osplpsIh_6Gn9BLh4E",
+            "desc": null
+        }
+    ]
+}

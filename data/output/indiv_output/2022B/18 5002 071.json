@@ -1,0 +1,52 @@
+{
+    "register_num": "18 5002 071",
+    "profile_name": "Obed Immanuel Raj J J",
+    "profile_img": "https://media.licdn.com/dms/image/C4D03AQHdqYyx38AVog/profile-displayphoto-shrink_400_400/0/1653834817574?e=1715817600&v=beta&t=N4DSiEsItdWI-8m81i8v8n1nYX1BGj39MRMh0NZxyjA",
+    "profile_job": "SWE at Fi | Previously at Amazon, SSN '22",
+    "experience": [
+        {
+            "big": "Software Engineer",
+            "exp": "Sep 2022 - Present \u00b7 1 yr 7 mos",
+            "small": "Fi \u00b7 Full-time\nBengaluru, Karnataka, India",
+            "sub_exp": []
+        },
+        {
+            "big": "SDE Intern",
+            "exp": "Feb 2022 - Jun 2022 \u00b7 5 mos",
+            "small": "Amazon \u00b7 Internship\nChennai, Tamil Nadu, India",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "Java",
+        "Groovy",
+        "Git",
+        "Amazon Web Services (AWS)",
+        "Documentation",
+        "C++",
+        "Machine Learning Algorithms",
+        "Python (Programming Language)",
+        "C (Programming Language)",
+        "Web Development",
+        "Data Structures"
+    ],
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2018 - 2022",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+            "desc": null
+        },
+        {
+            "big": "St. Xavier's Matric. Hr. Sec. School",
+            "mid": "Maths",
+            "dur": "2006 - 2018",
+            "img_src": null,
+            "desc": null
+        }
+    ]
+}

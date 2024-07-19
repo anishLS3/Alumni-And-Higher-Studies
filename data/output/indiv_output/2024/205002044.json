@@ -1,0 +1,62 @@
+{
+    "register_num": "205002044",
+    "profile_name": "Lingesh GD",
+    "profile_img": "https://media.licdn.com/dms/image/C5603AQGB1nPc9WO5MQ/profile-displayphoto-shrink_400_400/0/1663148244608?e=1723075200&v=beta&t=wWuh3isSOSI3tCnZVWcIGkKGApavqmufw-mw_q4hHWs",
+    "profile_job": "Research Intern at IIT Patna | Final Year | Advancing Knowledge through Cutting-Edge Research",
+    "experience": [
+        {
+            "big": "Research Internship",
+            "exp": "Remote",
+            "small": "IIT Patna \u00b7 Internship",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "Large Language Models (LLM)",
+        "Generative AI",
+        "Docker Products",
+        "Convolutional Neural Networks (CNN)",
+        "langchain",
+        "gpt",
+        "openai",
+        "OpenCV",
+        "pandas",
+        "Pytesseract OCR",
+        "English",
+        "Teamwork",
+        "Interpersonal Skills",
+        "Computer Science",
+        "TensorFlow",
+        "Natural Language Processing (NLP)",
+        "Machine Learning Algorithms",
+        "Artificial Intelligence (AI)",
+        "Computer Vision",
+        "Image Segmentation"
+    ],
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech IT, Information Technology",
+            "dur": "Mar 2020 - Mar 2024",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": ""
+        },
+        {
+            "big": "DAV Schools Network",
+            "mid": "High School Diploma",
+            "dur": "Sep 2006 - Mar 2019",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQGmkbWS1jg_6g/company-logo_100_100/0/1630624170432/dav_schools_network_logo?e=1725494400&v=beta&t=cbXvBDs3zm9SfPSCg8inWQdYszekDLb4ZNj57elUGsA",
+            "desc": "Grade: A+"
+        },
+        {
+            "big": "Udemy Alumni",
+            "mid": null,
+            "dur": null,
+            "img_src": null,
+            "desc": null
+        }
+    ]
+}

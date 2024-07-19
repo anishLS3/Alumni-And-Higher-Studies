@@ -1,0 +1,70 @@
+{
+    "register_num": "18 5002 097",
+    "profile_name": "Smithi Parthiban",
+    "profile_img": null,
+    "profile_job": "Graduate Student @ Northeastern University",
+    "experience": [
+        {
+            "big": "Data Engineer",
+            "exp": "Aug 2022 - Aug 2023 \u00b7 1 yr 1 mo",
+            "small": "Optum \u00b7 Full-time\nHyderabad, Telangana, India \u00b7 Hybrid",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "SSMS",
+        "Microsoft Azure",
+        "GitHub",
+        "Azure Data Factory",
+        "Azure Databricks",
+        "Snowflake",
+        "HTML5",
+        "Cascading Style Sheets (CSS)",
+        "Python (Programming Language)",
+        "Front-end Development",
+        "Search Engine Optimization (SEO)",
+        "HTML",
+        "JavaScript",
+        "C#",
+        "C++",
+        "Databases",
+        "Presentations",
+        "Leadership",
+        "ChatGPT",
+        "Microsoft Power BI"
+    ],
+    "awards": null,
+    "volunteering": [
+        {
+            "big": "Student Volunteer - Youth Red Cross",
+            "mid": "SSN College of Engineering",
+            "dur": "Sep 2018 - May 2020",
+            "exp": "1 yr 9 mos",
+            "img": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc"
+        }
+    ],
+    "publications": null,
+    "education": [
+        {
+            "big": "Northeastern University",
+            "mid": null,
+            "dur": null,
+            "img_src": "https://media.licdn.com/dms/image/C4D0BAQGwTPCvlTQlvw/company-logo_100_100/0/1630531267482/northeastern_university_logo?e=1718236800&v=beta&t=ZAHjDr9Ma7c3OuuFuVbzwoOSRQi_0bUnU0FxtOYGJ0w",
+            "desc": null
+        },
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor's degree, Information Technology",
+            "dur": "2018 - 2022",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+            "desc": null
+        },
+        {
+            "big": "Jawahar Higher secondary school, chennai",
+            "mid": "High School",
+            "dur": "2016 - 2018",
+            "img_src": null,
+            "desc": null
+        }
+    ]
+}

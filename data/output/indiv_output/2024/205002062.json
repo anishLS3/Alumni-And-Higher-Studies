@@ -1,0 +1,134 @@
+{
+    "register_num": "205002062",
+    "profile_name": "Prajeeth B",
+    "profile_img": "https://media.licdn.com/dms/image/D5603AQFsfXMXSLH3Aw/profile-displayphoto-shrink_400_400/0/1714820034309?e=1723075200&v=beta&t=hQA2UKrwX0_79Mq0ynZ04K6WR2VVBuEUGzUv6_ZM8Lk",
+    "profile_job": "Software Developer | SDE Intern @Citi | Undergraduate at SSN College of Engineering | Procode Coding Club",
+    "experience": [
+        {
+            "big": "ProCode IT SSN",
+            "exp": "2 yrs 6 mos",
+            "small": "Chennai, Tamil Nadu, India",
+            "sub_exp": [
+                {
+                    "big": "Secretary, Core Committee",
+                    "exp": "Aug 2023 to Present \u00b7 11 mos",
+                    "small": null
+                },
+                {
+                    "big": "Technical Core committee Member",
+                    "exp": "Jan 2022 to Aug 2023 \u00b7 1 yr 8 mos",
+                    "small": null
+                }
+            ]
+        },
+        {
+            "big": "Software Development, Summer Analyst Intern",
+            "exp": "May 2023 to Jul 2023 \u00b7 3 mos",
+            "small": "Citi \u00b7 Internship\nChennai, Tamil Nadu, India",
+            "sub_exp": []
+        },
+        {
+            "big": "Event Head",
+            "exp": null,
+            "small": "Invente, SSNCE\n2023 to 2023 \u00b7 Less than a year",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "Flask",
+        "Hypertext Transfer Protocol (HTTP)",
+        "Node.js",
+        "Git",
+        "TypeScript",
+        "Computer Engineering",
+        "Web Applications",
+        "Angular",
+        "Prompt Engineering",
+        "Large Language Models (LLM)",
+        "Generative AI",
+        "Software Development Life Cycle (SDLC)",
+        "Full-Stack Development",
+        "Back-End Web Development",
+        "Optimization",
+        "MySQL",
+        "Algorithms",
+        "REST APIs",
+        "Databases",
+        "Data Analysis"
+    ],
+    "awards": [
+        {
+            "big": "Envision (IEEE Computer society) - Finalist",
+            "mid": null,
+            "date": "Jan 2023"
+        },
+        {
+            "big": "Finalist - Smart India Hackathon'23",
+            "mid": null,
+            "date": "Jan 2023"
+        },
+        {
+            "big": "Winner - Web Dev Challenge",
+            "mid": null,
+            "date": "Jan 2023"
+        },
+        {
+            "big": "Winner - Cyber security quiz",
+            "mid": null,
+            "date": "Jan 2022"
+        },
+        {
+            "big": "Top 1% - JEE (Joint Entrance Examination)",
+            "mid": null,
+            "date": "Jan 2020"
+        },
+        {
+            "big": "School Topper - Mathematics",
+            "mid": null,
+            "date": "Jan 2018"
+        },
+        {
+            "big": "College Magazine",
+            "mid": null,
+            "date": null
+        },
+        {
+            "big": "Displaytree - Public downloads",
+            "mid": null,
+            "date": "Developed Displaytree - python package. Currently has over 3000 public downloads."
+        }
+    ],
+    "volunteering": [
+        {
+            "big": "Member and Volunteer",
+            "mid": "Red Cross Youth",
+            "dur": null,
+            "exp": null,
+            "img": "https://media.licdn.com/dms/image/C560BAQG3EX315y3JsQ/company-logo_100_100/0/1631322295766?e=1725494400&v=beta&t=vq298lAW4t_r7zuqmn3Ftu4estbjwusV55aVUWQ7jX0"
+        }
+    ],
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2020 - 2024",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": null
+        },
+        {
+            "big": "Maharishi Vidya Mandir Senior Secondary School",
+            "mid": "CBSE Class 12, Mathematics and Computer Science",
+            "dur": "2018 - 2020",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQEwuZA2M0SuZg/company-logo_100_100/0/1630567693343/maharishi_vidya_mandir_senior_secondary_school_logo?e=1725494400&v=beta&t=WM-d2iO7NzGpj4Yqk_H8TsZipXaZKgQ5bmamCDbc1Gg",
+            "desc": "Grade: 96%"
+        },
+        {
+            "big": "D A V SENIOR SECONDARY SCHOOL",
+            "mid": null,
+            "dur": null,
+            "img_src": null,
+            "desc": "Grade: 95%\nScored Centum(100%) in Mathematics Stood among the Top 5 in my school"
+        }
+    ]
+}

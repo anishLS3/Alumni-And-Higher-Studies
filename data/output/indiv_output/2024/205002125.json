@@ -1,0 +1,65 @@
+{
+    "register_num": "205002125",
+    "profile_name": "Vinitha P",
+    "profile_img": "https://media.licdn.com/dms/image/D5635AQHjRNy7n5Uyqw/profile-framedphoto-shrink_400_400/0/1695141765578?e=1718049600&v=beta&t=WlV3BI5gyjnA_flIHbb029TkXYYFZYwAM0w_rCV9PTI",
+    "profile_job": "Student at SSN College of Engineering",
+    "experience": [
+        {
+            "big": "Software Engineer Intern",
+            "exp": "Aug 2023 to Sep 2023 \u00b7 2 mos",
+            "small": "Mr. Cooper \u00b7 Internship\nChennai, Tamil Nadu, India \u00b7 On-site",
+            "sub_exp": []
+        },
+        {
+            "big": "Data Analyst Intern",
+            "exp": "Feb 2023 to Apr 2023 \u00b7 3 mos",
+            "small": "Aravinai Foundation \u00b7 Internship\nChennai, Tamil Nadu, India",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "Data Structures",
+        "OOPS",
+        "Data Modeling",
+        "Microsoft Power BI",
+        "Data Analysis",
+        "UI/UX",
+        "React.js",
+        "Spring Boot",
+        "Database Management System (DBMS)",
+        "SQL",
+        "Java",
+        "Cascading Style Sheets (CSS)",
+        "HTML",
+        "Python (Programming Language)",
+        "C++",
+        "C (Programming Language)"
+    ],
+    "awards": null,
+    "volunteering": [
+        {
+            "big": "Student",
+            "mid": "National Service Scheme",
+            "dur": "Sep 2021 - Present",
+            "exp": "2 yrs 10 mos",
+            "img": "https://media.licdn.com/dms/image/C4E0BAQEJ6yAnaG3CtQ/company-logo_100_100/0/1631346049980?e=1725494400&v=beta&t=TuUjrTKZSJ2mfMD1K4OCR8B4l34fzscWLR94DSyetYM"
+        }
+    ],
+    "publications": null,
+    "education": [
+        {
+            "big": "Government Higher Secondary School - India",
+            "mid": null,
+            "dur": null,
+            "img_src": null,
+            "desc": null
+        },
+        {
+            "big": "SSN College of Engineering",
+            "mid": null,
+            "dur": null,
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": null
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "register_num": "205002105",
+    "profile_name": "Supraja Seshadri",
+    "profile_img": "https://media.licdn.com/dms/image/C4D03AQHClZVx_HWlcQ/profile-displayphoto-shrink_400_400/0/1654617582956?e=1723075200&v=beta&t=Es95Kmc3u1PGZVUdnYwdow_SCWrxM5EyuAUE4G-jaMU",
+    "profile_job": "IT undergrad at SSN College of Engineering",
+    "experience": [
+        {
+            "big": "Webmaster",
+            "exp": "May 2023 to Present \u00b7 1 yr 2 mos",
+            "small": "IEEE Computer Society \u00b7 Full-time",
+            "sub_exp": []
+        },
+        {
+            "big": "Summer Intern",
+            "exp": "Jun 2023 to Aug 2023 \u00b7 3 mos",
+            "small": "Fidelity Investments \u00b7 Internship\nBengaluru, Karnataka, India",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "Algorithms",
+        "Unity",
+        "Database Management System (DBMS)",
+        "Node.js",
+        "Express.js",
+        "Python (Programming Language)",
+        "Data Structures",
+        "C++",
+        "C (Programming Language)",
+        "Java",
+        "PostgreSQL",
+        "HTML",
+        "JavaScript",
+        "Cascading Style Sheets (CSS)",
+        "Tkinter",
+        "MySQL"
+    ],
+    "awards": [
+        {
+            "big": "First place in IEEE YESIST regionals",
+            "mid": "Issued by IEEE YESIST'12",
+            "date": "Issued by IEEE YESIST'12 \u00b7 Apr 2023"
+        },
+        {
+            "big": "Merit Scholarship Recipient for 2021-22",
+            "mid": null,
+            "date": "Dec 2022"
+        },
+        {
+            "big": "Grand Finalist of Smart India Hackathon 2022",
+            "mid": "Issued by Ministry of Education, Government of India",
+            "date": "Issued by Ministry of Education, Government of India \u00b7 Aug 2022"
+        },
+        {
+            "big": "Merit Scholarship Recipient for 2020-21",
+            "mid": null,
+            "date": "Jun 2022"
+        }
+    ],
+    "volunteering": [
+        {
+            "big": "Student Volunteer",
+            "mid": "National Service Scheme",
+            "dur": "Jan 2021 - Present",
+            "exp": "3 yrs 6 mos",
+            "img": "https://media.licdn.com/dms/image/C4E0BAQEJ6yAnaG3CtQ/company-logo_100_100/0/1631346049980?e=1725494400&v=beta&t=TuUjrTKZSJ2mfMD1K4OCR8B4l34fzscWLR94DSyetYM"
+        },
+        {
+            "big": "General Administrator",
+            "mid": "SSN MUN",
+            "dur": "Oct 2021 - Jan 2022",
+            "exp": "4 mos",
+            "img": null
+        },
+        {
+            "big": "Volunteer",
+            "mid": "Invente, SSNCE",
+            "dur": "Oct 2021 - Nov 2021",
+            "exp": "2 mos",
+            "img": "https://media.licdn.com/dms/image/C560BAQFE9khGxAj0EQ/company-logo_100_100/0/1630663617548?e=1725494400&v=beta&t=TtlWFPyY8BhP_hgSaVxk4lUzVhrBOhRq1Ivx6FAVIxE"
+        }
+    ],
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2020 - 2024",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": null
+        },
+        {
+            "big": "DAV Group of Schools (TNAES), Chennai",
+            "mid": null,
+            "dur": null,
+            "img_src": "https://media.licdn.com/dms/image/C560BAQH1W5GP2DUc8w/company-logo_100_100/0/1668508682067/davchennai_logo?e=1725494400&v=beta&t=hhp752FpVwhy7XZDG0OEV39k-b4hlL0Fer6WPUzKdcc",
+            "desc": "Activities and societies: Active member of music band and won many prizes in intra and inter school events for singing."
+        },
+        {
+            "big": "DAV Group of Schools (TNAES), Chennai",
+            "mid": null,
+            "dur": null,
+            "img_src": "https://media.licdn.com/dms/image/C560BAQH1W5GP2DUc8w/company-logo_100_100/0/1668508682067/davchennai_logo?e=1725494400&v=beta&t=hhp752FpVwhy7XZDG0OEV39k-b4hlL0Fer6WPUzKdcc",
+            "desc": null
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "register_num": "18 5002 034",
+    "profile_name": "Harshene Ravindran",
+    "profile_img": "https://media.licdn.com/dms/image/C4D03AQG7iMt9_5C8yQ/profile-displayphoto-shrink_400_400/0/1633112956330?e=1715817600&v=beta&t=KV5d0CIG3bxrmWvL4l1JCpoMg-oL_EasibL7S0FOAaA",
+    "profile_job": "Engineer at NielsenIQ | SSN'22",
+    "experience": [
+        {
+            "big": "NielsenIQ",
+            "exp": "2 yrs 2 mos",
+            "small": null,
+            "sub_exp": [
+                {
+                    "big": "Engineer (Mid)",
+                    "exp": "Jul 2023 - Present \u00b7 9 mos",
+                    "small": "Full-time\nChennai, Tamil Nadu, India \u00b7 Hybrid"
+                },
+                {
+                    "big": "Engineer",
+                    "exp": "Jul 2022 - Jun 2023 \u00b7 1 yr",
+                    "small": "Full-time\nChennai, Tamil Nadu, India"
+                },
+                {
+                    "big": "Software Engineer Intern",
+                    "exp": "Feb 2022 - Jun 2022 \u00b7 5 mos",
+                    "small": "Internship\nChennai, Tamil Nadu, India"
+                }
+            ]
+        },
+        {
+            "big": "SDE Intern",
+            "exp": "Sep 2021 - Nov 2021 \u00b7 3 mos",
+            "small": "ITK Education Services Pvt Ltd \u00b7 Internship\nChennai, Tamil Nadu, India",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "C++",
+        "Python (Programming Language)",
+        "Competitive Programming",
+        "jQuery",
+        "Node.js",
+        "HTML",
+        "Cascading Style Sheets (CSS)",
+        "AngularJS",
+        "C",
+        "JavaScript"
+    ],
+    "awards": [
+        {
+            "big": "AIR of 1492 in Google Hash code 2021",
+            "mid": "Issued by Google",
+            "date": "Issued by Google \u00b7 Mar 2021"
+        },
+        {
+            "big": "AIR of 65 in IEEE Xtreme 14.0",
+            "mid": "Issued by Institute of Electrical and Electronics Engineers (IEEE)",
+            "date": "Issued by Institute of Electrical and Electronics Engineers (IEEE) \u00b7 Oct 2020"
+        }
+    ],
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2018 - 2022",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+            "desc": null
+        },
+        {
+            "big": "Cluny Matriculation Higher Secondary School",
+            "mid": null,
+            "dur": "2008 - 2018",
+            "img_src": null,
+            "desc": null
+        }
+    ]
+}

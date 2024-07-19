@@ -1,0 +1,55 @@
+{
+    "register_num": "205002005",
+    "profile_name": "Abinav Karthikeyan",
+    "profile_img": "https://media.licdn.com/dms/image/D5603AQGdv6lMatwjeQ/profile-displayphoto-shrink_400_400/0/1671622092693?e=1723075200&v=beta&t=7SK3LiOGnYDZByWLUo-plWlZSZb-mTuBK6gftaAf_CY",
+    "profile_job": "Intern @ Comcast | IT undergrad at SSN College of Engineering",
+    "experience": [
+        {
+            "big": "Development Intern",
+            "exp": "Jan 2024 to Present \u00b7 6 mos",
+            "small": "Comcast \u00b7 Internship",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "Node.js",
+        "MongoDB",
+        "Flutter",
+        "Spreadsheets",
+        "Data Analysis",
+        "AngularJS",
+        "Cascading Style Sheets (CSS)",
+        "HTML5",
+        "Communication",
+        "Python (Programming Language)",
+        "C (Programming Language)",
+        "C++",
+        "Internet of Things (IoT)",
+        "Career Management",
+        "Software Development",
+        "Tech Career Skills",
+        "Programming",
+        "Artificial Intelligence (AI)",
+        "Generative AI",
+        "Search Engine Technology"
+    ],
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2020 - 2024",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": null
+        },
+        {
+            "big": "Chettinad Vidyashram",
+            "mid": null,
+            "dur": null,
+            "img_src": "https://media.licdn.com/dms/image/C560BAQFTxLBvpXpNfg/company-logo_100_100/0/1630646834580/chettinad_vidyashram_logo?e=1725494400&v=beta&t=NCV5WfoU_tnE0-utFHM7NYUMn8gUj5MJm0yUrcylR1k",
+            "desc": "Alumni"
+        }
+    ]
+}

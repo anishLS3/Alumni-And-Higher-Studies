@@ -1,0 +1,42 @@
+{
+    "register_num": "18 5002 011",
+    "profile_name": "Amrith M",
+    "profile_img": null,
+    "profile_job": "Vapt Consultant | CEH Master | Penetration Tester | CND",
+    "experience": [
+        {
+            "big": "Analyst",
+            "exp": "Sep 2023 - Present \u00b7 7 mos",
+            "small": "SISA \u00b7 Full-time\nIndia \u00b7 Hybrid",
+            "sub_exp": []
+        },
+        {
+            "big": "Vapt consultant",
+            "exp": "Feb 2022 - Sep 2023 \u00b7 1 yr 8 mos",
+            "small": "CyRAACS\u2122 \u00b7 Full-time\nBengaluru, Karnataka, India",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "Network Security",
+        "Cryptography",
+        "Application Security",
+        "Cyber-security",
+        "OWASP",
+        "Cybersecurity",
+        "Python (Programming Language)",
+        "Penetration Testing"
+    ],
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": null,
+            "dur": null,
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+            "desc": null
+        }
+    ]
+}

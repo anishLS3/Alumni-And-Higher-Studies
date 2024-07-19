@@ -1,0 +1,33 @@
+{
+    "register_num": "18 5002 076",
+    "profile_name": "Preetha V",
+    "profile_img": null,
+    "profile_job": "Started working at Optum",
+    "experience": [
+        {
+            "big": "TDP II Software Engineer",
+            "exp": "Sep 2022 - Present \u00b7 1 yr 7 mos",
+            "small": "Optum \u00b7 Full-time\nHyderabad, Telangana, India",
+            "sub_exp": []
+        },
+        {
+            "big": "Professional development",
+            "exp": "Sep 2022 - Present \u00b7 1 yr 7 mos",
+            "small": "Career Break\nHyderabad, Telangana",
+            "sub_exp": []
+        }
+    ],
+    "skills": null,
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor's degree, Information Technology",
+            "dur": "2018 - 2022",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+            "desc": null
+        }
+    ]
+}

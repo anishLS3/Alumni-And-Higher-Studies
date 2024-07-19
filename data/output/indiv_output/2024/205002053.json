@@ -1,0 +1,48 @@
+{
+    "register_num": "205002053",
+    "profile_name": "Naveen Raj",
+    "profile_img": "https://media.licdn.com/dms/image/D5603AQEbT6krwlNFsQ/profile-displayphoto-shrink_400_400/0/1710358734968?e=1723075200&v=beta&t=FhQDq7Ks5NgGp7KuiZvMW8gNXCvfQQM8rjRe31B0k80",
+    "profile_job": "Software Engineer",
+    "experience": [
+        {
+            "big": "Junior Software Engineer",
+            "exp": "May 2024 to Present \u00b7 2 mos",
+            "small": "CloudNow Technologies \u00b7 Internship\nChennai, Tamil Nadu, India \u00b7 On-site",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "React.js",
+        "Core Java",
+        "Adobe After Effects",
+        "Adobe InDesign",
+        "Figma",
+        "Adobe Media Encoder",
+        "Teamwork",
+        "Leadership",
+        "Networking",
+        "Event Management",
+        "Adobe Premiere Pro",
+        "Adobe after effects",
+        "Adobe Illustrator",
+        "Python (Programming Language)",
+        "C++",
+        "C (Programming Language)",
+        "DaVinci Resolve",
+        "HTML",
+        "Cascading Style Sheets (CSS)",
+        "Web Development"
+    ],
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "B.tech, Information Technology",
+            "dur": "2020 - 2024",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": ""
+        }
+    ]
+}

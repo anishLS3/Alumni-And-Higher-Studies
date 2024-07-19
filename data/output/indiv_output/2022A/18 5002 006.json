@@ -1,0 +1,74 @@
+{
+    "register_num": "18 5002 006",
+    "profile_name": "Ajay Ramesh",
+    "profile_img": "https://media.licdn.com/dms/image/D5603AQEd_6IsQTCOZA/profile-displayphoto-shrink_400_400/0/1689442714836?e=1715817600&v=beta&t=KEq5-Dj7vx7CR5xlWGZ5DLZPM1Tfe57p_MQ9tXJC008",
+    "profile_job": "Software Developer | IBM | Under Graduation from SSN, Chennai(Batch of 2022)",
+    "experience": [
+        {
+            "big": "IBM",
+            "exp": "2 yrs 3 mos",
+            "small": null,
+            "sub_exp": [
+                {
+                    "big": "Software Developer",
+                    "exp": "Aug 2022 - Present \u00b7 1 yr 8 mos",
+                    "small": "Full-time\nBengaluru, Karnataka, India"
+                },
+                {
+                    "big": "Software Developer Internship",
+                    "exp": "Jan 2022 - Jul 2022 \u00b7 7 mos",
+                    "small": "Internship\nKarnataka, India"
+                }
+            ]
+        }
+    ],
+    "skills": [
+        "OpenShift",
+        "Kubernetes",
+        "DevOps",
+        "CI-CD",
+        "Travis CI",
+        "Tekton CI/CD",
+        "Java",
+        "Continuous Integration and Continuous Delivery (CI/CD)",
+        "Salesforce Lightning",
+        "Python (Programming Language)",
+        "C (Programming Language)",
+        "Machine Learning",
+        "Data Science",
+        "Web Development",
+        "HTML5",
+        "Cascading Style Sheets (CSS)",
+        "JavaScript",
+        "C++",
+        "Django",
+        "Photography"
+    ],
+    "awards": null,
+    "volunteering": [
+        {
+            "big": "Member",
+            "mid": "National Service Scheme",
+            "dur": "Sep 2018 - Apr 2021",
+            "exp": "2 yrs 8 mos",
+            "img": "https://media.licdn.com/dms/image/C4E0BAQEJ6yAnaG3CtQ/company-logo_100_100/0/1631346049980?e=1718236800&v=beta&t=3yMZXOTUQ189F1VUuKt8KwJ03QOT_DDrcZnKzkDCUfg"
+        }
+    ],
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "Aug 2018 - Jul 2022",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+            "desc": "Grade: 9.06"
+        },
+        {
+            "big": "Vidya Mandir Senior Secondary School",
+            "mid": "School, Computer Science",
+            "dur": "Jun 2004 - Jun 2018",
+            "img_src": "https://media.licdn.com/dms/image/C560BAQGAvHPgNx3Lzw/company-logo_100_100/0/1630661559800/vidya_mandir_senior_secondary_school_logo?e=1718236800&v=beta&t=2rNf-Hy04yU0tgvW_soBfFjgYs56uRRMM1A4R6CH_9c",
+            "desc": "Grade: Class XII: 480/500"
+        }
+    ]
+}

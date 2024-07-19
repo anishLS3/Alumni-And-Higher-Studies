@@ -1,0 +1,66 @@
+{
+    "register_num": "18 5002 104",
+    "profile_name": "Sruthi Ashok Kumar",
+    "profile_img": "https://media.licdn.com/dms/image/C5603AQHQ1XubXD-hlQ/profile-displayphoto-shrink_400_400/0/1598369953442?e=1715817600&v=beta&t=9d1EUJtZmabKFdjYFvMh9rJr_Nc_c_PCDepXKC0fmrY",
+    "profile_job": "Associate Software Engineer at Navis",
+    "experience": [
+        {
+            "big": "Associate Software Engineer",
+            "exp": "Aug 2022 - Present \u00b7 1 yr 8 mos",
+            "small": "Navis \u00b7 Full-time\nChennai, Tamil Nadu, India",
+            "sub_exp": []
+        },
+        {
+            "big": "Associate Software Engineer Intern",
+            "exp": "Jan 2022 - Jun 2022 \u00b7 6 mos",
+            "small": "Navis \u00b7 Internship\nChennai, Tamil Nadu, India",
+            "sub_exp": []
+        },
+        {
+            "big": "Digital Marketing Intern",
+            "exp": "Mar 2021 - Apr 2021 \u00b7 2 mos",
+            "small": "Inspace Technologies Pvt Ltd",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "Microsoft Office",
+        "Digital Marketing",
+        "Test Automation",
+        "Vue.js",
+        "Web Development",
+        "Mobile Application Development",
+        "Data Structures",
+        "Analytical Skills",
+        "Leadership",
+        "Algorithms",
+        "C++",
+        "C (Programming Language)",
+        "HTML",
+        "Cascading Style Sheets (CSS)",
+        "Python (Programming Language)",
+        "Communication",
+        "Good knowledge about data structures and algorithm",
+        "Database Management System (DBMS)"
+    ],
+    "awards": null,
+    "volunteering": [
+        {
+            "big": "Campus Ambassador",
+            "mid": "Coding Ninjas India",
+            "dur": "May 2020 - Jun 2021",
+            "exp": "1 yr 2 mos",
+            "img": "https://media.licdn.com/dms/image/D4D0BAQFThEvZuev8jA/company-logo_100_100/0/1693993872406/codingninjas_logo?e=1718236800&v=beta&t=7_TN3prKqtQxkq-3dF8tuVNLBXIE8ORow2qUxThEk9k"
+        }
+    ],
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2018 - 2022",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+            "desc": "Grade: 8.7"
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "register_num": "205002054",
+    "profile_name": "Neeti Priya",
+    "profile_img": "https://media.licdn.com/dms/image/D5603AQFQUJ4wXWLE4w/profile-displayphoto-shrink_400_400/0/1709265727298?e=1723075200&v=beta&t=hGhFh9FLcsWvWPy-IA3c81OctqdgvMHmpJKm2govG80",
+    "profile_job": "I'm an undergraduate B.tech Information technology student interested in web development",
+    "experience": [
+        {
+            "big": "Student Intern",
+            "exp": "Aug 2022 to Aug 2022 \u00b7 1 mo",
+            "small": "KaaShiv InfoTech \u00b7 Internship\nChennai, Tamil Nadu, India",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "Java",
+        "MongoDB",
+        "Deep Learning",
+        "Kubernetes",
+        "Amazon Web Services (AWS)",
+        "Docker",
+        "Linux",
+        "Go (Programming Language)",
+        "Artificial Intelligence (AI)",
+        "Machine Learning",
+        "Cybersecurity",
+        "Information Security Management",
+        "Network Security",
+        "Cascading Style Sheets (CSS)",
+        "HTML",
+        "SQL",
+        "C (Programming Language)",
+        "C++"
+    ],
+    "awards": null,
+    "volunteering": [
+        {
+            "big": "Volunteer",
+            "mid": "National Service Scheme",
+            "dur": "Nov 2020 - Present",
+            "exp": "3 yrs 8 mos",
+            "img": "https://media.licdn.com/dms/image/C4E0BAQEJ6yAnaG3CtQ/company-logo_100_100/0/1631346049980?e=1725494400&v=beta&t=TuUjrTKZSJ2mfMD1K4OCR8B4l34fzscWLR94DSyetYM"
+        },
+        {
+            "big": "Volunteer",
+            "mid": "Eco-Club",
+            "dur": "Jan 2014 - Jan 2018",
+            "exp": "4 yrs",
+            "img": "https://media.licdn.com/dms/image/C560BAQH3QwsTaxdPtQ/company-logo_100_100/0/1630565404184?e=1725494400&v=beta&t=CzLu1eBaEp8p8CCRLBpGvchuuqDFC_gYgHFiXi4KZqE"
+        },
+        {
+            "big": "Volunteer",
+            "mid": "Invente, SSNCE",
+            "dur": "Jan 2022 - Present",
+            "exp": "2 yrs 6 mos",
+            "img": "https://media.licdn.com/dms/image/C560BAQFE9khGxAj0EQ/company-logo_100_100/0/1630663617548?e=1725494400&v=beta&t=TtlWFPyY8BhP_hgSaVxk4lUzVhrBOhRq1Ivx6FAVIxE"
+        }
+    ],
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "Nov 2020 - Jun 2024",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": "Grade: 8.42 cgpa"
+        },
+        {
+            "big": "SBOA School & Junior College",
+            "mid": "Secondary School, CBSE",
+            "dur": "Apr 2005 - Mar 2020",
+            "img_src": null,
+            "desc": null
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "register_num": "18 5002 075",
+    "profile_name": "Pravin Varma V",
+    "profile_img": "https://media.licdn.com/dms/image/D5603AQGMTbWjzaE_lA/profile-displayphoto-shrink_400_400/0/1689787076350?e=1715817600&v=beta&t=MBjsihkfjzTo5hmiCe6H37QM4yHXUqG3tJMXrsSWTf8",
+    "profile_job": "Senior Software Engineer @Accolite Digital | @Morgan Stanley",
+    "experience": [
+        {
+            "big": "Accolite",
+            "exp": "2 yrs 2 mos",
+            "small": null,
+            "sub_exp": [
+                {
+                    "big": "Senior Software Engineer",
+                    "exp": "Nov 2023 - Present \u00b7 5 mos",
+                    "small": "Full-time\nBengaluru, Karnataka, India"
+                },
+                {
+                    "big": "Software Engineer",
+                    "exp": "Sep 2022 - Nov 2023 \u00b7 1 yr 3 mos",
+                    "small": "Full-time\nBengaluru, Karnataka, India"
+                },
+                {
+                    "big": "Associate Software Engineer",
+                    "exp": "Jun 2022 - Aug 2022 \u00b7 3 mos",
+                    "small": "Full-time\nBengaluru, Karnataka, India"
+                }
+            ]
+        },
+        {
+            "big": "Software Consultant",
+            "exp": "Jul 2022 - Present \u00b7 1 yr 9 mos",
+            "small": "Morgan Stanley\nBengaluru, Karnataka, India",
+            "sub_exp": []
+        },
+        {
+            "big": "Head Of Design",
+            "exp": "Dec 2020 - Jan 2021 \u00b7 2 mos",
+            "small": "SSN College of Engineering\nChennai, Tamil Nadu, India",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "Java",
+        "Spring Boot",
+        "Angular",
+        "Web Development",
+        "Web Design",
+        "Video Editing",
+        "After Effects",
+        "Python (Programming Language)",
+        "C#",
+        "C++",
+        "JavaScript",
+        "HTML",
+        "Cascading Style Sheets (CSS)",
+        "Portrait Photography",
+        "Event Photography",
+        "Responsive Web Design",
+        "Cloud Computing",
+        "Cloud Storage",
+        "Cloud Security",
+        "Cloud Development"
+    ],
+    "awards": null,
+    "volunteering": [
+        {
+            "big": "Student Volunteer",
+            "mid": "Red Cross Youth",
+            "dur": null,
+            "exp": null,
+            "img": "https://media.licdn.com/dms/image/C560BAQG3EX315y3JsQ/company-logo_100_100/0/1631322295766?e=1718236800&v=beta&t=x5vIbUBynJ9rEHrrIpD4ME1DC4i83rvyPYRku3eiieY"
+        }
+    ],
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2018 - 2022",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+            "desc": null
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "register_num": "18 5002 020",
+    "profile_name": "Yagnavi Chowdari Boyapati",
+    "profile_img": "https://media.licdn.com/dms/image/D5635AQFXhov2dMzBnA/profile-framedphoto-shrink_400_400/0/1694578753763?e=1710885600&v=beta&t=_B3R4l3lWIC2jGemXyvDMoSsMOMjzEW0z3gu7hRPJec",
+    "profile_job": "Actively seeking full-time SDE | Data Engineer Opportunities | MSCSe Graduate Student at University of Texas at Dallas",
+    "experience": [
+        {
+            "big": "The University of Texas at Dallas",
+            "exp": "1 yr 8 mos",
+            "small": "On-site",
+            "sub_exp": [
+                {
+                    "big": "CS Outreach Instructor",
+                    "exp": "Jun 2023 - Present \u00b7 10 mos",
+                    "small": "Part-time"
+                },
+                {
+                    "big": "Graduate Student",
+                    "exp": "Aug 2022 - Present \u00b7 1 yr 8 mos",
+                    "small": "Full-time\nRichardson, Texas, United States"
+                }
+            ]
+        }
+    ],
+    "skills": [
+        "Java",
+        "Database Design",
+        "Machine Learning",
+        "Web Development",
+        "C++"
+    ],
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "The University of Texas at Dallas",
+            "mid": "Master of Science - MS, Computer Science",
+            "dur": "Aug 2022 - May 2024",
+            "img_src": "https://media.licdn.com/dms/image/C4E0BAQEBYU4_oEvArQ/company-logo_100_100/0/1630623687859/university_of_texas_at_dallas_logo?e=1718236800&v=beta&t=qwuIDshbDlibjCGCu-lUMfup9n_V2hSvJT8-WI3naX0",
+            "desc": "Grade: 3.8\nActivities and societies: CS Outreach Instructor"
+        },
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2018 - 2022",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+            "desc": "Grade: 8.96"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+Profile
+{
+    "_id": ObjectID,
+    "register_num": String,
+    "profile_name": String,
+    "profile_img": String,
+    "profile_job": String,
+    "experience": [
+        "_id": ObjectID
+    ],
+    "skills": Array (of Skill Objects),
+    "awards": [
+        {
+            _id: ObjectID
+        }
+    ],
+    "volunteering": [
+        {
+            "_id": ObjectID
+        }
+    ],
+    "publications": [
+        {
+            "_id": ObjectID
+        }
+    ],
+    "education": [
+        {
+            "_id": ObjectID,
+        }
+    ]
+}
+
+Skill
+{
+    "_id": ObjectID,
+    "name": String
+}
+
+Experience
+{
+    "_id": ObjectID,
+    "big": String,
+    "exp": String,
+    "small": String,
+    "sub_exp": [
+        "_id": ObjectID,
+    ]
+}
+
+Sub_Experience
+{
+    "_id": ObjectID,
+    "big": String,
+    "exp": String,
+    "small": String
+}
+
+Volunteering
+{
+    "_id": ObjectID,
+    "big": String,
+    "mid": String,
+    "dur": String,
+    "exp": String,
+    "img": String
+}
+
+Awards
+{
+    "_id": ObjectID,
+    "big": String,
+    "mid": String
+    "date": String
+}
+
+Publications
+{
+    "_id": ObjectID,
+    "title": String,
+    "journal": String,
+    "date": String,
+    "desc": String,
+    "pub_link": String
+
+}
+
+Education
+{
+    "_id": ObjectID,
+    "big": String,
+    "mid": String,
+    "dur": String,
+    "img_src": String,
+    "desc": String
+}

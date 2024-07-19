@@ -1,0 +1,34 @@
+{
+    "register_num": "18 5002 093",
+    "profile_name": "Shivakumar G.",
+    "profile_img": "https://media.licdn.com/dms/image/C4D03AQFg0e9wIamGYQ/profile-displayphoto-shrink_400_400/0/1652867274210?e=1715817600&v=beta&t=LyllSGDzHlyhli836-9xP_WB-duHs9RC6sJ1_NME-dc",
+    "profile_job": "",
+    "experience": [
+        {
+            "big": "Graduate Analyst",
+            "exp": "Aug 2022 - Present \u00b7 1 yr 8 mos",
+            "small": "Barclays \u00b7 Full-time\nChennai",
+            "sub_exp": []
+        }
+    ],
+    "skills": [],
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2018 - 2022",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+            "desc": null
+        },
+        {
+            "big": "Nag Vidhyashram Sr. Sec. School",
+            "mid": null,
+            "dur": "2010 - 2018",
+            "img_src": null,
+            "desc": null
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "register_num": "18 5002 019",
+    "profile_name": "Badrinarayanan R",
+    "profile_img": "https://media.licdn.com/dms/image/C5603AQEwyyUJOOx1SQ/profile-displayphoto-shrink_400_400/0/1623929555657?e=1715817600&v=beta&t=xwT0Wh1O69DJ0Ys4pTsebpF8v_Li86aH2nIvoWFjy4I",
+    "profile_job": "Software Engineer 1 at PayPal",
+    "experience": [
+        {
+            "big": "PayPal",
+            "exp": "2 yrs 2 mos",
+            "small": "Chennai, Tamil Nadu, India \u00b7 On-site",
+            "sub_exp": [
+                {
+                    "big": "Software Engineer 1",
+                    "exp": "Aug 2022 - Present \u00b7 1 yr 8 mos",
+                    "small": "Full-time"
+                },
+                {
+                    "big": "Software Engineer Internship",
+                    "exp": "Feb 2022 - Jul 2022 \u00b7 6 mos",
+                    "small": "Internship"
+                }
+            ]
+        }
+    ],
+    "skills": [
+        "English",
+        "Engineering",
+        "Problem Solving",
+        "Leadership"
+    ],
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2018 - 2022",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+            "desc": null
+        },
+        {
+            "big": "Padma Seshadri Bala Bhavan Sr. Sec. School",
+            "mid": null,
+            "dur": null,
+            "img_src": "https://media.licdn.com/dms/image/C4E0BAQG9gRadvV9QSQ/company-logo_100_100/0/1630620332709/padma_seshadri_bala_bhavan_logo?e=1718236800&v=beta&t=X3JNkuCXB5ROg6echaDC3oCUCkEe_RFv66ZednbMIaU",
+            "desc": null
+        }
+    ]
+}

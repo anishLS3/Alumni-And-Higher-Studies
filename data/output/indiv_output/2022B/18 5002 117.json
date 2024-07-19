@@ -1,0 +1,20 @@
+{
+    "register_num": "18 5002 117",
+    "profile_name": "Varshini V",
+    "profile_img": "https://media.licdn.com/dms/image/C5603AQHojcKAi-dEDA/profile-displayphoto-shrink_400_400/0/1627384773547?e=1715817600&v=beta&t=m2WlHj0tymZ3GHvEQkvOLguvGDsU5ZW9UGBXQ0ocJCg",
+    "profile_job": "SSN College Of Engineering",
+    "experience": null,
+    "skills": null,
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2018 - 2022",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+            "desc": null
+        }
+    ]
+}

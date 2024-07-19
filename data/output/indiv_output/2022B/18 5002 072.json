@@ -1,0 +1,64 @@
+{
+    "register_num": "18 5002 072",
+    "profile_name": "Pakkeer Mydeen",
+    "profile_img": "https://media.licdn.com/dms/image/C5603AQGJeFRSyQzFoA/profile-displayphoto-shrink_400_400/0/1616741301839?e=1715817600&v=beta&t=lBLZtITMHxAl6YwWeJjc98OxouFdV-LyVlHJ2bMbFUc",
+    "profile_job": "Software Developer @ IBM CIO | SSN IT '22",
+    "experience": [
+        {
+            "big": "IBM",
+            "exp": "2 yrs 3 mos",
+            "small": null,
+            "sub_exp": [
+                {
+                    "big": "Software Developer",
+                    "exp": "Aug 2022 - Present \u00b7 1 yr 8 mos",
+                    "small": "Full-time\nBengaluru, Karnataka, India"
+                },
+                {
+                    "big": "Intern",
+                    "exp": "Jan 2022 - Jul 2022 \u00b7 7 mos",
+                    "small": "Internship\nBangalore Urban district, Karnataka, India"
+                }
+            ]
+        }
+    ],
+    "skills": [
+        "Git",
+        "React.js",
+        "Django",
+        "Wagtail CMS",
+        "Data Structures",
+        "Programming",
+        "Python (Programming Language)",
+        "Database Management System (DBMS)",
+        "Java",
+        "Node.js",
+        "HTML",
+        "Cascading Style Sheets (CSS)",
+        "JavaScript",
+        "Android Development",
+        "Full-Stack Development",
+        "C (Programming Language)",
+        "C++"
+    ],
+    "awards": null,
+    "volunteering": [
+        {
+            "big": "NSS Volunteer",
+            "mid": "SSN College of Engineering",
+            "dur": "May 2018 - Present",
+            "exp": "5 yrs 11 mos",
+            "img": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc"
+        }
+    ],
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2018 - 2022",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+            "desc": null
+        }
+    ]
+}

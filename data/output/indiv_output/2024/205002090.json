@@ -1,0 +1,109 @@
+{
+    "register_num": "205002090",
+    "profile_name": "Shriram M S",
+    "profile_img": "https://media.licdn.com/dms/image/D5603AQFh8pZt-Qe-Rw/profile-displayphoto-shrink_400_400/0/1706451524851?e=1723075200&v=beta&t=9O0vIPAnLPrubcjLDpMkDtJ8fZcUxDXTZa3gwOotKJE",
+    "profile_job": "AI Researcher @ MinusZero | AI/ML lead @ GDSC SSN | Vice President @ SSN MunSoc | QCF Level 3 through TCL",
+    "experience": [
+        {
+            "big": "Research Intern",
+            "exp": "Feb 2024 to Present \u00b7 5 mos",
+            "small": "Minus Zero \u00b7 Internship\nBengaluru, Karnataka, India \u00b7 On-site",
+            "sub_exp": []
+        },
+        {
+            "big": "SSN MUN Society",
+            "exp": "1 yr 3 mos",
+            "small": null,
+            "sub_exp": [
+                {
+                    "big": "Vice President",
+                    "exp": "Nov 2023 to Present \u00b7 8 mos",
+                    "small": null
+                },
+                {
+                    "big": "Deputy Secretary General",
+                    "exp": "Apr 2023 to Present \u00b7 1 yr 3 mos",
+                    "small": null
+                }
+            ]
+        },
+        {
+            "big": "AI/ML lead",
+            "exp": "Oct 2023 to Present \u00b7 9 mos",
+            "small": "Google DSC SSNCE",
+            "sub_exp": []
+        },
+        {
+            "big": "Treasurer",
+            "exp": "Jun 2023 to Present \u00b7 1 yr 1 mo",
+            "small": "Lights Out Please - SSN's Theatre Club",
+            "sub_exp": []
+        },
+        {
+            "big": "Club Head",
+            "exp": "Jun 2023 to Present \u00b7 1 yr 1 mo",
+            "small": "SSN Gaming Club",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "Public Speaking",
+        "Organization Skills",
+        "Public Relations",
+        "Finance",
+        "Event Management",
+        "Team Coordination",
+        "Debate",
+        "Communication",
+        "Statistical Analysis",
+        "Financial Analysis",
+        "Financial Data Analysis",
+        "Data Visualization",
+        "Python (Programming Language)",
+        "Information Technology",
+        "Data Analysis",
+        "Image Processing",
+        "Natural Language Processing (NLP)",
+        "Deep Learning",
+        "Machine Learning",
+        "Artificial Intelligence (AI)"
+    ],
+    "awards": [
+        {
+            "big": "Sports Scholarship Recipient",
+            "mid": "Issued by SSN Institutions",
+            "date": "Issued by SSN Institutions \u00b7 Dec 2022"
+        },
+        {
+            "big": "Young Achievers Award",
+            "mid": "Issued by Chettinad Vidyashram",
+            "date": "Issued by Chettinad Vidyashram \u00b7 Feb 2019"
+        }
+    ],
+    "volunteering": null,
+    "publications": [
+        {
+            "title": "DMK-SSN at ImageCLEF 2023 Medical: Controlling the Quality of Synthetic Medical Images Created via GANs using Machine Learning and Image Hashing Techniques",
+            "journal": "CEUR-WS",
+            "date": "Oct 5, 2023",
+            "desc": "CLEF 2023 WORKING NOTES",
+            "pub_link": "https://ceur-ws.org/Vol-3497/paper-141.pdf"
+        }
+    ],
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "Aug 2020 - Jun 2024",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": ""
+        },
+        {
+            "big": "Chettinad Vidyashram",
+            "mid": "Computer Science",
+            "dur": "Jun 2018 - May 2020",
+            "img_src": "https://media.licdn.com/dms/image/C560BAQFTxLBvpXpNfg/company-logo_100_100/0/1630646834580/chettinad_vidyashram_logo?e=1725494400&v=beta&t=NCV5WfoU_tnE0-utFHM7NYUMn8gUj5MJm0yUrcylR1k",
+            "desc": "Grade: 12th Grade Percentage : 94.2%"
+        }
+    ]
+}

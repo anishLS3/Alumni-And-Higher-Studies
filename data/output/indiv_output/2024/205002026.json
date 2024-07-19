@@ -1,0 +1,46 @@
+{
+    "register_num": "205002026",
+    "profile_name": "Deepthi Prabhu",
+    "profile_img": "https://media.licdn.com/dms/image/D5603AQEEbkJ4OF2-5w/profile-displayphoto-shrink_400_400/0/1707584030181?e=1723075200&v=beta&t=tQI3tQ2tS_Z5gw11UnrK0IURSi2wTvjDGJ-Akcoh1SM",
+    "profile_job": "Final Year UnderGrad @SSNCE | SDE Intern @Verizon",
+    "experience": [
+        {
+            "big": "Engineer Intern",
+            "exp": "Jun 2023 to Sep 2023 \u00b7 4 mos",
+            "small": "SISA \u00b7 Internship\nBengaluru, Karnataka, India",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "Blockchain",
+        "C++",
+        "Java",
+        "Microsoft Visual Studio Code",
+        "GitHub",
+        "Mapbox",
+        "Elastic Stack (ELK)",
+        "Cascading Style Sheets (CSS)",
+        "HTML5",
+        "Angular",
+        "Web Development"
+    ],
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology, Information Technology",
+            "dur": "2020 - 2024",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": null
+        },
+        {
+            "big": "National Public School",
+            "mid": "Higher Secondary Certificate, Biology, Physics, Chemistry, Mathematics",
+            "dur": "Feb 2019 - Mar 2020",
+            "img_src": "https://media.licdn.com/dms/image/C560BAQG7pWNSiLgUdw/company-logo_100_100/0/1631363108440?e=1725494400&v=beta&t=_xk3CQ_Jfmoz2gB8FmsSUWRr52a_vsfn72S-YeXcBLU",
+            "desc": null
+        }
+    ]
+}

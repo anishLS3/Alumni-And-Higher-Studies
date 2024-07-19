@@ -1,0 +1,43 @@
+{
+    "register_num": "18 5002 042",
+    "profile_name": "Jeevika B",
+    "profile_img": "https://media.licdn.com/dms/image/D4D03AQHzMhrgmTQQ1A/profile-displayphoto-shrink_400_400/0/1666795589260?e=1715817600&v=beta&t=WhHrgxyVBfDKp85uTvGXyw3-wrzLih0c6fsLhcWzsmM",
+    "profile_job": "SDE @ Toyota Connected India Pvt Ltd | SSNCE",
+    "experience": [
+        {
+            "big": "Software Developer",
+            "exp": "Jul 2022 - Present \u00b7 1 yr 9 mos",
+            "small": "TOYOTA Connected India Pvt Ltd \u00b7 Full-time\nChennai, Tamil Nadu, India",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "Android Development",
+        "Android",
+        "C#",
+        "C (Programming Language)",
+        "C++",
+        "Python (Programming Language)",
+        "HTML",
+        "Data Structures",
+        "Database Management System (DBMS)",
+        "Web Development",
+        "SQL",
+        "Object-Oriented Programming (OOP)",
+        "Machine Learning",
+        "Programming",
+        "Engineering"
+    ],
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2018 - 2022",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+            "desc": null
+        }
+    ]
+}

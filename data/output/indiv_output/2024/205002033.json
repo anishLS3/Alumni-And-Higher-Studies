@@ -1,0 +1,92 @@
+{
+    "register_num": "205002033",
+    "profile_name": "Gokulram A",
+    "profile_img": null,
+    "profile_job": "GDC Fellow 2022 | Engineering @BalkanID",
+    "experience": [
+        {
+            "big": "BalkanID",
+            "exp": "Remote",
+            "small": null,
+            "sub_exp": [
+                {
+                    "big": "Full Stack Engineer",
+                    "exp": "Oct 2023 to Present \u00b7 9 mos",
+                    "small": "Full-time\nAustin, Texas, United States"
+                },
+                {
+                    "big": "Sales Engineering Intern",
+                    "exp": "Jun 2023 to Sep 2023 \u00b7 4 mos",
+                    "small": "Internship"
+                }
+            ]
+        },
+        {
+            "big": "SSN Coding Club",
+            "exp": "1 yr 11 mos",
+            "small": null,
+            "sub_exp": [
+                {
+                    "big": "Head of Software Development Team",
+                    "exp": "Oct 2023 to May 2024 \u00b7 8 mos",
+                    "small": null
+                },
+                {
+                    "big": "Software Development Team",
+                    "exp": "Jul 2022 to Oct 2023 \u00b7 1 yr 4 mos",
+                    "small": null
+                }
+            ]
+        },
+        {
+            "big": "Web Development Head",
+            "exp": "Aug 2022 to May 2024 \u00b7 1 yr 10 mos",
+            "small": "ProCode IT SSN",
+            "sub_exp": []
+        },
+        {
+            "big": "SDE Intern",
+            "exp": "Remote",
+            "small": "eGov Foundation \u00b7 Internship",
+            "sub_exp": []
+        },
+        {
+            "big": "Web Development Team",
+            "exp": "Aug 2022 to Aug 2023 \u00b7 1 yr 1 mo",
+            "small": "Google DSC SSNCE",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "React.js",
+        "Node.js",
+        "Next.js",
+        "Express.js",
+        "MongoDB",
+        "Django",
+        "Tailwind CSS",
+        "React",
+        "Web Development",
+        "Engineering",
+        "Python (Programming Language)"
+    ],
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "Dec 2020 - Dec 2024",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": null
+        },
+        {
+            "big": "Atomic Energy Central School",
+            "mid": null,
+            "dur": "Apr 2008 - Apr 2020",
+            "img_src": null,
+            "desc": null
+        }
+    ]
+}

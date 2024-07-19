@@ -1,0 +1,54 @@
+{
+    "register_num": "18 5002 054",
+    "profile_name": "Madhavan V",
+    "profile_img": "https://media.licdn.com/dms/image/D5603AQGlKtxWNH4vlw/profile-displayphoto-shrink_400_400/0/1695630627539?e=1715817600&v=beta&t=WMqjwD6rLQoSkwHkRogt1nLdfk3wMBwTBnyPfFvEhSY",
+    "profile_job": "Associate Software Development Engineer - 1 at Publicis Sapient",
+    "experience": [
+        {
+            "big": "Publicis Sapient",
+            "exp": "1 yr 9 mos",
+            "small": "Bengaluru, Karnataka, India",
+            "sub_exp": [
+                {
+                    "big": "Associate Software Development Engineer 1",
+                    "exp": "Remote",
+                    "small": "Full-time"
+                },
+                {
+                    "big": "Trainee Engineer",
+                    "exp": "Jul 2022 - Jan 2023 \u00b7 7 mos",
+                    "small": null
+                }
+            ]
+        }
+    ],
+    "skills": [
+        "Java",
+        "Spring Boot",
+        "JavaScript",
+        "React.js",
+        "Jenkins",
+        "Amazon Web Services (AWS)",
+        "C++",
+        "Python (Programming Language)",
+        "Machine Learning",
+        "C (Programming Language)",
+        "HTML5",
+        "Cascading Style Sheets (CSS)",
+        "Django",
+        "Node.js",
+        "AngularJS"
+    ],
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "Aug 2018 - May 2022",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+            "desc": "Grade: 8.9"
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "register_num": "205002122",
+    "profile_name": "Vetrivel M",
+    "profile_img": "https://media.licdn.com/dms/image/D4E03AQHf1HKyhLDgQA/profile-displayphoto-shrink_400_400/0/1702998704190?e=1723075200&v=beta&t=ayUUuurIMGKOmqnYSx4bOLAlvYXwDROXWOO14thf5Lo",
+    "profile_job": "SDE at Fidelity Investments | IT Undergrad at SSNCE | IT Department President (AIT) | SSN MUN USG Tech | Photography Club Head (SPC)",
+    "experience": [
+        {
+            "big": "Software Developer",
+            "exp": "Feb 2024 to Present \u00b7 5 mos",
+            "small": "Fidelity Investments \u00b7 Internship\nHybrid",
+            "sub_exp": []
+        },
+        {
+            "big": "SSN AIT",
+            "exp": "1 yr 11 mos",
+            "small": null,
+            "sub_exp": [
+                {
+                    "big": "President",
+                    "exp": "Apr 2023 to May 2024 \u00b7 1 yr 2 mos",
+                    "small": "Chennai"
+                },
+                {
+                    "big": "Event Organizer",
+                    "exp": "Jul 2022 to Jun 2023 \u00b7 1 yr",
+                    "small": "Chennai, Tamil Nadu, India"
+                }
+            ]
+        },
+        {
+            "big": "SSN College of Engineering",
+            "exp": "2 yrs 11 mos",
+            "small": null,
+            "sub_exp": [
+                {
+                    "big": "Undersecretary-general Tech",
+                    "exp": "Apr 2023 to May 2024 \u00b7 1 yr 2 mos",
+                    "small": "Full-time\nChennai, Tamil Nadu, India"
+                },
+                {
+                    "big": "Website Developer",
+                    "exp": "Jun 2022 to May 2024 \u00b7 2 yrs",
+                    "small": "Chennai, Tamil Nadu, India"
+                },
+                {
+                    "big": "Club Head",
+                    "exp": "Jul 2021 to May 2024 \u00b7 2 yrs 11 mos",
+                    "small": "Chennai, Tamil Nadu, India"
+                }
+            ]
+        },
+        {
+            "big": "Member",
+            "exp": "Mar 2022 to May 2024 \u00b7 2 yrs 3 mos",
+            "small": "IEEE Student Branch - SSN",
+            "sub_exp": []
+        },
+        {
+            "big": "SDE",
+            "exp": "Banglore \u00b7 Remote",
+            "small": "Fidelity Investments \u00b7 Internship",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "Amazon Web Services (AWS)",
+        "Docker",
+        "Kuberetes",
+        "JSON",
+        "Google API",
+        "Microsoft Power BI",
+        "Angular",
+        "Event Production",
+        "Human Resources (HR)",
+        "Web Hosting",
+        "Public Relations",
+        "Decoration",
+        "HTML5",
+        "Website Building",
+        "Event Planning",
+        "Technical Support",
+        "Communication",
+        "Volunteering",
+        "Photography",
+        "Digital Photography"
+    ],
+    "awards": null,
+    "volunteering": [
+        {
+            "big": "Member",
+            "mid": "National Service Scheme",
+            "dur": "Feb 2021 - Present",
+            "exp": "3 yrs 5 mos",
+            "img": "https://media.licdn.com/dms/image/C4E0BAQEJ6yAnaG3CtQ/company-logo_100_100/0/1631346049980?e=1725494400&v=beta&t=TuUjrTKZSJ2mfMD1K4OCR8B4l34fzscWLR94DSyetYM"
+        }
+    ],
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2020 - 2024",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": ""
+        },
+        {
+            "big": "Kendriya vidyalaya",
+            "mid": "HSC, Computer Science",
+            "dur": "2018 - 2020",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQGcv8M8B-5hkg/company-logo_100_100/0/1630568383735/kendriya_vidyalaya_sanghthan_logo?e=1725494400&v=beta&t=7CocTAKh_Huf81tNz0bgaQ80-MWWj_6oM0MhlmNGlXw",
+            "desc": null
+        },
+        {
+            "big": "Kendriya vidyalaya",
+            "mid": "HSC, PCM",
+            "dur": "2018 - 2020",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQGcv8M8B-5hkg/company-logo_100_100/0/1630568383735/kendriya_vidyalaya_sanghthan_logo?e=1725494400&v=beta&t=7CocTAKh_Huf81tNz0bgaQ80-MWWj_6oM0MhlmNGlXw",
+            "desc": null
+        }
+    ]
+}

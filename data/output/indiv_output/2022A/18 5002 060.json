@@ -1,0 +1,120 @@
+{
+    "register_num": "18 5002 060",
+    "profile_name": "Meghana Krishnan",
+    "profile_img": "https://media.licdn.com/dms/image/D4E35AQE8q-61BrSu3A/profile-framedphoto-shrink_400_400/0/1703564690783?e=1710885600&v=beta&t=jku6bqFo4dhj-LG-VbrcNnAhpNya9SiOSVV2aqeqwbQ",
+    "profile_job": "MS CS Grad at UMass Amherst",
+    "experience": [
+        {
+            "big": "NielsenIQ",
+            "exp": "1 yr 5 mos",
+            "small": null,
+            "sub_exp": [
+                {
+                    "big": "Software Engineer",
+                    "exp": "Jul 2022 - Jun 2023 \u00b7 1 yr",
+                    "small": null
+                },
+                {
+                    "big": "SWE Intern",
+                    "exp": "Feb 2022 - Jun 2022 \u00b7 5 mos",
+                    "small": null
+                }
+            ]
+        },
+        {
+            "big": "Web Development Intern",
+            "exp": "May 2021 - Jul 2021 \u00b7 3 mos",
+            "small": "Primaze",
+            "sub_exp": []
+        },
+        {
+            "big": "Machine Learning Intern",
+            "exp": "Dec 2019 - Feb 2020 \u00b7 3 mos",
+            "small": "Verzeo \u00b7 Internship",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "Python (Programming Language)",
+        "Data Structures",
+        "C++",
+        "Algorithms",
+        "Machine Learning",
+        "Data Science",
+        "Java",
+        "SQL",
+        "JavaScript",
+        "HTML",
+        "HTML5",
+        "Cascading Style Sheets (CSS)",
+        "Angular",
+        "Docker",
+        "Database Management System (DBMS)",
+        "Neural Networks",
+        "Mean Stack",
+        "Algorithm Design"
+    ],
+    "awards": null,
+    "volunteering": [
+        {
+            "big": "Student Volunteer",
+            "mid": "National Service Scheme",
+            "dur": "Aug 2018 - Aug 2020",
+            "exp": "2 yrs 1 mo",
+            "img": "https://media.licdn.com/dms/image/C4E0BAQEJ6yAnaG3CtQ/company-logo_100_100/0/1631346049980?e=1718236800&v=beta&t=3yMZXOTUQ189F1VUuKt8KwJ03QOT_DDrcZnKzkDCUfg"
+        },
+        {
+            "big": "Student Volunteer",
+            "mid": "IEEE, ZERO",
+            "dur": "Jan 2020",
+            "exp": "1 mo",
+            "img": null
+        }
+    ],
+    "publications": [
+        {
+            "title": "Comparison of State \u2013 of \u2013 Art Deep Learning Algorithms for Detecting Cyberbullying in Twitter",
+            "journal": "ACM - IEEE Computer Society",
+            "date": "Aug 29, 2022",
+            "desc": "An important kind of online data threat is cyberbullying which is defined as the use of technologies by an individual or a group of people to deliberately and repeatedly upset or harm a person\u2019s or community\u2019s social-psychological attitude. Generally, cyberbullying is often linked with discrimination based on gender, race, faith, physical and mental disabilities from the text, image, audio and videos disclosed by the user. Cyberbullying might lead to many negative consequences like high risks of losing self-confidence, depression, disclosure of sensitive private information leading to self harm and suicide. This research work is a comparison of the state-of-art models that can be used for identifying the cyberbullying content posted on a social media platform and classifies the severity of the content. The user generated content (UGC) is highly varied from Twitter. Two Machine Learning models namely SVM (Accuracy \u2013 84%) and Na\u00efve Bayes (Accuracy \u2013 83%) were tested. The accuracies were found to be low due to the instability and the complexity of the model, and the highly dynamic nature of variables. Hence, Deep Learning models were tested as they use Natural Language Processing and Predictive Modeling which gives high accuracies. Six Deep Learning models namely BiLSTM + Fasttext (Accuracy \u2013 84.83%), BiLSTM + GloveTwitter (Accuracy \u2013 85.83%), BERTBase (Accuracy \u2013 89%), RoBERTa (Accuracy \u2013 89.14%), DistilBERT (Accuracy \u2013 87.09%), BERTweet (Accuracy \u2013 93%) were tested and BERTweet was found to have the highest accuracy since BERTweet model has been trained with data specific to Twitter. This research work identified that the Universal Sentence Encoder Model was the most efficient with the final accuracy of 96.08%.",
+            "pub_link": null
+        },
+        {
+            "title": "Generative Adversarial Networks and their Application in Fake Tweet Detection",
+            "journal": "ICICCT - Springer",
+            "date": "May 12, 2022",
+            "desc": "The Generative Adversarial Network (GAN) has made incredible progress in creating sensible synthetic information. The authors propose a structure for creating convincing text through adversarial training. It enables the creation of new sentences while maintaining the semantics and syntax of genuine phrases while being possibly unique from any of the models used to evaluate the model. The authors propose an adversarial process between a discriminator and a generator. The discriminator's goal is to detect false samples created by the generator from those which are genuine. The target tries to comprise a generator, that practically maps tests from guaranteed (straightforward) earlier appropriation, to synthetic information that seem, by all accounts, to be sensible. In this paper, the authors present various classifiers and test them based on various performance metrics and develop a suitable model to test the authenticity of tweets.",
+            "pub_link": "https://link.springer.com/chapter/10.1007/978-981-19-4960-9_48"
+        },
+        {
+            "title": "Reel or Real \u2013 Survey of Machine Learning to Adversarial Machine Learning Algorithms for Fake Content Detection in the Education Domain",
+            "journal": "SSRN ISMAC CVB - Elsevier",
+            "date": "Oct 29, 2020",
+            "desc": "The issue of fake news has developed a lot quicker in the ongoing years. Online media has drastically changed its scope and effect all in all. On one hand, it's easy, and simple availability with a quick portion of data draws more consideration of individuals to peruse news from it. Then again, it empowers widespread of fake news, which are only false data to misdirect individuals. With 14 percent of individuals conceding that they have purposely shared a fake political report on the web, unmistakably these false reports will keep on picking up footing insofar as individuals are as yet ready to share them on the web. Subsequently, computerizing counterfeit news recognition has gotten urgent to keep up strong on the web and web-based media. There have been many machine learning approaches implemented to address and solve this problem. Likewise, this project, given a certain number of instances shared publicly on a social media platform, helps in tracing the instances one by one and identifies the fake news using supervised learning algorithms.",
+            "pub_link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3735766"
+        }
+    ],
+    "education": [
+        {
+            "big": "University of Massachusetts Amherst",
+            "mid": "Master of Science - MS, Computer Science",
+            "dur": "Sep 2023 - May 2025",
+            "img_src": "https://media.licdn.com/dms/image/D4E0BAQFCzmsrZannXw/company-logo_100_100/0/1680271203107/umassamherst_logo?e=1718236800&v=beta&t=_jG2TGLLSiGdwpE939ZMxKSBuc7Uop4miO6doJWkVQU",
+            "desc": "GPA : 3.9/4 Coursework : Machine Learning, Systems for Data Science, Secure Distributed Systems"
+        },
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2018 - 2022",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+            "desc": "CGPA - 9.06"
+        },
+        {
+            "big": "DAV Public School, Chennai",
+            "mid": "Grade 10 - CGPA 10.0 | Grade 12 - 94.2%",
+            "dur": "Jun 2003 - May 2018",
+            "img_src": null,
+            "desc": null
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "register_num": "205002121",
+    "profile_name": "Varshini R",
+    "profile_img": null,
+    "profile_job": "Undergrad @SSN",
+    "experience": null,
+    "skills": null,
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": null,
+            "dur": null,
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": null
+        }
+    ]
+}

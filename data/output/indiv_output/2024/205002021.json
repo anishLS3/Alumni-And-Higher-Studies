@@ -1,0 +1,42 @@
+{
+    "register_num": "205002021",
+    "profile_name": "Danush Gopinath",
+    "profile_img": "https://media.licdn.com/dms/image/D5603AQFpwuELW2ybQg/profile-displayphoto-shrink_400_400/0/1686983931925?e=1723075200&v=beta&t=N_h6InHCvv7mb5qNQRJa0-9jKdcrviGaPU9-h-Khs10",
+    "profile_job": "Student at SSN College of Engineering",
+    "experience": [
+        {
+            "big": "Software Developer Intern",
+            "exp": "Bengaluru, Karnataka, India \u00b7 Remote",
+            "small": "Fidelity Investments \u00b7 Internship",
+            "sub_exp": []
+        }
+    ],
+    "skills": null,
+    "awards": null,
+    "volunteering": null,
+    "publications": [
+        {
+            "title": "Machine Learning and Ensemble Techniques for Water Quality Analysis of Korattur Lake",
+            "journal": "IEEE",
+            "date": "Dec 19, 2023",
+            "desc": "",
+            "pub_link": "https://ieeexplore.ieee.org/document/10353317"
+        },
+        {
+            "title": "Yoga Pose Estimation Using Rule-based Approach",
+            "journal": "IEEE",
+            "date": "Sep 4, 2023",
+            "desc": "",
+            "pub_link": "https://ieeexplore.ieee.org/document/10234979/figures#figures"
+        }
+    ],
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "Dec 2020 - Aug 2024",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": "Grade: 8.827"
+        }
+    ]
+}

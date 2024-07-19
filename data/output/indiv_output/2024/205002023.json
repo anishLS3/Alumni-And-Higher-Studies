@@ -1,0 +1,154 @@
+{
+    "register_num": "205002023",
+    "profile_name": "Deepak J",
+    "profile_img": "https://media.licdn.com/dms/image/D5603AQGYeQMyF9roVw/profile-displayphoto-shrink_400_400/0/1689857531579?e=1723075200&v=beta&t=AmUc_J5l40If1v7tJBYBJmx7_fh4jzH5BC8ppzYgZ-M",
+    "profile_job": "Data Engineer @ Fidelity Investment Former Software Intern @Fidelity Investments | Event Coordinator @ SSN-AIT | Digital Artist @SSN",
+    "experience": [
+        {
+            "big": "Fidelity Investments",
+            "exp": "1 yr 1 mo",
+            "small": "Bengaluru, Karnataka, India",
+            "sub_exp": [
+                {
+                    "big": "Data Engineer Intern",
+                    "exp": "Remote",
+                    "small": null
+                },
+                {
+                    "big": "Software Engineer Intern",
+                    "exp": "Jun 2023 to Feb 2024 \u00b7 9 mos",
+                    "small": null
+                }
+            ]
+        },
+        {
+            "big": "SSN-AIT Event Coordinator",
+            "exp": "Apr 2023 to Feb 2024 \u00b7 11 mos",
+            "small": "SSN AIT \u00b7 Full-time\nChennai, Tamil Nadu, India",
+            "sub_exp": []
+        },
+        {
+            "big": "Core Committee",
+            "exp": "Nov 2022 to Feb 2024 \u00b7 1 yr 4 mos",
+            "small": "Gradient - SSN Design Club",
+            "sub_exp": []
+        },
+        {
+            "big": "Core committee",
+            "exp": "Aug 2022 to Feb 2024 \u00b7 1 yr 7 mos",
+            "small": "ProCode IT SSN \u00b7 Full-time\nChennai, Tamil Nadu, India",
+            "sub_exp": []
+        },
+        {
+            "big": "SSN-AIT Design Head",
+            "exp": "Nov 2022 to Dec 2022 \u00b7 2 mos",
+            "small": "SSN AIT\nOn-site",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "snowpipe",
+        "Snowflake",
+        "Amazon Web Services (AWS)",
+        "BMC Control-M",
+        "Node.js",
+        "Bootstrap",
+        "Analytical Skills",
+        "Computer Science",
+        "Programming Languages",
+        "Programming",
+        "MySQL",
+        "Cascading Style Sheets (CSS)",
+        "SQL",
+        "C++",
+        "C (Programming Language)",
+        "JavaScript",
+        "TypeScript",
+        "HTML",
+        "Full-Stack Development",
+        "Sponsorship"
+    ],
+    "awards": null,
+    "volunteering": [
+        {
+            "big": "Event Coordinator",
+            "mid": "SSN AIT",
+            "dur": null,
+            "exp": null,
+            "img": "https://media.licdn.com/dms/image/C560BAQHVSlT-IE-pJA/company-logo_100_100/0/1662004553488?e=1725494400&v=beta&t=bPD2uVkHYHGdDz83-QvwB-2Syq3ThOxaaAYf-TBGfHI"
+        },
+        {
+            "big": "Department Coordinator",
+            "mid": "Invente, SSNCE",
+            "dur": "Sep 2022 - Present",
+            "exp": "1 yr 10 mos",
+            "img": "https://media.licdn.com/dms/image/C560BAQFE9khGxAj0EQ/company-logo_100_100/0/1630663617548?e=1725494400&v=beta&t=TtlWFPyY8BhP_hgSaVxk4lUzVhrBOhRq1Ivx6FAVIxE"
+        },
+        {
+            "big": "Volunteer",
+            "mid": "IEEE",
+            "dur": null,
+            "exp": null,
+            "img": "https://media.licdn.com/dms/image/C4E0BAQGoRdJYxmIDhQ/company-logo_100_100/0/1631326760285?e=1725494400&v=beta&t=Wn7-DBo6yRBY79d6aVSQT6FyNWTJZoHDGkhz4LPtebc"
+        },
+        {
+            "big": "Social Service Worker",
+            "mid": "The Bharat Scouts and Guides",
+            "dur": "Feb 2016 - Present",
+            "exp": "8 yrs 5 mos",
+            "img": "https://media.licdn.com/dms/image/D560BAQGw_pS89yIGaA/company-logo_100_100/0/1707298253490/the_bharat_scouts_and_guides_logo?e=1725494400&v=beta&t=Bshvgc92L2UU5hnKRcNN8kSO3SI-_DdkEFu8x9v8kKY"
+        },
+        {
+            "big": "Pr team",
+            "mid": "Invente, SSNCE",
+            "dur": "Oct 2021 - Apr 2023",
+            "exp": "1 yr 7 mos",
+            "img": "https://media.licdn.com/dms/image/C560BAQFE9khGxAj0EQ/company-logo_100_100/0/1630663617548?e=1725494400&v=beta&t=TtlWFPyY8BhP_hgSaVxk4lUzVhrBOhRq1Ivx6FAVIxE"
+        },
+        {
+            "big": "POC",
+            "mid": "NSS UPES",
+            "dur": "Jan 2021 - Present",
+            "exp": "3 yrs 6 mos",
+            "img": "https://media.licdn.com/dms/image/C4D0BAQEB9vmTjt1oZA/company-logo_100_100/0/1655375129414?e=1725494400&v=beta&t=pr9kCfWM4kzGXSYxnZIYSe4D1YihUAnPP8HCevrwbV0"
+        },
+        {
+            "big": "Social Media Designer",
+            "mid": "SSN AIT",
+            "dur": "Sep 2022 - Present",
+            "exp": "1 yr 10 mos",
+            "img": "https://media.licdn.com/dms/image/C560BAQHVSlT-IE-pJA/company-logo_100_100/0/1662004553488?e=1725494400&v=beta&t=bPD2uVkHYHGdDz83-QvwB-2Syq3ThOxaaAYf-TBGfHI"
+        },
+        {
+            "big": "Graphic Design Coordinator",
+            "mid": "International Federation for Information Processing (IFIP)",
+            "dur": "Sep 2022 - Present",
+            "exp": "1 yr 10 mos",
+            "img": "https://media.licdn.com/dms/image/C4E0BAQFmVMwdDpXK6g/company-logo_100_100/0/1630652815472/ifip__international_federation_for_information_processing_logo?e=1725494400&v=beta&t=E1hO7G0Gx2Pior8F6quqOrdxHXPACQuHu_OQRDOpjlw"
+        },
+        {
+            "big": "Junior core committee member",
+            "mid": "Gradient - SSN Design Club",
+            "dur": "Oct 2022 - Present",
+            "exp": "1 yr 9 mos",
+            "img": "https://media.licdn.com/dms/image/C4E0BAQFpfP76hs5mhQ/company-logo_100_100/0/1631028145027?e=1725494400&v=beta&t=RqAPxeiQiXOG-wAt98WAbx7z4Td2PvJGbs1ndniJAIc"
+        }
+    ],
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "Feb 2020 - May 2024",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": "Grade: 8.4"
+        },
+        {
+            "big": "Maharishi Vidya Mandir Senior Secondary School",
+            "mid": null,
+            "dur": null,
+            "img_src": "https://media.licdn.com/dms/image/C510BAQEwuZA2M0SuZg/company-logo_100_100/0/1630567693343/maharishi_vidya_mandir_senior_secondary_school_logo?e=1725494400&v=beta&t=WM-d2iO7NzGpj4Yqk_H8TsZipXaZKgQ5bmamCDbc1Gg",
+            "desc": null
+        }
+    ]
+}

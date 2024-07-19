@@ -1,0 +1,74 @@
+{
+    "register_num": "205002106",
+    "profile_name": "Supriya Abirami",
+    "profile_img": "https://media.licdn.com/dms/image/C4E03AQHi7zl5mMc26g/profile-displayphoto-shrink_800_800/0/1635228268005?e=1723075200&v=beta&t=qZWvQ4_NG0VMWJKkPwxYVuRT6P0_iObm3qhSXcFdj1I",
+    "profile_job": "Student at SSNCE",
+    "experience": null,
+    "skills": [
+        "Programming",
+        "Software Projects",
+        "Data Structures",
+        "Algorithms",
+        "Software Development",
+        "Web Development",
+        "Problem Solving",
+        "Front-End Development",
+        "JavaScript",
+        "HTML",
+        "Computer Science",
+        "Information Technology",
+        "Cybersecurity",
+        "Social Networks",
+        "Ethical Hacking",
+        "Python (Programming Language)",
+        "C (Programming Language)",
+        "English",
+        "Tamil",
+        "Sports"
+    ],
+    "awards": [
+        {
+            "big": "Certified Ethical Hacker",
+            "mid": "Issued by EC-Council",
+            "date": "Issued by EC-Council \u00b7 Oct 2022"
+        },
+        {
+            "big": "Photo Booth",
+            "mid": "Issued by IndentITy, Newsletter",
+            "date": "Issued by IndentITy, Newsletter \u00b7 Jan 2022"
+        }
+    ],
+    "volunteering": [
+        {
+            "big": "Member",
+            "mid": "National Service Scheme",
+            "dur": "Dec 2020 - Present",
+            "exp": "3 yrs 7 mos",
+            "img": "https://media.licdn.com/dms/image/C4E0BAQEJ6yAnaG3CtQ/company-logo_100_100/0/1631346049980?e=1725494400&v=beta&t=TuUjrTKZSJ2mfMD1K4OCR8B4l34fzscWLR94DSyetYM"
+        },
+        {
+            "big": "Student Editor - identITy",
+            "mid": "SSN College of Engineering",
+            "dur": "May 2022 - Present",
+            "exp": "2 yrs 2 mos",
+            "img": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc"
+        }
+    ],
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "UG, Information Technology",
+            "dur": "2020 - 2024",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1725494400&v=beta&t=_q8yma-3jQ0BV4Fe8NIOwx4YetVwcevkBhBLSgA_bfc",
+            "desc": null
+        },
+        {
+            "big": "Padma Seshadri Bala Bhavan Sr. Sec. School",
+            "mid": "High School Diploma, Bio/Maths",
+            "dur": "2016 - 2020",
+            "img_src": "https://media.licdn.com/dms/image/C4E0BAQG9gRadvV9QSQ/company-logo_100_100/0/1630620332709/padma_seshadri_bala_bhavan_logo?e=1725494400&v=beta&t=E-Fdvq8NgbYKhZIPG2vvfWC_C10Tl3L-jpDE7K9zRQA",
+            "desc": "Grade: 95%"
+        }
+    ]
+}

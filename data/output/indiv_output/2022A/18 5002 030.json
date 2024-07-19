@@ -1,0 +1,50 @@
+{
+    "register_num": "18 5002 030",
+    "profile_name": "R S Hamsini",
+    "profile_img": null,
+    "profile_job": "SDE II @ Walmart Global Tech | Former SDE Intern at Optum",
+    "experience": [
+        {
+            "big": "Software Engineer II",
+            "exp": "Jun 2022 - Present \u00b7 1 yr 10 mos",
+            "small": "Walmart Global Tech India \u00b7 Full-time\nIndia",
+            "sub_exp": []
+        },
+        {
+            "big": "Intern",
+            "exp": "Jun 2021 - Aug 2021 \u00b7 3 mos",
+            "small": "Optum \u00b7 Internship",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "Java",
+        "C",
+        "C++",
+        "Python (Programming Language)",
+        "SQL",
+        "Data Structures",
+        "Communication",
+        "Teamwork",
+        "Team Leadership"
+    ],
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2018 - 2022",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+            "desc": "Grade: 9.34 CGPA"
+        },
+        {
+            "big": "DAV Group of Schools (TNAES), Chennai",
+            "mid": "Schooling",
+            "dur": "Jun 2004 - Jul 2018",
+            "img_src": "https://media.licdn.com/dms/image/C560BAQH1W5GP2DUc8w/company-logo_100_100/0/1668508682067/davchennai_logo?e=1718236800&v=beta&t=jY-1m7dlQDtppIoQfPaFaEhDBC1xTGRUZJwvQHPoH14",
+            "desc": "Grade: Class XII - 97% , Class X - 10 CGPA"
+        }
+    ]
+}

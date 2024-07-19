@@ -1,0 +1,60 @@
+{
+    "register_num": "18 5002 057",
+    "profile_name": "Vyshnavi Mandadi",
+    "profile_img": "https://media.licdn.com/dms/image/D5635AQGVI4dsYR_QCw/profile-framedphoto-shrink_400_400/0/1694890383624?e=1710885600&v=beta&t=cs0LDqnKfQcWw7CRw5Wf-mg8VrEw3JiYJxHfcRIU1pA",
+    "profile_job": "Graduate Student at CSULB | Ex - Associate Engineer - Qualcomm | B.Tech Information Technology | Seeking 2024 Summer Internships",
+    "experience": [
+        {
+            "big": "Associate Engineer",
+            "exp": "Aug 2022 - Jul 2023 \u00b7 1 yr",
+            "small": "Qualcomm \u00b7 Full-time\nHyderabad, Telangana, India",
+            "sub_exp": []
+        },
+        {
+            "big": "Intern",
+            "exp": "Jan 2022 - Jul 2022 \u00b7 7 mos",
+            "small": "LYNK logistics \u00b7 Internship\nChennai, Tamil Nadu, India",
+            "sub_exp": []
+        }
+    ],
+    "skills": [
+        "Debugging",
+        "SQL",
+        "Git",
+        "Apache Kafka",
+        "React.js",
+        "Go (Programming Language)",
+        "Data Structures",
+        "C (Programming Language)",
+        "C++",
+        "Algorithms",
+        "Object-Oriented Programming (OOP)",
+        "Analytical Skills",
+        "Python (Programming Language)",
+        "Java",
+        "HTML5",
+        "Cascading Style Sheets (CSS)",
+        "JavaScript",
+        "Communication",
+        "Database Management System (DBMS)"
+    ],
+    "awards": null,
+    "volunteering": null,
+    "publications": null,
+    "education": [
+        {
+            "big": "California State University, Long Beach",
+            "mid": "Master's degree, Computer Science",
+            "dur": "Aug 2023 - Aug 2025",
+            "img_src": "https://media.licdn.com/dms/image/C560BAQGiEbGtjE1o_w/company-logo_100_100/0/1631423239118/california_state_university_long_beach_logo?e=1718236800&v=beta&t=lcZIJCHQltttbdgEV4qVOSMolmO6gPJnoKxcEdOsgUs",
+            "desc": null
+        },
+        {
+            "big": "SSN College of Engineering",
+            "mid": "Bachelor of Technology - BTech, Information Technology",
+            "dur": "2018 - 2022",
+            "img_src": "https://media.licdn.com/dms/image/C510BAQHjX1EVumFLhA/company-logo_100_100/0/1631359924922?e=1718236800&v=beta&t=69WXfi7qqxg2lKe_V-lp4VUXxaTVi4JZsbbi6kz3-kc",
+            "desc": null
+        }
+    ]
+}
