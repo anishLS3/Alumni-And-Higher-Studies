@@ -1,0 +1,12 @@
+Here's how you set it up:
+1) Download & extract all the files.
+2) Keep MongoDB open, and go to the data folder in the app. 
+3) Delete existing ProfileDB (database name) in MongoDB.
+4) Run dataLoader.py 
+5) If you get any missing package error, just pip install that package. 
+    Keep doing this until you install the necessary packages.
+6) After execution, check once in MongoDB whether everything is loaded.
+7) cd to alumnator_api, and execute "npm run dev"
+8) cd to alumnator, and execute "npm run dev"
+9) If you get any error in Steps 7-8, then delete the node_modules folder 
+    in the respective directory (alumnator_api / alumnator), and perform "npm install".
